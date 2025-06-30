@@ -126,3 +126,22 @@ jobs:
     - name: Check Unicode characters
       run: |
         ./scripts/check-unicode-characters.sh
+        
+  deploy-to-pages:
+    runs-on: ubuntu-latest
+    needs: [build-html, check-links, check-linting, check-redirects, check-spelling, check-unicode-characters]
+    steps:
+    - uses: actions/checkout@v4
+    - name: Dowload html artifact
+      uses: actions/download-artifact@v4
+      with:
+        name: gm0-html
+        path: build/html/
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3.9.3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_branch: gh-pages
+        publish_dir: build/html/
+        force_orphan: true
+        keep_files: false
