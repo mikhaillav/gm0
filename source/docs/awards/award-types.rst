@@ -64,7 +64,7 @@ There are 7 awards for FTC\ |reg| teams (excluding optional awards). For more in
       In addition, Control Award software is more then just your autonomous mode programs. Driver assistance, feedback, and automation all are vital to the Control Award.
 
       Official Game Manual Description
-         The Control Award celebrates a Team that uses sensors and software to increase the Robot’s functionality in the field. This award is given to the Team that demonstrates innovative thinking to solve game challenges such as autonomous operation, improving mechanical systems with intelligent control, or using sensors to achieve better results. The control component should work consistently in the field. The Team’s engineering portfolio must contain a summary of the software, sensors, and mechanical control, but would likely not include copies of the code itself.
+         The Control Award celebrates a Team that uses sensors and software to increase the Robot's functionality in the field. This award is given to the Team that demonstrates innovative thinking to solve game challenges such as autonomous operation, improving mechanical systems with intelligent control, or using sensors to achieve better results. The control component should work consistently in the field. The Team’s engineering portfolio must contain a summary of the software, sensors, and mechanical control, but would likely not include copies of the code itself.
 
    Motivate Award
       The Motivate Award is one of the two outreach awards. It's for teams that work with their local and *FIRST* community. Unfortunately, the line between the :term:`Connect Award <Connect Award>` and Motivate Award can be vague, and most judges don't know how to differentiate which outreach falls under which award.
@@ -122,7 +122,7 @@ There are some awards that events are not required to present; these do not adva
       The Judges Choice Award is meant to recognize a team that doesn't fit into any of the existing award categories, but the judges still felt the team deserved to win an award for their outstanding effort or other experience. This award is very subjective, and doesn't advance teams. It is also optional to give at every competition, but in some regions given at every competition unless the judges don't find a deserving team.
 
    Compass Award
-      The Compass Award is an optional award that is usually given only at state championships and world championships. This award does not require an engineering portfolio to win, but does not advance teams. It’s submitted as a video no longer than 1 minute. The Compass Award is for recognizing an outstanding mentor. Submitting this award is usually done on a case-by-case basis, where the event organizer sends teams instructions on how to submit.
+      The Compass Award is an optional award that is usually given only at state championships and world championships. This award does not require an engineering portfolio to win, but does not advance teams. It's submitted as a video no longer than 1 minute. The Compass Award is for recognizing an outstanding mentor. Submitting this award is usually done on a case-by-case basis, where the event organizer sends teams instructions on how to submit.
 
       Some good Compass award submissions include:
 
