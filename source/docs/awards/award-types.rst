@@ -34,17 +34,17 @@ The team that receives this award is a strong ambassador for FIRST programs and 
 
 A portfolio is required for this award. The Inspire Award is the top award for an FTC team. It is given to a team that consistently rises to the top in other awards categories.
 
-Inspire Award Criteria:
-^^^^^^^^^^^^^^^^^^^^^^^
+Inspire Award Criteria
+^^^^^^^^^^^^^^^^^^^^^^
 
 +--------------+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Required** | 1 | Team must submit a PORTFOLIO.                                                                                                                                                             |
 +--------------+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Required** | 2 | The Inspire Award celebrates the strongest qualities of all the judged awards. A team must be a strong contender for at least one award in each of the following judged award categories: |
 |              |   |                                                                                                                                                                                           |
-|              |   |   A. Machine, Creativity, and Innovation Awards,                                                                                                                                          |
-|              |   |   B. Team Attributes Awards, and                                                                                                                                                          |
-|              |   |   C. Think Award.                                                                                                                                                                         |
+|              |   | A. Machine, Creativity, and Innovation Awards,                                                                                                                                            |
+|              |   | B. Team Attributes Awards, and                                                                                                                                                            |
+|              |   | C. Think Award.                                                                                                                                                                           |
 +--------------+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Required** | 3 | Team must be positive and inclusive, and each team member contribute to the success of the team.                                                                                          |
 +--------------+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -63,17 +63,22 @@ A portfolio is required for this award. The Think Award is based entirely on the
 
 In addition, the portfolio should be well laid out and contain information on various non-technical aspects of the team, such as plan how and from where they get new skills, how they recruit people into FIRST, how the team tracks goal settings and task execution during the season. While these categories aren't as strictly important as robot documentation, they are generally recommended for a strong |EP|.
 
+Think Award Criteria
+^^^^^^^^^^^^^^^^^^^^
+
 +----------------+---+----------------------------------------------------------------------------------------------------------------------------+
 | **Required**   | 1 | Team must submit a PORTFOLIO. The PORTFOLIO must include engineering content which includes at least one of the following: |
-|                |   |   A. evidence of use of the engineering process                                                                            |
-|                |   |   B. lessons learned and implemented related to the design of their ROBOT                                                  |
-|                |   |   C. trade off analysis / cost benefit analysis                                                                            |
-|                |   |   D. mathematical analysis used to make design decisions                                                                   |
+|                |   |                                                                                                                            |
+|                |   | A. evidence of use of the engineering process                                                                              |
+|                |   | B. lessons learned and implemented related to the design of their ROBOT                                                    |
+|                |   | C. trade off analysis / cost benefit analysis                                                                              |
+|                |   | D. mathematical analysis used to make design decisions                                                                     |
 +----------------+---+----------------------------------------------------------------------------------------------------------------------------+
 | **Encouraged** | 2 | Team PORTFOLIO may include information about resources which includes any number of the following examples:                |
-|                |   |   A. how the team learns from team mentors, and/or a development plan for team members to learn new skills                 |
-|                |   |   B. how the team recruited new people into FIRST                                                                          |
-|                |   |   C. how the team identified goals and tracked progress towards their goals throughout the season                          |
+|                |   |                                                                                                                            |
+|                |   | A. how the team learns from team mentors, and/or a development plan for team members to learn new skills                   |
+|                |   | B. how the team recruited new people into FIRST                                                                            |
+|                |   | C. how the team identified goals and tracked progress towards their goals throughout the season                            |
 +----------------+---+----------------------------------------------------------------------------------------------------------------------------+
 | **Encouraged** | 3 | PORTFOLIO information is organized in a clear and intuitive manner                                                         |
 +----------------+---+----------------------------------------------------------------------------------------------------------------------------+
@@ -90,9 +95,18 @@ A portfolio is required for this award, and should contain descriptions of the t
 
 Be prepared for judges to ask you how your outreaches were meaningful, and try to avoid doing STEM outreaches just for the sake of saying you did a STEM outreach. Successful STEM outreaches are those that are undertaken for a specific purpose and have a clear intent and goal, such as meeting with an expert on computer vision to ask for advice on a vision task for the game. If you are struggling to find STEM outreaches, local colleges and businesses are a good start.
 
-.. image:: images/award-types/connect-criteria.png
-   :alt: Connect Award Criteria
-   :width: 100%
+Connect Award Criteria
+^^^^^^^^^^^^^^^^^^^^^^
+
++----------------+---+----------------------------------------------------------------------------------------------------------------------------------------+
+| **Required**   | 1 | Team must describe, display, or document a team plan that covers all of the following:                                                 |
+|                |   | A. The team's goals for the development of team member skills, and                                                                     |
+|                |   | B. The steps the team has taken or will take to reach those goals                                                                      |
++----------------+---+----------------------------------------------------------------------------------------------------------------------------------------+
+| **Encouraged** | 2 | Provide examples of developing in person or virtual connections with individuals in the engineering, science, or technology community. |
++----------------+---+----------------------------------------------------------------------------------------------------------------------------------------+
+| **Encouraged** | 3 | Provide examples of how it actively engages with the engineering community.                                                            |
++----------------+---+----------------------------------------------------------------------------------------------------------------------------------------+
 
 
 The core of this award is depth, purpose, and learning, not just quantity.
@@ -126,9 +140,18 @@ This award celebrates a team that has introduced and recruited new people into F
 
 Starting from DECODE season, the Motivate Award is divided into Reach and Sustain Awards. Reach Award includes outreach objectives and how it affects FIRST community as well as how team recruitment new teams/coaches/mentors/volunteers who were not previously involved in FIRST.
 
-.. image:: images/award-types/reach-criteria.png
-   :alt: Reach Award Criteria
-   :width: 100%
+Reach Award Criteria
+^^^^^^^^^^^^^^^^^^^^
+
++----------------+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ 
+| **Required**   | 1 | Team must discuss, describe, display, or document their outreach objectives and how their outreach activities support the FIRST community                                                     |
++----------------+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Required**   | 2 | Team must discuss, describe, display, or document their successful recruitment of new teams, or coaches, or mentors and/or volunteers who are not otherwise active within the FIRST community |                                                           |
++----------------+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Encouraged** | 3 | Is an ambassador for FIRST programs in a way that makes FIRST loud                                                                                                                            |
++----------------+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Encouraged** | 4 | Has a creative and evolving approach to outreach materials that market their team and FIRST                                                                                                   |
++----------------+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 This award is about growth, inclusion, and creating new FIRST enthusiasts.
