@@ -184,11 +184,11 @@ Sustainability and planning are essential for a FIRST team, because they ensure 
 
 The next Award which was previously included in the Motivate Award is Sustain. This Award answers the question "How will your team exist in the future and what are you doing to make it happen?".
 
-Reach Award Criteria
-^^^^^^^^^^^^^^^^^^^^
+Sustain Award Criteria
+^^^^^^^^^^^^^^^^^^^^^^
 
 +----------------+---+-----------------------------------------------------------------------------------------------------------------------+
-| ** Required**  | 1 | Team must discuss, describe, display, or document their plan(s) which includes at least one of the following:         |
+| **Required**   | 1 | Team must discuss, describe, display, or document their plan(s) which includes at least one of the following:         |
 |                |   | A. finances and financial sustainability plan,                                                                        |
 |                |   | B. season project planning, and/or                                                                                    |
 |                |   | C. team sustainability plans and/or objectives.                                                                       |
