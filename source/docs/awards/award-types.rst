@@ -1,7 +1,7 @@
 .. include:: <isonum.txt>
-	
-** Types of Awards **
-======================
+
+Types of Awards
+===============
 
 ** Advancing Awards **
 ----------------------
