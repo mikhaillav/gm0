@@ -4,7 +4,7 @@ Types of Awards
 ===============
 
 Advancing Awards
-----------------------
+----------------
 
 
 There are 8 awards for  FTC\  |reg|  teams (excluding optional awards). For more information on the exact requirements for these awards, see |CM|.
@@ -42,7 +42,8 @@ A portfolio is required for this award. The Inspire Award is the top award for a
 Think Award
 ~~~~~~~~~~~
 
-**Official |CM| Description:**
+Official |CM| Description:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This judged award is given to the team that best reflects the journey the team took as they experienced their season. The content within the PORTFOLIO is the key reference for JUDGES to help identify the most deserving team. The team could share or provide additional detailed information that is helpful for the JUDGES.
 
@@ -58,7 +59,8 @@ In addition, the portfolio should be well laid out and contain information on va
 Connect Award
 ~~~~~~~~~~~~~
 
-**Official |CM| Description:**
+Official |CM| Description:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This judged award is given to the team that connects with their local science, technology, engineering, and math (STEM) community to learn and adopt new tools through effort and persistence. This team has a team plan and has identified steps to achieve their goals. A PORTFOLIO is not required for this award.
 
@@ -95,7 +97,8 @@ The core of this award is depth, purpose, and learning, not just quantity.
 Reach Award
 ~~~~~~~~~~~
 
-**Official |CM| Description:**
+Official |CM| Description:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This award celebrates a team that has introduced and recruited new people into FIRST. Through their efforts, they have sparked others to embrace the FIRST culture. A PORTFOLIO is not required for this award.
 
@@ -129,7 +132,8 @@ This award is about growth, inclusion, and creating new FIRST enthusiasts.
 Sustain Award
 ~~~~~~~~~~~~~
 
-**Official |CM| Description**
+Official |CM| Description:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Sustainability and planning are essential for a FIRST team, because they ensure the program's long-term success. This award celebrates the team that has considered their future team members and has worked to ensure that their team or program will continue to exist long after they have gone on to develop their careers. A PORTFOLIO is not required for this award.
 
@@ -177,7 +181,8 @@ This award is about systems, processes, and forward-thinking to ensure the team 
 Innovate Award
 ~~~~~~~~~~~~~~
 
-**Official |CM| Description:**
+Official |CM| Description:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The Innovate Award celebrates a team that thinks imaginatively and has the ingenuity, creativity, and inventiveness to make their designs come to life. This judged award is given to the team that has an innovative and creative ROBOT design solution to any specific components in the FIRST Tech Challenge game. Elements of this award include design, robustness, and creative thinking related to design. This award may address the design of the whole ROBOT or of a MECHANISM attached to the ROBOT and should work consistently during MATCHES, but does not have to work all the time to be considered for this award. A PORTFOLIO is not required for this award.
 
@@ -197,7 +202,8 @@ The |EP| should contain information on your robot's mechanisms, and your present
 Control Award
 ~~~~~~~~~~~~~
 
-**Official |CM| Description:**
+Official |CM| Description:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The Control Award celebrates a team that uses sensors and software to increase the ROBOT'S functionality during gameplay. This award is given to the team that demonstrates innovative thinking and solutions to solve game challenges such as autonomous operation, improving mechanical systems with intelligent control, or using sensors to achieve better results. The solution(s) should work consistently during MATCHES but does not have to work all the time. Solutions considered for this award are not solely limited to the AUTO period of the MATCH and may also be used during TELEOP. The team's PORTFOLIO must contain a summary of the software, sensors, and mechanical control but would not include copies of the code itself.
 
@@ -215,7 +221,8 @@ In addition, control award software is more then just your autonomous mode progr
 Design Award
 ~~~~~~~~~~~~
 
-**Official |CM| Description:**
+Official |CM| Description:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The Design Award celebrates the team that demonstrates an understanding of industrial design principles by striking a balance between form, function, and aesthetics while meeting the needs of this season's challenge. The design process used should result in a ROBOT which is efficiently designed and effectively addresses the game challenge. A PORTFOLIO is not required for this award.
 
@@ -243,7 +250,8 @@ There are some awards that events are not required to present; these do not adva
 Dean's List Award
 ~~~~~~~~~~~~~~~~~
 
-**Official |CM| Description:**
+Official |CM| Description:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 In an effort to recognize the leadership and dedication of the most outstanding secondary school STUDENTS from FIRST, the Kamen family sponsors awards for selected 10th or 11th grade STUDENTS known as the FIRST Tech Challenge FIRST Dean's List Award. The STUDENTS who earn FIRST Dean's List status as a semi-finalist, finalist or winner, are great examples of current STUDENT leaders who have led their teams and communities to increased awareness for FIRST and its mission, champion FIRST Core Values such as Inclusion, and embody Gracious Professionalism\ |reg| . It is the goal of FIRST that these individuals will continue, post-award, as great leaders, STUDENT alumni, and advocates of FIRST. Please visit the Dean's List Award Website to see complete award submission details and to see past FIRST Tech Challenge winners. For regions of the world that do not use grade levels such as this to identify years of schooling: This award is intended for STUDENTS who are two (2) to three (3) years away from entering college or university. STUDENTS that would be attending college or university in the next academic year are not eligible. Mentors will be asked for the year of graduation during the nomination process.
 
@@ -270,7 +278,8 @@ There are three (3) "categories" of FIRST Dean's List Award students:
 Compass Award
 ~~~~~~~~~~~~~
 
-**Official |CM| Description:**
+Official |CM| Description:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This is an optional award and is only offered at the Regional Championship tournament level of competition. All teams attending FIRST Championship will have an opportunity to submit for this award. The Compass Award recognizes an adult coach or mentor who has given outstanding guidance and support to a team throughout the year and demonstrates to the team what it means to be a Gracious Professional. The winner of the Compass Award will be chosen from candidates nominated by FIRST Tech Challenge STUDENT team members, via a 40-60 second video submission. The video must highlight how their mentor has helped them become an inspirational team. The video should emphasize what sets the mentor apart.
 
