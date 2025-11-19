@@ -1,9 +1,9 @@
 Advancing Awards
 ================
 
-There are 8 awards for FTC\ |reg| teams (excluding optional awards). For more information on the exact requirements for these awards, see Competition Manual.
+There are 8 awards for  FTC\ |reg| teams (excluding optional awards). For more information on the exact requirements for these awards, see |CM|.
 
-.. image:: images/awards/award-hierarchy.png
+.. image:: images/award-types/award-hierarchy.png
    :alt: : Award hierarchy
    :width: 100%
 
@@ -21,13 +21,13 @@ Of all the awards, this one is arguably the most subjective, as it is about how 
 Inspire Award
 -------------
 
-**Official Competition Manual Description:**
+**Official |CM| Description:**
 
 The team that receives this award is a strong ambassador for FIRST programs and a role model FIRST team. This team is a top contender for many other judged awards and is a gracious competitor. The Inspire Award winner is an inspiration to other teams, acting with Gracious Professionalism\ |reg| both on and off the playing FIELD. This team shares their experiences, enthusiasm, and knowledge with other teams, sponsors, their community, and the JUDGES. Working as a unit, this team will have shown success in performing the task of designing and building a ROBOT.
 
 A portfolio is required for this award. The Inspire Award is the top award for an FTC team. It is given to a team that consistently rises to the top in other awards categories.
 
-.. image:: images/awards/inspire-criteria.png
+.. image:: images/award-types/inspire-criteria.png
    :alt: : Inspire Award Criteria
    :width: 100%
 
@@ -35,15 +35,15 @@ A portfolio is required for this award. The Inspire Award is the top award for a
 Think Award
 -----------
 
-**Official Competition Manual Description:**
+**Official |CM| Description:**
 
 This judged award is given to the team that best reflects the journey the team took as they experienced their season. The content within the PORTFOLIO is the key reference for JUDGES to help identify the most deserving team. The team could share or provide additional detailed information that is helpful for the JUDGES.
 
-A portfolio is required for this award. The Think Award is based entirely on the Engineering Portfolio. In order to have a chance at winning, the Engineering Portfolio should include as much math and physics as possible, document the entire journey of the robot through iterations, and other documentation of design and game strategy.
+A portfolio is required for this award. The Think Award is based entirely on the |EP|. In order to have a chance at winning, the |EP| should include as much math and physics as possible, document the entire journey of the robot through iterations, and other documentation of design and game strategy.
 
-In addition, the portfolio should be well laid out and contain information on various non-technical aspects of the team, such as plan how and from where they get new skills, how they recruit people into FIRST, how the team tracks goal settings and task execution during the season. While these categories aren't as strictly important as robot documentation, they are generally recommended for a strong engineering portfolio.
+In addition, the portfolio should be well laid out and contain information on various non-technical aspects of the team, such as plan how and from where they get new skills, how they recruit people into FIRST, how the team tracks goal settings and task execution during the season. While these categories aren't as strictly important as robot documentation, they are generally recommended for a strong |EP|.
 
-.. image:: images/awards/think-criteria.png
+.. image:: images/award-types/think-criteria.png
    :alt: : Think Award Criteria
    :width: 100%
 
@@ -51,7 +51,7 @@ In addition, the portfolio should be well laid out and contain information on va
 Connect Award
 -------------
 
-**Official Competition Manual Description:**
+**Official |CM| Description:**
 
 This judged award is given to the team that connects with their local science, technology, engineering, and math (STEM) community to learn and adopt new tools through effort and persistence. This team has a team plan and has identified steps to achieve their goals. A PORTFOLIO is not required for this award.
 
@@ -59,7 +59,7 @@ A portfolio is required for this award, and should contain descriptions of the t
 
 Be prepared for judges to ask you how your outreaches were meaningful, and try to avoid doing STEM outreaches just for the sake of saying you did a STEM outreach. Successful STEM outreaches are those that are undertaken for a specific purpose and have a clear intent and goal, such as meeting with an expert on computer vision to ask for advice on a vision task for the game. If you are struggling to find STEM outreaches, local colleges and businesses are a good start.
 
-.. image:: images/awards/connect-criteria.png
+.. image:: images/award-types/connect-criteria.png
    :alt: : Connect Award Criteria
    :width: 100%
 
@@ -69,7 +69,7 @@ The core of this award is depth, purpose, and learning, not just quantity.
 **Focus on the "Why," Not Just the "What."** For every STEM connection, be prepared to answer:
 
 - Why did you reach out to this specific person or organization? (e.g., "We needed help with a persistent odometry error, so we contacted a local university's robotics lab.")
-- What did you learn from them? (e.g., "They taught us about sensor fusion, which we implemented and documented in our engineering portfolio.")
+- What did you learn from them? (e.g., "They taught us about sensor fusion, which we implemented and documented in our |EP|.")
 - How did it change your approach? (e.g., "This conversation led us to redesign our dead wheel assembly, improving our accuracy by 40%.")
 
 **Document the Relationship, Not Just the Event.** Don't just list "Visited XYZ Engineering." Create a small case study for key connections. Include:
@@ -88,13 +88,13 @@ The core of this award is depth, purpose, and learning, not just quantity.
 Reach Award
 -----------
 
-**Official Competition Manual Description:**
+**Official |CM| Description:**
 
 This award celebrates a team that has introduced and recruited new people into FIRST. Through their efforts, they have sparked others to embrace the FIRST culture. A PORTFOLIO is not required for this award.
 
 Starting from DECODE season, the Motivate Award is divided into Reach and Sustain Awards. Reach Award includes outreach objectives and how it affects FIRST community as well as how team recruitment new teams/coaches/mentors/volunteers who were not previously involved in FIRST.
 
-.. image:: images/awards/reach-criteria.png
+.. image:: images/award-types/reach-criteria.png
    :alt: : Reach Award Criteria
    :width: 100%
 
@@ -122,13 +122,13 @@ This award is about growth, inclusion, and creating new FIRST enthusiasts.
 Sustain Award
 -------------
 
-**Official Competition Manual Description**
+**Official |CM|Description**
 
 Sustainability and planning are essential for a FIRST team, because they ensure the program's long-term success. This award celebrates the team that has considered their future team members and has worked to ensure that their team or program will continue to exist long after they have gone on to develop their careers. A PORTFOLIO is not required for this award.
 
 The next Award which was previously included in the Motivate Award is Sustain. This Award answers the question "How will your team exist in the future and what are you doing to make it happen?".
 
-.. image:: images/awards/sustain-criteria.png
+.. image:: images/award-types/sustain-criteria.png
    :alt: : Sustain Award Criteria
    :width: 100%
 
@@ -163,14 +163,14 @@ Tips for Connect, Reach & Sustain
 - Present numbers, but only emphasize them if they're large with a wow factor
 - Make sure your numbers are somewhat accurate! If you are at a large event, you can get a rough headcount from the organizers, but its generally better to know roughly how many people actually stopped and looked at your team.
 - Present stories to the judges, not just overviews. Tell personal stories.
-- Log all your outreach events, with who went and how many hours each person did in its own place separate from the engineering portfolio. This makes it easier to compile total numbers and shows the judges every outreach activity/event in one place.
+- Log all your outreach events, with who went and how many hours each person did in its own place separate from the |EP|. This makes it easier to compile total numbers and shows the judges every outreach activity/event in one place.
 - For a bigger impact make sure you have more resources then just your team's information at an event, having details for FIRST Lego League teams in addition to your FIRST Tech Challenge information can broaden how many people you reach.
 - Follow up, follow up, follow up! If a person gives you a business card or a student expresses interest, it doesn't hurt to follow up if they don't reach out as promised. People can forget or get busy, sometimes a reminder is useful!
 
 Innovate Award
 --------------
 
-**Official Competition Manual Description:**
+**Official |CM| Description:**
 
 The Innovate Award celebrates a team that thinks imaginatively and has the ingenuity, creativity, and inventiveness to make their designs come to life. This judged award is given to the team that has an innovative and creative ROBOT design solution to any specific components in the FIRST Tech Challenge game. Elements of this award include design, robustness, and creative thinking related to design. This award may address the design of the whole ROBOT or of a MECHANISM attached to the ROBOT and should work consistently during MATCHES, but does not have to work all the time to be considered for this award. A PORTFOLIO is not required for this award.
 
@@ -180,9 +180,9 @@ The Innovate award is mainly for hardware, but some teams have been able to also
 
 While it may be tempting to sell your entire robot as innovative, it is often much more effective to focus on one or two aspects of your robot instead. Judges will often ask what the most innovative part of your robot is, and this is your opportunity to focus in on the one or two mechanisms that you can sell.
 
-The engineering portfolio should contain information on your robot's mechanisms, and your presentation should also mention the innovative parts of your robot. However, refrain from over describing the mechanisms you intend to sell as innovative, as you want to leave room for the judges to ask questions, which gives you more opportunities and time to sell your mechanisms. In addition, practice what aspects of the mechanisms you want to sell as innovative, and make sure you are able to thoroughly describe why they are innovative when asked.
+The |EP| should contain information on your robot's mechanisms, and your presentation should also mention the innovative parts of your robot. However, refrain from over describing the mechanisms you intend to sell as innovative, as you want to leave room for the judges to ask questions, which gives you more opportunities and time to sell your mechanisms. In addition, practice what aspects of the mechanisms you want to sell as innovative, and make sure you are able to thoroughly describe why they are innovative when asked.
 
-.. image:: images/awards/innovate-criteria.png
+.. image:: images/award-types/innovate-criteria.png
    :alt: : Innovate Award Criteria
    :width: 100%
 
@@ -190,7 +190,7 @@ The engineering portfolio should contain information on your robot's mechanisms,
 Control Award
 -------------
 
-**Official Competition Manual Description:**
+**Official |CM| Description:**
 
 The Control Award celebrates a team that uses sensors and software to increase the ROBOT'S functionality during gameplay. This award is given to the team that demonstrates innovative thinking and solutions to solve game challenges such as autonomous operation, improving mechanical systems with intelligent control, or using sensors to achieve better results. The solution(s) should work consistently during MATCHES but does not have to work all the time. Solutions considered for this award are not solely limited to the AUTO period of the MATCH and may also be used during TELEOP. The team's PORTFOLIO must contain a summary of the software, sensors, and mechanical control but would not include copies of the code itself.
 
@@ -200,7 +200,7 @@ Do not directly put code into your portfolio, the judges will not care. Instead,
 
 In addition, control award software is more then just your autonomous mode programs. Driver assistance, feedback, and automation all are vital to the control award.
 
-.. image:: images/awards/control-criteria.png
+.. image:: images/award-types/control-criteria.png
    :alt: : Control Award Criteria
    :width: 100%
 
@@ -208,17 +208,17 @@ In addition, control award software is more then just your autonomous mode progr
 Design Award
 ------------
 
-**Official Competition Manual Description:**
+**Official |CM| Description:**
 
 The Design Award celebrates the team that demonstrates an understanding of industrial design principles by striking a balance between form, function, and aesthetics while meeting the needs of this season's challenge. The design process used should result in a ROBOT which is efficiently designed and effectively addresses the game challenge. A PORTFOLIO is not required for this award.
 
 The Design Award is one of the robot awards that primarily focuses on the hardware aspect of the robot. It is for robots that are both functional, aesthetic, and use good design practices, including CAD.
 
-In order to be considered for the Design Award, it's recommended that your team uses CAD and designs the robot before it is built, with engineering portfolio sections about the development of the robot through iterations of the engineering design process. Its important to include CAD screenshots and drawings in your portfolio, and your design should be consistent with any team goals listed.
+In order to be considered for the Design Award, it's recommended that your team uses CAD and designs the robot before it is built, with |EP| sections about the development of the robot through iterations of the engineering design process. Its important to include CAD screenshots and drawings in your portfolio, and your design should be consistent with any team goals listed.
 
 While functionality is what most teams focus on, the Design Award also takes into account aesthetics, and most judges will generally be turned off by an ugly robot for this award (no cardboard on the robot!), so make sure your robot looks presentable.
 
-.. image:: images/awards/design-criteria.png
+.. image:: images/award-types/design-criteria.png
    :alt: : Design Award Criteria
    :width: 100%
 
@@ -236,7 +236,7 @@ There are some awards that events are not required to present; these do not adva
 Dean's List Award
 -----------------
 
-**Official Competition Manual Description:**
+**Official |CM| Description:**
 
 In an effort to recognize the leadership and dedication of the most outstanding secondary school STUDENTS from FIRST, the Kamen family sponsors awards for selected 10th or 11th grade STUDENTS known as the FIRST Tech Challenge FIRST Dean's List Award. The STUDENTS who earn FIRST Dean's List status as a semi-finalist, finalist or winner, are great examples of current STUDENT leaders who have led their teams and communities to increased awareness for FIRST and its mission, champion FIRST Core Values such as Inclusion, and embody Gracious Professionalism\ |reg| . It is the goal of FIRST that these individuals will continue, post-award, as great leaders, STUDENT alumni, and advocates of FIRST. Please visit the Dean's List Award Website to see complete award submission details and to see past FIRST Tech Challenge winners. For regions of the world that do not use grade levels such as this to identify years of schooling: This award is intended for STUDENTS who are two (2) to three (3) years away from entering college or university. STUDENTS that would be attending college or university in the next academic year are not eligible. Mentors will be asked for the year of graduation during the nomination process.
 
@@ -263,7 +263,7 @@ There are three (3) "categories" of FIRST Dean's List Award students:
 Compass Award
 -------------
 
-**Official Competition Manual Description:**
+**Official |CM| Description:**
 
 This is an optional award and is only offered at the Regional Championship tournament level of competition. All teams attending FIRST Championship will have an opportunity to submit for this award. The Compass Award recognizes an adult coach or mentor who has given outstanding guidance and support to a team throughout the year and demonstrates to the team what it means to be a Gracious Professional. The winner of the Compass Award will be chosen from candidates nominated by FIRST Tech Challenge STUDENT team members, via a 40-60 second video submission. The video must highlight how their mentor has helped them become an inspirational team. The video should emphasize what sets the mentor apart.
 
