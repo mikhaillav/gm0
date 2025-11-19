@@ -261,7 +261,7 @@ There are three (3) "categories" of FIRST Dean's List Award students:
 
    Officially the semi-finalists from a team are chosen by a coach. But it's not forbidden to make a voting in a team to choose the best candidates.
 
-   The coach/dean's submittor is required to fill the form on firstinspires.org in dashboard where essays and some personal information about the students are attached. Every year FIRST sets a deadline till which you can nominate candidates. You can find nominative instruction and more information `here <https://info.firstinspires.org/hubfs/web/program/ftc/deans-list-nomination-guide.pdf>`_:highlight:`*`
+   The coach/dean's submittor is required to fill the form on firstinspires.org in dashboard where essays and some personal information about the students are attached. Every year FIRST sets a deadline till which you can nominate candidates. You can find nominative instruction and more information `here <https://info.firstinspires.org/hubfs/web/program/ftc/deans-list-nomination-guide.pdf>`_
 
 2. **FIRST Dean's List Finalists** - comprised of the students (2, 3, or 4, depending on the region) selected at each State/Regions Championship.
 
@@ -271,7 +271,7 @@ There are three (3) "categories" of FIRST Dean's List Award students:
 
    During the interview, please remember that it is about YOU, your contributions, leadership, etc. in relation to the criteria of the award. For example, if you are discussing accomplishments of your team as a whole, make sure to specify how your individual efforts were vital in the success of those accomplishments. Do not be shy about sharing your personal successes!
 
-   The number of semi-finalists that will move onto the next level as finalists depends upon the region. Regions with larger team numbers will have additional spots to advance students based on the previous year's registration numbers. You can find number of advancing finalist by region `here <https://info.firstinspires.org/hubfs/web/program/ftc/deans-list-nomination-guide.pdf>`_:highlight:`*`
+   The number of semi-finalists that will move onto the next level as finalists depends upon the region. Regions with larger team numbers will have additional spots to advance students based on the previous year's registration numbers. You can find number of advancing finalist by region `here <https://info.firstinspires.org/hubfs/web/program/ftc/deans-list-nomination-guide.pdf>`_
 
 3. **FIRST Dean's List Winners** - comprised of the ten (10) FIRST Robotics Competition and ten (10) FIRST Tech Challenge students selected from the applicable FIRST Dean's List Finalists at the FIRST Championship.
 
