@@ -168,15 +168,15 @@ This award is about systems, processes, and forward-thinking to ensure the team 
 - Training: Skill-building workshops (CAD, Java, soldering).
 - Retention: Fun, non-competitive build projects or community service events.
 
-.. tip:: for Connect, Reach & Sustain
+.. tip::
   Tips for Connect, Reach & Sustain
 
-    - Present numbers, but only emphasize them if they're large with a wow factor
-    - Make sure your numbers are somewhat accurate! If you are at a large event, you can get a rough headcount from the organizers, but its generally better to know roughly how many people actually stopped and looked at your team.
-    - Present stories to the judges, not just overviews. Tell personal stories.
-    - Log all your outreach events, with who went and how many hours each person did in its own place separate from the |EP|. This makes it easier to compile total numbers and shows the judges every outreach activity/event in one place.
-    - For a bigger impact make sure you have more resources then just your team's information at an event, having details for FIRST Lego League teams in addition to your FIRST Tech Challenge information can broaden how many people you reach.
-    - Follow up, follow up, follow up! If a person gives you a business card or a student expresses interest, it doesn't hurt to follow up if they don't reach out as promised. People can forget or get busy, sometimes a reminder is useful!
+  - Present numbers, but only emphasize them if they're large with a wow factor
+  - Make sure your numbers are somewhat accurate! If you are at a large event, you can get a rough headcount from the organizers, but its generally better to know roughly how many people actually stopped and looked at your team.
+  - Present stories to the judges, not just overviews. Tell personal stories.
+  - Log all your outreach events, with who went and how many hours each person did in its own place separate from the |EP|. This makes it easier to compile total numbers and shows the judges every outreach activity/event in one place.
+  - For a bigger impact make sure you have more resources then just your team's information at an event, having details for FIRST Lego League teams in addition to your FIRST Tech Challenge information can broaden how many people you reach.
+  - Follow up, follow up, follow up! If a person gives you a business card or a student expresses interest, it doesn't hurt to follow up if they don't reach out as promised. People can forget or get busy, sometimes a reminder is useful!
 
 Innovate Award
 ~~~~~~~~~~~~~~
