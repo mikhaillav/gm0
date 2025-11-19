@@ -3,7 +3,7 @@
 Advancing Awards
 ================
 
-There are 8 awards for  FTC\ |reg| teams (excluding optional awards). For more information on the exact requirements for these awards, see |CM|.
+There are 8 awards for  FTC\  |reg|  teams (excluding optional awards). For more information on the exact requirements for these awards, see |CM|.
 
 .. image:: images/award-types/award-hierarchy.png
    :alt: : Award hierarchy
@@ -18,7 +18,7 @@ These are:
 - **The Think Award** recognizes teams who masterfully document their team's process and ROBOT using their PORTFOLIO.
 - **Judges' Choice Award** recognizes a team whose unique efforts, performance, or dynamics merit recognition, but does not fit into any of the other award categories.
 
-Of all the awards, this one is arguably the most subjective, as it is about how good does a team does overall, including and how much they weigh outreach as compared to robot performance along with documentation.
+|CM| Of all the awards, this one is arguably the most subjective, as it is about how good does a team does overall, including and how much they weigh outreach as compared to robot performance along with documentation.
 
 Inspire Award
 -------------
@@ -124,7 +124,7 @@ This award is about growth, inclusion, and creating new FIRST enthusiasts.
 Sustain Award
 -------------
 
-**Official |CM|Description**
+**Official |CM| Description**
 
 Sustainability and planning are essential for a FIRST team, because they ensure the program's long-term success. This award celebrates the team that has considered their future team members and has worked to ensure that their team or program will continue to exist long after they have gone on to develop their careers. A PORTFOLIO is not required for this award.
 
@@ -291,7 +291,7 @@ This award, sponsored by Worcester Polytechnic Institute (WPI), celebrates STEAM
 Safety Animation Award
 ----------------------
 
-The 2025-26 theme for the Safety Animation Award, sponsored by UL Solutions, is: Unearth Safety! For this animation teams are invited to dig deep to uncover impactful ways to implement safe and sustainable practices. Use bold storytelling and imaginative artistry to create a memorable message that inspires responsible exploration and careful stewardship of our resources. More information can be found on the Safety webpage: https://www.firstinspires.org/robotics/frc/safety
+The 2025-26 theme for the Safety Animation Award, sponsored by UL Solutions, is: Unearth Safety! For this animation teams are invited to dig deep to uncover impactful ways to implement safe and sustainable practices. Use bold storytelling and imaginative artistry to create a memorable message that inspires responsible exploration and careful stewardship of our resources. More information can be found on the Safety `webpage <https://www.firstinspires.org/robotics/frc/safety>`_:highlight:`*`
 
 FIRST believes that teams that take the lead in developing safety programs and policies have a positive and lasting impact on each team member and mentor in addition to their communities and present and future workplaces. FIRST recognizes the teams that demonstrate safety throughout their programs and are deeply committed to developing a culture of safety.
 
