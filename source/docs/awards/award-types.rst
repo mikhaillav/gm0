@@ -34,18 +34,18 @@ The team that receives this award is a strong ambassador for FIRST programs and 
 
 A portfolio is required for this award. The Inspire Award is the top award for an FTC team. It is given to a team that consistently rises to the top in other awards categories.
 
-+--------------+---+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Required** | 1 | Team must submit a PORTFOLIO.                                                                                                                                                                                            |
-+--------------+---+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Required** | 2 | The Inspire Award celebrates the strongest qualities of all the judged awards. A team must be a strong contender for at least one award in each of the following judged award categories:**Perfect one objective first** |
-|              |   |   A. Machine, Creativity, and Innovation Awards,                                                                                                                                                                         |
-|              |   |   B. Team Attributes Awards, and                                                                                                                                                                                         |
-|              |   |   C. Think Award.                                                                                                                                                                                                        |
-+--------------+---+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Required** | 3 | Team must be positive and inclusive, and each team member contribute to the success of the team.                                                                                                                         |
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Required** | 4 | Team is able to describe, demonstrate, document, or display their experiences and knowledge to the JUDGES.                                                                                                               |
-+--------------+---+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++--------------+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Required** | 1 | Team must submit a PORTFOLIO.                                                                                                                                                             |
++--------------+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Required** | 2 | The Inspire Award celebrates the strongest qualities of all the judged awards. A team must be a strong contender for at least one award in each of the following judged award categories: |
+|              |   |   A. Machine, Creativity, and Innovation Awards,                                                                                                                                          |
+|              |   |   B. Team Attributes Awards, and                                                                                                                                                          |
+|              |   |   C. Think Award.                                                                                                                                                                         |
++--------------+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Required** | 3 | Team must be positive and inclusive, and each team member contribute to the success of the team.                                                                                          |
++--------------+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Required** | 4 | Team is able to describe, demonstrate, document, or display their experiences and knowledge to the JUDGES.                                                                                |
++--------------+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 Think Award
 ~~~~~~~~~~~
@@ -59,10 +59,20 @@ A portfolio is required for this award. The Think Award is based entirely on the
 
 In addition, the portfolio should be well laid out and contain information on various non-technical aspects of the team, such as plan how and from where they get new skills, how they recruit people into FIRST, how the team tracks goal settings and task execution during the season. While these categories aren't as strictly important as robot documentation, they are generally recommended for a strong |EP|.
 
-.. image:: images/award-types/think-criteria.png
-   :alt: : Think Award Criteria
-   :width: 100%
-
++----------------+---+----------------------------------------------------------------------------------------------------------------------------+
+| **Required**   | 1 | Team must submit a PORTFOLIO. The PORTFOLIO must include engineering content which includes at least one of the following: |
+|                |   |   A. evidence of use of the engineering process                                                                            |
+|                |   |   B. lessons learned and implemented related to the design of their ROBOT                                                  |
+|                |   |   C. trade off analysis / cost benefit analysis                                                                            |
+|                |   |   D. mathematical analysis used to make design decisions                                                                   |
++----------------+---+----------------------------------------------------------------------------------------------------------------------------+
+| **Encouraged** | 2 | Team PORTFOLIO may include information about resources which includes any number of the following examples:                |
+|                |   |   A. how the team learns from team mentors, and/or a development plan for team members to learn new skills                 |
+|                |   |   B. how the team recruited new people into FIRST                                                                          |
+|                |   |   C. how the team identified goals and tracked progress towards their goals throughout the season                          |
++----------------+---+----------------------------------------------------------------------------------------------------------------------------+
+| **Encouraged** | 3 | PORTFOLIO information is organized in a clear and intuitive manner                                                         |
++----------------+---+----------------------------------------------------------------------------------------------------------------------------+
 
 Connect Award
 ~~~~~~~~~~~~~
