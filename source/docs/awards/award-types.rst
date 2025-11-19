@@ -1,7 +1,12 @@
 .. include:: <isonum.txt>
 
-Advancing Awards
 ================
+Types of Awards 
+================
+
+** Advancing Awards ** 
+======================
+
 
 There are 8 awards for  FTC\  |reg|  teams (excluding optional awards). For more information on the exact requirements for these awards, see |CM|.
 
