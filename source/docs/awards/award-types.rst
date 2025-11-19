@@ -39,7 +39,7 @@ A portfolio is required for this award. The Inspire Award is the top award for a
 
 
 Think Award
------------
+~~~~~~~~~~~
 
 **Official |CM| Description:**
 
@@ -55,7 +55,7 @@ In addition, the portfolio should be well laid out and contain information on va
 
 
 Connect Award
--------------
+~~~~~~~~~~~~~
 
 **Official |CM| Description:**
 
@@ -92,7 +92,7 @@ The core of this award is depth, purpose, and learning, not just quantity.
 - Academic: Teachers and professors for foundational science and math.
 
 Reach Award
------------
+~~~~~~~~~~~
 
 **Official |CM| Description:**
 
@@ -126,7 +126,7 @@ This award is about growth, inclusion, and creating new FIRST enthusiasts.
 - Use the "FLL/FTC Pipeline" strategy: Have information for both programs. A 3rd grader can't join FTC, but they can get excited about FLL because of your demo.
 
 Sustain Award
--------------
+~~~~~~~~~~~~~
 
 **Official |CM| Description**
 
@@ -174,7 +174,7 @@ This award is about systems, processes, and forward-thinking to ensure the team 
     - Follow up, follow up, follow up! If a person gives you a business card or a student expresses interest, it doesn't hurt to follow up if they don't reach out as promised. People can forget or get busy, sometimes a reminder is useful!
 
 Innovate Award
---------------
+~~~~~~~~~~~~~~
 
 **Official |CM| Description:**
 
@@ -194,7 +194,7 @@ The |EP| should contain information on your robot's mechanisms, and your present
 
 
 Control Award
--------------
+~~~~~~~~~~~~~
 
 **Official |CM| Description:**
 
@@ -212,7 +212,7 @@ In addition, control award software is more then just your autonomous mode progr
 
 
 Design Award
-------------
+~~~~~~~~~~~~
 
 **Official |CM| Description:**
 
@@ -230,17 +230,17 @@ While functionality is what most teams focus on, the Design Award also takes int
 
 
 Judges Choice Award
--------------------
+~~~~~~~~~~~~~~~~~~~
 
 This award is optional and not given at all FIRST Tech Challenge events. During the competition, the judging panel may meet a team whose unique efforts, performance, or dynamics merit recognition, but does not fit into any of the other award categories. To recognize these unique teams, FIRST offers a Judges' Choice Award.
 
 Individual Awards
-=================
+-----------------
 
 There are some awards that events are not required to present; these do not advance teams.
 
 Dean's List Award
------------------
+~~~~~~~~~~~~~~~~~
 
 **Official |CM| Description:**
 
@@ -267,7 +267,7 @@ There are three (3) "categories" of FIRST Dean's List Award students:
 3. **FIRST Dean's List Winners** - comprised of the ten (10) FIRST Robotics Competition and ten (10) FIRST Tech Challenge students selected from the applicable FIRST Dean's List Finalists at the FIRST Championship.
 
 Compass Award
--------------
+~~~~~~~~~~~~~
 
 **Official |CM| Description:**
 
@@ -285,15 +285,15 @@ Some good Compass award submissions include:
 For more information on these awards, take a look at the specific section for each award in Competition Manual:
 
 Project-Based Global Awards
-===========================
+---------------------------
 
 Digital Animation Award
------------------------
+~~~~~~~~~~~~~~~~~~~~~~~
 
 This award, sponsored by Worcester Polytechnic Institute (WPI), celebrates STEAM (Science, Technology, Engineering, Art, and Mathematics) and emphasizes the ability to tell a story through animation that integrates technological, social, and humanistic concepts. The 2026 Digital Animation Award is offered to help encourage students to cultivate skills in design and creation of animation while telling a story about the impact of technology on society. This award is open to all FIRST Robotics Competition teams and FIRST Tech Challenge teams and is optional. More information can be found on the Digital Animation Award `webpage <https://www.firstinspires.org/resource-library/frc/digital-animation-award>`_:highlight:`*`
 
 Safety Animation Award
-----------------------
+~~~~~~~~~~~~~~~~~~~~~~
 
 The 2025-26 theme for the Safety Animation Award, sponsored by UL Solutions, is: Unearth Safety! For this animation teams are invited to dig deep to uncover impactful ways to implement safe and sustainable practices. Use bold storytelling and imaginative artistry to create a memorable message that inspires responsible exploration and careful stewardship of our resources. More information can be found on the Safety `webpage <https://www.firstinspires.org/robotics/frc/safety>`_:highlight:`*`
 
