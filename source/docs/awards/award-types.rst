@@ -164,15 +164,15 @@ This award is about systems, processes, and forward-thinking to ensure the team 
 - Training: Skill-building workshops (CAD, Java, soldering).
 - Retention: Fun, non-competitive build projects or community service events.
 
-Tips for Connect, Reach & Sustain
----------------------------------
+.. tip:: 
+  Tips for Connect, Reach & Sustain
 
-- Present numbers, but only emphasize them if they're large with a wow factor
-- Make sure your numbers are somewhat accurate! If you are at a large event, you can get a rough headcount from the organizers, but its generally better to know roughly how many people actually stopped and looked at your team.
-- Present stories to the judges, not just overviews. Tell personal stories.
-- Log all your outreach events, with who went and how many hours each person did in its own place separate from the |EP|. This makes it easier to compile total numbers and shows the judges every outreach activity/event in one place.
-- For a bigger impact make sure you have more resources then just your team's information at an event, having details for FIRST Lego League teams in addition to your FIRST Tech Challenge information can broaden how many people you reach.
-- Follow up, follow up, follow up! If a person gives you a business card or a student expresses interest, it doesn't hurt to follow up if they don't reach out as promised. People can forget or get busy, sometimes a reminder is useful!
+    - Present numbers, but only emphasize them if they're large with a wow factor
+    - Make sure your numbers are somewhat accurate! If you are at a large event, you can get a rough headcount from the organizers, but its generally better to know roughly how many people actually stopped and looked at your team.
+    - Present stories to the judges, not just overviews. Tell personal stories.
+    - Log all your outreach events, with who went and how many hours each person did in its own place separate from the |EP|. This makes it easier to compile total numbers and shows the judges every outreach activity/event in one place.
+    - For a bigger impact make sure you have more resources then just your team's information at an event, having details for FIRST Lego League teams in addition to your FIRST Tech Challenge information can broaden how many people you reach.
+    - Follow up, follow up, follow up! If a person gives you a business card or a student expresses interest, it doesn't hurt to follow up if they don't reach out as promised. People can forget or get busy, sometimes a reminder is useful!
 
 Innovate Award
 --------------
@@ -253,7 +253,7 @@ There are three (3) "categories" of FIRST Dean's List Award students:
 
    Officially the semi-finalists from a team are chosen by a coach. But it's not forbidden to make a voting in a team to choose the best candidates.
 
-   The coach/dean's submittor is required to fill the form on firstinspires.org in dashboard where essays and some personal information about the students are attached. Every year FIRST sets a deadline till which you can nominate candidates. You can find nominative instruction and more information here: https://info.firstinspires.org/hubfs/web/program/ftc/deans-list-nomination-guide.pdf
+   The coach/dean's submittor is required to fill the form on firstinspires.org in dashboard where essays and some personal information about the students are attached. Every year FIRST sets a deadline till which you can nominate candidates. You can find nominative instruction and more information `here <https://info.firstinspires.org/hubfs/web/program/ftc/deans-list-nomination-guide.pdf>`_:highlight:`*`
 
 2. **FIRST Dean's List Finalists** - comprised of the students (2, 3, or 4, depending on the region) selected at each State/Regions Championship.
 
@@ -263,7 +263,7 @@ There are three (3) "categories" of FIRST Dean's List Award students:
 
    During the interview, please remember that it is about YOU, your contributions, leadership, etc. in relation to the criteria of the award. For example, if you are discussing accomplishments of your team as a whole, make sure to specify how your individual efforts were vital in the success of those accomplishments. Do not be shy about sharing your personal successes!
 
-   The number of semi-finalists that will move onto the next level as finalists depends upon the region. Regions with larger team numbers will have additional spots to advance students based on the previous year's registration numbers. You can find number of advancing finalist by region here: https://info.firstinspires.org/hubfs/web/program/ftc/deans-list-nomination-guide.pdf
+   The number of semi-finalists that will move onto the next level as finalists depends upon the region. Regions with larger team numbers will have additional spots to advance students based on the previous year's registration numbers. You can find number of advancing finalist by region `here <https://info.firstinspires.org/hubfs/web/program/ftc/deans-list-nomination-guide.pdf>`_:highlight:`*`
 
 3. **FIRST Dean's List Winners** - comprised of the ten (10) FIRST Robotics Competition and ten (10) FIRST Tech Challenge students selected from the applicable FIRST Dean's List Finalists at the FIRST Championship.
 
@@ -291,7 +291,7 @@ Project-Based Global Awards
 Digital Animation Award
 -----------------------
 
-This award, sponsored by Worcester Polytechnic Institute (WPI), celebrates STEAM (Science, Technology, Engineering, Art, and Mathematics) and emphasizes the ability to tell a story through animation that integrates technological, social, and humanistic concepts. The 2026 Digital Animation Award is offered to help encourage students to cultivate skills in design and creation of animation while telling a story about the impact of technology on society. This award is open to all FIRST Robotics Competition teams and FIRST Tech Challenge teams and is optional. More information can be found on the Digital Animation Award webpage: https://www.firstinspires.org/resource-library/frc/digital-animation-award
+This award, sponsored by Worcester Polytechnic Institute (WPI), celebrates STEAM (Science, Technology, Engineering, Art, and Mathematics) and emphasizes the ability to tell a story through animation that integrates technological, social, and humanistic concepts. The 2026 Digital Animation Award is offered to help encourage students to cultivate skills in design and creation of animation while telling a story about the impact of technology on society. This award is open to all FIRST Robotics Competition teams and FIRST Tech Challenge teams and is optional. More information can be found on the Digital Animation Award `webpage <https://www.firstinspires.org/resource-library/frc/digital-animation-award>`_:highlight:`*`
 
 Safety Animation Award
 ----------------------
