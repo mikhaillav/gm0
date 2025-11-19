@@ -3,7 +3,7 @@
 Types of Awards
 ===============
 
-** Advancing Awards **
+Advancing Awards
 ----------------------
 
 
@@ -22,12 +22,13 @@ These are:
 - **The Think Award** recognizes teams who masterfully document their team's process and ROBOT using their PORTFOLIO.
 - **Judges' Choice Award** recognizes a team whose unique efforts, performance, or dynamics merit recognition, but does not fit into any of the other award categories.
 
-|CM| Of all the awards, this one is arguably the most subjective, as it is about how good does a team does overall, including and how much they weigh outreach as compared to robot performance along with documentation.
+Of all the awards, this one is arguably the most subjective, as it is about how good does a team does overall, including and how much they weigh outreach as compared to robot performance along with documentation.
 
 Inspire Award
 ~~~~~~~~~~~~~
 
-**Official |CM| Description:**
+Official |CM| Description:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The team that receives this award is a strong ambassador for FIRST programs and a role model FIRST team. This team is a top contender for many other judged awards and is a gracious competitor. The Inspire Award winner is an inspiration to other teams, acting with Gracious Professionalism\ |reg| both on and off the playing FIELD. This team shares their experiences, enthusiasm, and knowledge with other teams, sponsors, their community, and the JUDGES. Working as a unit, this team will have shown success in performing the task of designing and building a ROBOT.
 
