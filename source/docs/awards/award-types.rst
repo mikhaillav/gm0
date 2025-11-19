@@ -143,7 +143,7 @@ Starting from DECODE season, the Motivate Award is divided into Reach and Sustai
 Reach Award Criteria
 ^^^^^^^^^^^^^^^^^^^^
 
-+----------------+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+ 
++----------------+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Required**   | 1 | Team must discuss, describe, display, or document their outreach objectives and how their outreach activities support the FIRST community                                                     |
 +----------------+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Required**   | 2 | Team must discuss, describe, display, or document their successful recruitment of new teams, or coaches, or mentors and/or volunteers who are not otherwise active within the FIRST community |
@@ -294,7 +294,7 @@ Control Award Criteria
 +----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Encouraged** | 3 | The control solution(s) should work consistently during most MATCHES.                                                                                                                          |
 +----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Encouraged** | 4 | Team could discuss, describe, display, or document how the solution may consider reliability either through demonstrated effectiveness or identification of how the solution could be improved |                                                   |
+| **Encouraged** | 4 | Team could discuss, describe, display, or document how the solution may consider reliability either through demonstrated effectiveness or identification of how the solution could be improved |
 +----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Encouraged** | 5 | Use of the engineering process to develop the control solutions (sensors, hardware and/or algorithms) used on the ROBOT includes lessons learned.                                              |
 +----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
