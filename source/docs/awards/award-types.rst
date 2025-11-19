@@ -184,9 +184,22 @@ Sustainability and planning are essential for a FIRST team, because they ensure 
 
 The next Award which was previously included in the Motivate Award is Sustain. This Award answers the question "How will your team exist in the future and what are you doing to make it happen?".
 
-.. image:: images/award-types/sustain-criteria.png
-   :alt: Sustain Award Criteria
-   :width: 100%
+Reach Award Criteria
+^^^^^^^^^^^^^^^^^^^^
+
++----------------+---+-----------------------------------------------------------------------------------------------------------------------+
+| ** Required**  | 1 | Team must discuss, describe, display, or document their plan(s) which includes at least one of the following:         |
+|                |   | A. finances and financial sustainability plan,                                                                        |
+|                |   | B. season project planning, and/or                                                                                    |
+|                |   | C. team sustainability plans and/or objectives.                                                                       |
++----------------+---+-----------------------------------------------------------------------------------------------------------------------+
+| **Required**   | 2 | Team must discuss, describe, display or document how a team tracks their progress towards their plan(s) listed above. |
++----------------+---+-----------------------------------------------------------------------------------------------------------------------+
+| **Encouraged** | 3 | Team has clear team roles for all members of the team and a process for developing leadership.                        |
++----------------+---+-----------------------------------------------------------------------------------------------------------------------+
+| **Encouraged** | 4 | Team can discuss, describe, display, or document how they manage the team's constraints and/or risks.                 |
++----------------+---+-----------------------------------------------------------------------------------------------------------------------+
+
 
 
 This award is about systems, processes, and forward-thinking to ensure the team thrives for years to come.
@@ -239,9 +252,18 @@ While it may be tempting to sell your entire robot as innovative, it is often mu
 
 The |EP| should contain information on your robot's mechanisms, and your presentation should also mention the innovative parts of your robot. However, refrain from over describing the mechanisms you intend to sell as innovative, as you want to leave room for the judges to ask questions, which gives you more opportunities and time to sell your mechanisms. In addition, practice what aspects of the mechanisms you want to sell as innovative, and make sure you are able to thoroughly describe why they are innovative when asked.
 
-.. image:: images/award-types/innovate-criteria.png
-   :alt: Innovate Award Criteria
-   :width: 100%
+Innovate Award Criteria
+^^^^^^^^^^^^^^^^^^^^^^^
+
++----------------+---+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Required**   | 1 | Team must describe, display, or document examples of the team's engineering content that illustrate how the team arrived at their design solution. |
++----------------+---+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Required**   | 2 | ROBOT or ROBOT MECHANISM is creative and/or unique in its design.                                                                                  |
++----------------+---+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Required**   | 3 | The innovative element must be stable, robust, and contribute positively to the team's game objectives most of the time.                           |
++----------------+---+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Encouraged** | 4 | Designs often come with risks, the team should discuss, describe, display or document how they mitigated that risk.                                |
++----------------+---+----------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 Control Award
@@ -258,9 +280,24 @@ Do not directly put code into your portfolio, the judges will not care. Instead,
 
 In addition, control award software is more then just your autonomous mode programs. Driver assistance, feedback, and automation all are vital to the control award.
 
-.. image:: images/award-types/control-criteria.png
-   :alt: Control Award Criteria
-   :width: 100%
+Control Award Criteria
+^^^^^^^^^^^^^^^^^^^^^^^
+
++----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Required**   | 1 | Team must submit a PORTFOLIO. The PORTFOLIO must include all of the following:                                                                                                                 |
+|                |   |                                                                                                                                                                                                |
+|                |   | A. hardware and/or software control COMPONENTS on the ROBOT,                                                                                                                                   |
+|                |   | B. which challenges each COMPONENT or system is intended to solve, and                                                                                                                         |
+|                |   | C. how does each COMPONENT or system work.                                                                                                                                                     |
++----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Required**   | 2 | Team must use one or more hardware or software solutions to improve ROBOT functionality by using external feedback and control.                                                                |
++----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Encouraged** | 3 | The control solution(s) should work consistently during most MATCHES.                                                                                                                          |
++----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Encouraged** | 4 | Team could discuss, describe, display, or document how the solution may consider reliability either through demonstrated effectiveness or identification of how the solution could be improved |                                                   |
++----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Encouraged** | 5 | Use of the engineering process to develop the control solutions (sensors, hardware and/or algorithms) used on the ROBOT includes lessons learned.                                              |
++----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 Design Award
@@ -277,9 +314,20 @@ In order to be considered for the Design Award, it's recommended that your team 
 
 While functionality is what most teams focus on, the Design Award also takes into account aesthetics, and most judges will generally be turned off by an ugly robot for this award (no cardboard on the robot!), so make sure your robot looks presentable.
 
-.. image:: images/award-types/design-criteria.png
-   :alt: Design Award Criteria
-   :width: 100%
+Design Award Criteria
+^^^^^^^^^^^^^^^^^^^^^
+
++----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Required**   | 1 | A team must be able to describe or demonstrate how their ROBOT is elegant, efficient (simple/executable), and practical to maintain.           |
++----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Required**   | 2 | The entire machine design, or the detailed process used to develop the design, is worthy of this recognition, and not just a single COMPONENT. |
++----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Encouraged** | 3 | The ROBOT distinguishes itself from others by its aesthetic and functional design.                                                             |
++----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Encouraged** | 4 | The basis for the design is well considered (that is inspiration, function, etc.).                                                             |
++----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Encouraged** | 5 | Design is effective and consistent with the team's game plan and/or strategy.                                                                  |
++----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------+
 
 
 Judges Choice Award
@@ -330,14 +378,27 @@ This is an optional award and is only offered at the Regional Championship tourn
 
 The Compass award is an optional award that is usually given only at state championships and world championships. It is submitted as a video no longer than 1 minute. The Compass award is for recognizing an outstanding mentor. Submitting this award is usually done on a case-by-case basis, where the event organizer sends teams instructions on how to submit.
 
+Compass Award Criteria
+^^^^^^^^^^^^^^^^^^^^^^
+
++--------------+---+-------------------------------------------------------------------------------------------------------------------------+
+| **Required** | 1 | Team must be able to clearly articulate this mentor's contribution to the team and explain what sets this mentor apart. |
++--------------+---+-------------------------------------------------------------------------------------------------------------------------+
+| **Required** | 2 | Submission must be in video format and meet the following requirements:                                                 |
+|              |   |                                                                                                                         |
+|              |   | A. submitted by the deadline established by the Event Director or local Program Delivery Partner instructions,          |
+|              |   | B. be in one of the following formats: .mp4, .mov, .avi, or .wmv (no links to streaming services will be accepted),     |
+|              |   | C. one video submission per team per event (videos can be updated or changed between events),                           |
+|              |   | D. all music must be used with permission from the copyright owners and be indicated in the video credits, and          |
+|              |   | E. videos cannot be longer than 60 seconds, including credits.                                                          |
++--------------+---+-------------------------------------------------------------------------------------------------------------------------+
+
 Some good Compass award submissions include:
 
 - `Team 4855 in 2017 <https://www.youtube.com/watch?v=r3zK2l7K8Fo>`_
 - `Team 3595 in 2017 <https://www.youtube.com/watch?v=EKKaMAcAfXE>`_
 - `Team 9879 in 2017 <https://www.youtube.com/watch?v=z6M6UYMLujo>`_
 - `Team 6510 in 2015 <https://www.youtube.com/watch?v=E76ij2H3YF4>`_
-
-For more information on these awards, take a look at the specific section for each award in Competition Manual:
 
 Project-Based Global Awards
 ---------------------------
@@ -350,7 +411,7 @@ This award, sponsored by Worcester Polytechnic Institute (WPI), celebrates STEAM
 Safety Animation Award
 ~~~~~~~~~~~~~~~~~~~~~~
 
-The 2025-26 theme for the Safety Animation Award, sponsored by UL Solutions, is: Unearth Safety! For this animation teams are invited to dig deep to uncover impactful ways to implement safe and sustainable practices. Use bold storytelling and imaginative artistry to create a memorable message that inspires responsible exploration and careful stewardship of our resources. More information can be found on `the Safety webpage <https://www.firstinspires.org/robotics/frc/safety>`
+The 2025-26 theme for the Safety Animation Award, sponsored by UL Solutions, is: Unearth Safety! For this animation teams are invited to dig deep to uncover impactful ways to implement safe and sustainable practices. Use bold storytelling and imaginative artistry to create a memorable message that inspires responsible exploration and careful stewardship of our resources. More information can be found on `the Safety webpage <https://www.firstinspires.org/robotics/frc/safety>`_
 
 FIRST believes that teams that take the lead in developing safety programs and policies have a positive and lasting impact on each team member and mentor in addition to their communities and present and future workplaces. FIRST recognizes the teams that demonstrate safety throughout their programs and are deeply committed to developing a culture of safety.
 
