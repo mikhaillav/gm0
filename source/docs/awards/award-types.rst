@@ -164,7 +164,7 @@ This award is about systems, processes, and forward-thinking to ensure the team 
 - Training: Skill-building workshops (CAD, Java, soldering).
 - Retention: Fun, non-competitive build projects or community service events.
 
-.. tip:: 
+.. tip::
   Tips for Connect, Reach & Sustain
 
     - Present numbers, but only emphasize them if they're large with a wow factor
