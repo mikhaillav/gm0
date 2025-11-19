@@ -10,7 +10,7 @@ Advancing Awards
 There are 8 awards for  FTC\  |reg|  teams (excluding optional awards). For more information on the exact requirements for these awards, see |CM|.
 
 .. image:: images/award-types/award-hierarchy.png
-   :alt: : Award hierarchy
+   :alt: Award hierarchy
    :width: 100%
 
 
@@ -35,7 +35,7 @@ The team that receives this award is a strong ambassador for FIRST programs and 
 A portfolio is required for this award. The Inspire Award is the top award for an FTC team. It is given to a team that consistently rises to the top in other awards categories.
 
 .. image:: images/award-types/inspire-criteria.png
-   :alt: : Inspire Award Criteria
+   :alt: Inspire Award Criteria
    :width: 100%
 
 
@@ -69,7 +69,7 @@ A portfolio is required for this award, and should contain descriptions of the t
 Be prepared for judges to ask you how your outreaches were meaningful, and try to avoid doing STEM outreaches just for the sake of saying you did a STEM outreach. Successful STEM outreaches are those that are undertaken for a specific purpose and have a clear intent and goal, such as meeting with an expert on computer vision to ask for advice on a vision task for the game. If you are struggling to find STEM outreaches, local colleges and businesses are a good start.
 
 .. image:: images/award-types/connect-criteria.png
-   :alt: : Connect Award Criteria
+   :alt: Connect Award Criteria
    :width: 100%
 
 
@@ -105,7 +105,7 @@ This award celebrates a team that has introduced and recruited new people into F
 Starting from DECODE season, the Motivate Award is divided into Reach and Sustain Awards. Reach Award includes outreach objectives and how it affects FIRST community as well as how team recruitment new teams/coaches/mentors/volunteers who were not previously involved in FIRST.
 
 .. image:: images/award-types/reach-criteria.png
-   :alt: : Reach Award Criteria
+   :alt: Reach Award Criteria
    :width: 100%
 
 
@@ -140,7 +140,7 @@ Sustainability and planning are essential for a FIRST team, because they ensure 
 The next Award which was previously included in the Motivate Award is Sustain. This Award answers the question "How will your team exist in the future and what are you doing to make it happen?".
 
 .. image:: images/award-types/sustain-criteria.png
-   :alt: : Sustain Award Criteria
+   :alt: Sustain Award Criteria
    :width: 100%
 
 
@@ -168,7 +168,7 @@ This award is about systems, processes, and forward-thinking to ensure the team 
 - Training: Skill-building workshops (CAD, Java, soldering).
 - Retention: Fun, non-competitive build projects or community service events.
 
-.. tip::
+.. tip:: for Connect, Reach & Sustain
   Tips for Connect, Reach & Sustain
 
     - Present numbers, but only emphasize them if they're large with a wow factor
@@ -195,7 +195,7 @@ While it may be tempting to sell your entire robot as innovative, it is often mu
 The |EP| should contain information on your robot's mechanisms, and your presentation should also mention the innovative parts of your robot. However, refrain from over describing the mechanisms you intend to sell as innovative, as you want to leave room for the judges to ask questions, which gives you more opportunities and time to sell your mechanisms. In addition, practice what aspects of the mechanisms you want to sell as innovative, and make sure you are able to thoroughly describe why they are innovative when asked.
 
 .. image:: images/award-types/innovate-criteria.png
-   :alt: : Innovate Award Criteria
+   :alt: Innovate Award Criteria
    :width: 100%
 
 
@@ -214,7 +214,7 @@ Do not directly put code into your portfolio, the judges will not care. Instead,
 In addition, control award software is more then just your autonomous mode programs. Driver assistance, feedback, and automation all are vital to the control award.
 
 .. image:: images/award-types/control-criteria.png
-   :alt: : Control Award Criteria
+   :alt: Control Award Criteria
    :width: 100%
 
 
@@ -233,7 +233,7 @@ In order to be considered for the Design Award, it's recommended that your team 
 While functionality is what most teams focus on, the Design Award also takes into account aesthetics, and most judges will generally be turned off by an ugly robot for this award (no cardboard on the robot!), so make sure your robot looks presentable.
 
 .. image:: images/award-types/design-criteria.png
-   :alt: : Design Award Criteria
+   :alt: Design Award Criteria
    :width: 100%
 
 
@@ -300,12 +300,12 @@ Project-Based Global Awards
 Digital Animation Award
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-This award, sponsored by Worcester Polytechnic Institute (WPI), celebrates STEAM (Science, Technology, Engineering, Art, and Mathematics) and emphasizes the ability to tell a story through animation that integrates technological, social, and humanistic concepts. The 2026 Digital Animation Award is offered to help encourage students to cultivate skills in design and creation of animation while telling a story about the impact of technology on society. This award is open to all FIRST Robotics Competition teams and FIRST Tech Challenge teams and is optional. More information can be found on `the Digital Animation Award webpage <https://www.firstinspires.org/resource-library/frc/digital-animation-award>`_:highlight:`*`
+This award, sponsored by Worcester Polytechnic Institute (WPI), celebrates STEAM (Science, Technology, Engineering, Art, and Mathematics) and emphasizes the ability to tell a story through animation that integrates technological, social, and humanistic concepts. The 2026 Digital Animation Award is offered to help encourage students to cultivate skills in design and creation of animation while telling a story about the impact of technology on society. This award is open to all FIRST Robotics Competition teams and FIRST Tech Challenge teams and is optional. More information can be found on `the Digital Animation Award webpage <https://www.firstinspires.org/resource-library/frc/digital-animation-award>`_
 
 Safety Animation Award
 ~~~~~~~~~~~~~~~~~~~~~~
 
-The 2025-26 theme for the Safety Animation Award, sponsored by UL Solutions, is: Unearth Safety! For this animation teams are invited to dig deep to uncover impactful ways to implement safe and sustainable practices. Use bold storytelling and imaginative artistry to create a memorable message that inspires responsible exploration and careful stewardship of our resources. More information can be found on `the Safety webpage <https://www.firstinspires.org/robotics/frc/safety>`_:highlight:`*`
+The 2025-26 theme for the Safety Animation Award, sponsored by UL Solutions, is: Unearth Safety! For this animation teams are invited to dig deep to uncover impactful ways to implement safe and sustainable practices. Use bold storytelling and imaginative artistry to create a memorable message that inspires responsible exploration and careful stewardship of our resources. More information can be found on `the Safety webpage <https://www.firstinspires.org/robotics/frc/safety>`
 
 FIRST believes that teams that take the lead in developing safety programs and policies have a positive and lasting impact on each team member and mentor in addition to their communities and present and future workplaces. FIRST recognizes the teams that demonstrate safety throughout their programs and are deeply committed to developing a culture of safety.
 
