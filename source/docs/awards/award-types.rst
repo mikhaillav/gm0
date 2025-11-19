@@ -1,11 +1,10 @@
 .. include:: <isonum.txt>
-
-============
-Awards Types
-============
+	
+** Types of Awards **
+======================
 
 ** Advancing Awards **
-======================
+----------------------
 
 
 There are 8 awards for  FTC\  |reg|  teams (excluding optional awards). For more information on the exact requirements for these awards, see |CM|.
@@ -26,7 +25,7 @@ These are:
 |CM| Of all the awards, this one is arguably the most subjective, as it is about how good does a team does overall, including and how much they weigh outreach as compared to robot performance along with documentation.
 
 Inspire Award
--------------
+~~~~~~~~~~~~~
 
 **Official |CM| Description:**
 
