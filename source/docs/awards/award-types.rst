@@ -34,6 +34,9 @@ The team that receives this award is a strong ambassador for FIRST programs and 
 
 A portfolio is required for this award. The Inspire Award is the top award for an FTC team. It is given to a team that consistently rises to the top in other awards categories.
 
+Inspire Award Criteria:
+^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 +--------------+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Required** | 1 | Team must submit a PORTFOLIO.                                                                                                                                                             |
 +--------------+---+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
