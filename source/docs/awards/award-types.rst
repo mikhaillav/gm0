@@ -414,11 +414,11 @@ Digital Animation Award
 
 This award, sponsored by Worcester Polytechnic Institute (WPI), celebrates STEAM (Science, Technology, Engineering, Art, and Mathematics) and emphasizes the ability to tell a story through animation that integrates technological, social, and humanistic concepts. The 2026 Digital Animation Award is offered to help encourage students to cultivate skills in design and creation of animation while telling a story about the impact of technology on society. This award is open to all FIRST Robotics Competition teams and FIRST Tech Challenge teams and is optional. More information can be found on `the Digital Animation Award webpage <https://www.firstinspires.org/resource-library/frc/digital-animation-award>`_ .
 
-Safety Animation Award
+Safety Animation Awardt
 ~~~~~~~~~~~~~~~~~~~~~~
 
 The 2025-26 theme for the Safety Animation Award, sponsored by UL Solutions, is: Unearth Safety! For this animation teams are invited to dig deep to uncover impactful ways to implement safe and sustainable practices. Use bold storytelling and imaginative artistry to create a memorable message that inspires responsible exploration and careful stewardship of our resources. More information can be found on `the Safety webpage <https://www.firstinspires.org/robotics/frc/safety>`_ .
 
 FIRST believes that teams that take the lead in developing safety programs and policies have a positive and lasting impact on each team member and mentor in addition to their communities and present and future workplaces. FIRST recognizes the teams that demonstrate safety throughout their programs and are deeply committed to developing a culture of safety.
 
-Everyone is responsible for safety during team meetings and the design, build, travel, and event phases of the competition.
+Everyone is responsible for safety during team meetings and the design, build, travel, and event phases of the competition.rt
