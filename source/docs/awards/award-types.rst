@@ -452,4 +452,3 @@ The 2025-26 theme for the Safety Animation Award, sponsored by UL Solutions, is:
 FIRST believes that teams that take the lead in developing safety programs and policies have a positive and lasting impact on each team member and mentor in addition to their communities and present and future workplaces. FIRST recognizes the teams that demonstrate safety throughout their programs and are deeply committed to developing a culture of safety.
 
 Everyone is responsible for safety during team meetings and the design, build, travel, and event phases of the competition.
-	
