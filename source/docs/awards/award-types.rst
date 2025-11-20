@@ -29,8 +29,10 @@ Inspire Award
 
 Official |CM| Description:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-The team that receives this award is a strong ambassador for FIRST programs and a role model FIRST team. This team is a top contender for many other judged awards and is a gracious competitor. The Inspire Award winner is an inspiration to other teams, acting with Gracious Professionalism\ |reg| both on and off the playing FIELD. This team shares their experiences, enthusiasm, and knowledge with other teams, sponsors, their community, and the JUDGES. Working as a unit, this team will have shown success in performing the task of designing and building a ROBOT.
+<blockquote>
+<div><p>The team that receives this award is a strong ambassador for FIRST programs and a role model FIRST team. This team is a top contender for many other judged awards and is a gracious competitor. The Inspire Award winner is an inspiration to other teams, acting with Gracious Professionalism\ |reg| both on and off the playing FIELD. This team shares their experiences, enthusiasm, and knowledge with other teams, sponsors, their community, and the JUDGES. Working as a unit, this team will have shown success in performing the task of designing and building a ROBOT.</p>
+</div></blockquote>
+</div>
 
 A portfolio is required for this award. The Inspire Award is the top award for an FTC team. It is given to a team that consistently rises to the top in other awards categories.
 
@@ -57,7 +59,11 @@ Think Award
 Official |CM| Description:
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This judged award is given to the team that best reflects the journey the team took as they experienced their season. The content within the PORTFOLIO is the key reference for JUDGES to help identify the most deserving team. The team could share or provide additional detailed information that is helpful for the JUDGES.
+.. admonition:: Term
+
+   .. glossary::
+
+         This judged award is given to the team that best reflects the journey the team took as they experienced their season. The content within the PORTFOLIO is the key reference for JUDGES to help identify the most deserving team. The team could share or provide additional detailed information that is helpful for the JUDGES.
 
 A portfolio is required for this award. The Think Award is based entirely on the |EP|. In order to have a chance at winning, the |EP| should include as much math and physics as possible, document the entire journey of the robot through iterations, and other documentation of design and game strategy.
 
@@ -406,12 +412,12 @@ Project-Based Global Awards
 Digital Animation Award
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-This award, sponsored by Worcester Polytechnic Institute (WPI), celebrates STEAM (Science, Technology, Engineering, Art, and Mathematics) and emphasizes the ability to tell a story through animation that integrates technological, social, and humanistic concepts. The 2026 Digital Animation Award is offered to help encourage students to cultivate skills in design and creation of animation while telling a story about the impact of technology on society. This award is open to all FIRST Robotics Competition teams and FIRST Tech Challenge teams and is optional. More information can be found on `the Digital Animation Award webpage <https://www.firstinspires.org/resource-library/frc/digital-animation-award>`_
+This award, sponsored by Worcester Polytechnic Institute (WPI), celebrates STEAM (Science, Technology, Engineering, Art, and Mathematics) and emphasizes the ability to tell a story through animation that integrates technological, social, and humanistic concepts. The 2026 Digital Animation Award is offered to help encourage students to cultivate skills in design and creation of animation while telling a story about the impact of technology on society. This award is open to all FIRST Robotics Competition teams and FIRST Tech Challenge teams and is optional. More information can be found on `the Digital Animation Award webpage <https://www.firstinspires.org/resource-library/frc/digital-animation-award>`_ .
 
 Safety Animation Award
 ~~~~~~~~~~~~~~~~~~~~~~
 
-The 2025-26 theme for the Safety Animation Award, sponsored by UL Solutions, is: Unearth Safety! For this animation teams are invited to dig deep to uncover impactful ways to implement safe and sustainable practices. Use bold storytelling and imaginative artistry to create a memorable message that inspires responsible exploration and careful stewardship of our resources. More information can be found on `the Safety webpage <https://www.firstinspires.org/robotics/frc/safety>`_
+The 2025-26 theme for the Safety Animation Award, sponsored by UL Solutions, is: Unearth Safety! For this animation teams are invited to dig deep to uncover impactful ways to implement safe and sustainable practices. Use bold storytelling and imaginative artistry to create a memorable message that inspires responsible exploration and careful stewardship of our resources. More information can be found on `the Safety webpage <https://www.firstinspires.org/robotics/frc/safety>`_ .
 
 FIRST believes that teams that take the lead in developing safety programs and policies have a positive and lasting impact on each team member and mentor in addition to their communities and present and future workplaces. FIRST recognizes the teams that demonstrate safety throughout their programs and are deeply committed to developing a culture of safety.
 
