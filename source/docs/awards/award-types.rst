@@ -27,12 +27,14 @@ Of all the awards, this one is arguably the most subjective, as it is about how 
 Inspire Award
 ~~~~~~~~~~~~~
 
-Official |CM| Description:
-^^^^^^^^^^^^^^^^^^^^^^^^^^
-<blockquote>
-<div><p>The team that receives this award is a strong ambassador for FIRST programs and a role model FIRST team. This team is a top contender for many other judged awards and is a gracious competitor. The Inspire Award winner is an inspiration to other teams, acting with Gracious Professionalism\ |reg| both on and off the playing FIELD. This team shares their experiences, enthusiasm, and knowledge with other teams, sponsors, their community, and the JUDGES. Working as a unit, this team will have shown success in performing the task of designing and building a ROBOT.</p>
-</div></blockquote>
-</div>
+Official |CM| Description
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. admonition:: Term
+
+   .. glossary::
+
+         The team that receives this award is a strong ambassador for FIRST programs and a role model FIRST team. This team is a top contender for many other judged awards and is a gracious competitor. The Inspire Award winner is an inspiration to other teams, acting with Gracious Professionalism\ |reg| both on and off the playing FIELD. This team shares their experiences, enthusiasm, and knowledge with other teams, sponsors, their community, and the JUDGES. Working as a unit, this team will have shown success in performing the task of designing and building a ROBOT.
 
 A portfolio is required for this award. The Inspire Award is the top award for an FTC team. It is given to a team that consistently rises to the top in other awards categories.
 
@@ -56,8 +58,8 @@ Inspire Award Criteria
 Think Award
 ~~~~~~~~~~~
 
-Official |CM| Description:
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Official |CM| Description
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. admonition:: Term
 
@@ -92,10 +94,14 @@ Think Award Criteria
 Connect Award
 ~~~~~~~~~~~~~
 
-Official |CM| Description:
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Official |CM| Description
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This judged award is given to the team that connects with their local science, technology, engineering, and math (STEM) community to learn and adopt new tools through effort and persistence. This team has a team plan and has identified steps to achieve their goals. A PORTFOLIO is not required for this award.
+.. admonition:: Term
+
+   .. glossary::
+
+         This judged award is given to the team that connects with their local science, technology, engineering, and math (STEM) community to learn and adopt new tools through effort and persistence. This team has a team plan and has identified steps to achieve their goals. A PORTFOLIO is not required for this award.
 
 A portfolio is required for this award, and should contain descriptions of the team's goals for the development of team member skills and what the team does to reach those goals. In addition, the portfolio should also contain information on how the team plans to meaningfully develop their STEM connections.
 
@@ -139,10 +145,14 @@ The core of this award is depth, purpose, and learning, not just quantity.
 Reach Award
 ~~~~~~~~~~~
 
-Official |CM| Description:
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Official |CM| Description
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This award celebrates a team that has introduced and recruited new people into FIRST. Through their efforts, they have sparked others to embrace the FIRST culture. A PORTFOLIO is not required for this award.
+.. admonition:: Term
+
+   .. glossary::
+
+         This award celebrates a team that has introduced and recruited new people into FIRST. Through their efforts, they have sparked others to embrace the FIRST culture. A PORTFOLIO is not required for this award.
 
 Starting from DECODE season, the Motivate Award is divided into Reach and Sustain Awards. Reach Award includes outreach objectives and how it affects FIRST community as well as how team recruitment new teams/coaches/mentors/volunteers who were not previously involved in FIRST.
 
@@ -183,10 +193,14 @@ This award is about growth, inclusion, and creating new FIRST enthusiasts.
 Sustain Award
 ~~~~~~~~~~~~~
 
-Official |CM| Description:
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Official |CM| Description
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Sustainability and planning are essential for a FIRST team, because they ensure the program's long-term success. This award celebrates the team that has considered their future team members and has worked to ensure that their team or program will continue to exist long after they have gone on to develop their careers. A PORTFOLIO is not required for this award.
+.. admonition:: Term
+
+   .. glossary::
+
+         Sustainability and planning are essential for a FIRST team, because they ensure the program's long-term success. This award celebrates the team that has considered their future team members and has worked to ensure that their team or program will continue to exist long after they have gone on to develop their careers. A PORTFOLIO is not required for this award.
 
 The next Award which was previously included in the Motivate Award is Sustain. This Award answers the question "How will your team exist in the future and what are you doing to make it happen?".
 
@@ -245,10 +259,14 @@ This award is about systems, processes, and forward-thinking to ensure the team 
 Innovate Award
 ~~~~~~~~~~~~~~
 
-Official |CM| Description:
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Official |CM| Description
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The Innovate Award celebrates a team that thinks imaginatively and has the ingenuity, creativity, and inventiveness to make their designs come to life. This judged award is given to the team that has an innovative and creative ROBOT design solution to any specific components in the FIRST Tech Challenge game. Elements of this award include design, robustness, and creative thinking related to design. This award may address the design of the whole ROBOT or of a MECHANISM attached to the ROBOT and should work consistently during MATCHES, but does not have to work all the time to be considered for this award. A PORTFOLIO is not required for this award.
+.. admonition:: Term
+
+   .. glossary::
+
+         The Innovate Award celebrates a team that thinks imaginatively and has the ingenuity, creativity, and inventiveness to make their designs come to life. This judged award is given to the team that has an innovative and creative ROBOT design solution to any specific components in the FIRST Tech Challenge game. Elements of this award include design, robustness, and creative thinking related to design. This award may address the design of the whole ROBOT or of a MECHANISM attached to the ROBOT and should work consistently during MATCHES, but does not have to work all the time to be considered for this award. A PORTFOLIO is not required for this award.
 
 The Innovate award is what it sounds like - it's for teams with innovative robots or robot mechanisms.
 
@@ -275,8 +293,8 @@ Innovate Award Criteria
 Control Award
 ~~~~~~~~~~~~~
 
-Official |CM| Description:
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Official |CM| Description
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The Control Award celebrates a team that uses sensors and software to increase the ROBOT'S functionality during gameplay. This award is given to the team that demonstrates innovative thinking and solutions to solve game challenges such as autonomous operation, improving mechanical systems with intelligent control, or using sensors to achieve better results. The solution(s) should work consistently during MATCHES but does not have to work all the time. Solutions considered for this award are not solely limited to the AUTO period of the MATCH and may also be used during TELEOP. The team's PORTFOLIO must contain a summary of the software, sensors, and mechanical control but would not include copies of the code itself.
 
@@ -309,10 +327,14 @@ Control Award Criteria
 Design Award
 ~~~~~~~~~~~~
 
-Official |CM| Description:
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Official |CM| Description
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
-The Design Award celebrates the team that demonstrates an understanding of industrial design principles by striking a balance between form, function, and aesthetics while meeting the needs of this season's challenge. The design process used should result in a ROBOT which is efficiently designed and effectively addresses the game challenge. A PORTFOLIO is not required for this award.
+.. admonition:: Term
+
+   .. glossary::
+
+         The Design Award celebrates the team that demonstrates an understanding of industrial design principles by striking a balance between form, function, and aesthetics while meeting the needs of this season's challenge. The design process used should result in a ROBOT which is efficiently designed and effectively addresses the game challenge. A PORTFOLIO is not required for this award.
 
 The Design Award is one of the robot awards that primarily focuses on the hardware aspect of the robot. It is for robots that are both functional, aesthetic, and use good design practices, including CAD.
 
@@ -349,10 +371,14 @@ There are some awards that events are not required to present; these do not adva
 Dean's List Award
 ~~~~~~~~~~~~~~~~~
 
-Official |CM| Description:
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Official |CM| Description
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
-In an effort to recognize the leadership and dedication of the most outstanding secondary school STUDENTS from FIRST, the Kamen family sponsors awards for selected 10th or 11th grade STUDENTS known as the FIRST Tech Challenge FIRST Dean's List Award. The STUDENTS who earn FIRST Dean's List status as a semi-finalist, finalist or winner, are great examples of current STUDENT leaders who have led their teams and communities to increased awareness for FIRST and its mission, champion FIRST Core Values such as Inclusion, and embody Gracious Professionalism\ |reg| . It is the goal of FIRST that these individuals will continue, post-award, as great leaders, STUDENT alumni, and advocates of FIRST. Please visit the Dean's List Award Website to see complete award submission details and to see past FIRST Tech Challenge winners. For regions of the world that do not use grade levels such as this to identify years of schooling: This award is intended for STUDENTS who are two (2) to three (3) years away from entering college or university. STUDENTS that would be attending college or university in the next academic year are not eligible. Mentors will be asked for the year of graduation during the nomination process.
+.. admonition:: Term
+
+   .. glossary::
+
+         In an effort to recognize the leadership and dedication of the most outstanding secondary school STUDENTS from FIRST, the Kamen family sponsors awards for selected 10th or 11th grade STUDENTS known as the FIRST Tech Challenge FIRST Dean's List Award. The STUDENTS who earn FIRST Dean's List status as a semi-finalist, finalist or winner, are great examples of current STUDENT leaders who have led their teams and communities to increased awareness for FIRST and its mission, champion FIRST Core Values such as Inclusion, and embody Gracious Professionalism\ |reg| . It is the goal of FIRST that these individuals will continue, post-award, as great leaders, STUDENT alumni, and advocates of FIRST. Please visit the Dean's List Award Website to see complete award submission details and to see past FIRST Tech Challenge winners. For regions of the world that do not use grade levels such as this to identify years of schooling: This award is intended for STUDENTS who are two (2) to three (3) years away from enterin         g college or university. STUDENTS that would be attending college or university in the next academic year are not eligible. Mentors will be asked for the year of graduation during the nomination process.
 
 There are three (3) "categories" of FIRST Dean's List Award students:
 
@@ -377,10 +403,14 @@ There are three (3) "categories" of FIRST Dean's List Award students:
 Compass Award
 ~~~~~~~~~~~~~
 
-Official |CM| Description:
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+Official |CM| Description
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This is an optional award and is only offered at the Regional Championship tournament level of competition. All teams attending FIRST Championship will have an opportunity to submit for this award. The Compass Award recognizes an adult coach or mentor who has given outstanding guidance and support to a team throughout the year and demonstrates to the team what it means to be a Gracious Professional. The winner of the Compass Award will be chosen from candidates nominated by FIRST Tech Challenge STUDENT team members, via a 40-60 second video submission. The video must highlight how their mentor has helped them become an inspirational team. The video should emphasize what sets the mentor apart.
+.. admonition:: Term
+
+   .. glossary::
+
+         This is an optional award and is only offered at the Regional Championship tournament level of competition. All teams attending FIRST Championship will have an opportunity to submit for this award. The Compass Award recognizes an adult coach or mentor who has given outstanding guidance and support to a team throughout the year and demonstrates to the team what it means to be a Gracious Professional. The winner of the Compass Award will be chosen from candidates nominated by FIRST Tech Challenge STUDENT team members, via a 40-60 second video submission. The video must highlight how their mentor has helped them become an inspirational team. The video should emphasize what sets the mentor apart.
 
 The Compass award is an optional award that is usually given only at state championships and world championships. It is submitted as a video no longer than 1 minute. The Compass award is for recognizing an outstanding mentor. Submitting this award is usually done on a case-by-case basis, where the event organizer sends teams instructions on how to submit.
 
@@ -412,13 +442,14 @@ Project-Based Global Awards
 Digital Animation Award
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-This award, sponsored by Worcester Polytechnic Institute (WPI), celebrates STEAM (Science, Technology, Engineering, Art, and Mathematics) and emphasizes the ability to tell a story through animation that integrates technological, social, and humanistic concepts. The 2026 Digital Animation Award is offered to help encourage students to cultivate skills in design and creation of animation while telling a story about the impact of technology on society. This award is open to all FIRST Robotics Competition teams and FIRST Tech Challenge teams and is optional. More information can be found on `the Digital Animation Award webpage <https://www.firstinspires.org/resource-library/frc/digital-animation-award>`_ .
+This award, sponsored by Worcester Polytechnic Institute (WPI), celebrates STEAM (Science, Technology, Engineering, Art, and Mathematics) and emphasizes the ability to tell a story through animation that integrates technological, social, and humanistic concepts. The 2026 Digital Animation Award is offered to help encourage students to cultivate skills in design and creation of animation while telling a story about the impact of technology on society. This award is open to all FIRST Robotics Competition teams and FIRST Tech Challenge teams and is optional. More information can be found on `the Digital Animation Award webpage <https://www.firstinspires.org/resource-library/frc/digital-animation-award>`_.
 
-Safety Animation Awardt
-~~~~~~~~~~~~~~~~~~~~~~~
+Safety Animation Award
+~~~~~~~~~~~~~~~~~~~~~~
 
-The 2025-26 theme for the Safety Animation Award, sponsored by UL Solutions, is: Unearth Safety! For this animation teams are invited to dig deep to uncover impactful ways to implement safe and sustainable practices. Use bold storytelling and imaginative artistry to create a memorable message that inspires responsible exploration and careful stewardship of our resources. More information can be found on `the Safety webpage <https://www.firstinspires.org/robotics/frc/safety>`_ .
+The 2025-26 theme for the Safety Animation Award, sponsored by UL Solutions, is: Unearth Safety! For this animation teams are invited to dig deep to uncover impactful ways to implement safe and sustainable practices. Use bold storytelling and imaginative artistry to create a memorable message that inspires responsible exploration and careful stewardship of our resources. More information can be found on `the Safety webpage <https://www.firstinspires.org/robotics/frc/safety>`_.
 
 FIRST believes that teams that take the lead in developing safety programs and policies have a positive and lasting impact on each team member and mentor in addition to their communities and present and future workplaces. FIRST recognizes the teams that demonstrate safety throughout their programs and are deeply committed to developing a culture of safety.
 
-Everyone is responsible for safety during team meetings and the design, build, travel, and event phases of the competition.rt
+Everyone is responsible for safety during team meetings and the design, build, travel, and event phases of the competition.
+	
