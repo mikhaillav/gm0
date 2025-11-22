@@ -316,7 +316,7 @@ Tips for this award:
   #. Build Your Narrative: The Story of Innovation
 
     You need a compelling story that proves your mechanism wasn't just copied, but born from creative problem-solving.
-   
+
     - Start with the Problem: Frame the game challenge you were solving in a way that makes your solution necessary.
       - Example: "Everyone was struggling with inconsistent pixel intake from the stack. The problem wasn't power, it was alignment."
     - Show the Journey, Not Just the Result: Document the dead ends and prototypes that led to your innovation.
@@ -325,7 +325,7 @@ Tips for this award:
       - Use Data: "...which increased our cycle time by 2 seconds."
       - Use Reliability: "...which worked 19 out of 20 times in testing, compared to our old design which worked 10 out of 20 times."
       - Use a Unique Capability: "...which allowed us to be the only robot in our region capable of consistently scoring the [specific, difficult task]."
-   
+
   #. Portfolio and Presentation: Selling the Sizzle
 
     - Create an "Innovation Spotlight": In your portfolio, have a dedicated 1-2 page section for your "hero mechanism." This section should include:
@@ -344,7 +344,7 @@ Tips for this award:
   #. Handling the Hardware/Software Gray Area
 
     - If your innovation is purely software, it is generally better to focus on the Control Award. However, if a software algorithm enables a mechanical system to do something truly
-   
+
    The Innovate Award goes to the team that can best tell the story of a clever, creative, and effective solution to a specific game challenge. It's about proving that your team didn't just build a robot-you solved a puzzle in a way that no one else did.
 
 Control Award
