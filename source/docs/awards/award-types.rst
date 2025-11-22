@@ -45,7 +45,7 @@ While the description is comprehensive, here are the key, unwritten tips for win
   - Demonstrate Leadership, Not Just Participation: Show how your team leads and inspires others. Did you host a scrimmage for newer teams? Create shared resources? Mentor an FLL team? This goes beyond sharing your own experiences; it's about actively elevating your entire FIRST community.
   - Exemplify Gracious Professionalism® in Action: Judges will observe you in the pit and on the field. Be helpful to other teams, share tools, cheer for opponents, and handle both wins and losses with grace. Your actions speak as loudly as your portfolio.
   - Tell a Cohesive Story: In your judge interview, connect the dots between your robot design, your outreach, and your team's growth. Show how your core values drove your success in every aspect of the season.
- 
+
 Inspire Award Criteria
 ^^^^^^^^^^^^^^^^^^^^^^
 
