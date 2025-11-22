@@ -343,7 +343,15 @@ Tips for this award:
 
   #. Handling the Hardware/Software Gray Area
 
-    - If your innovation is purely software, it is generally better to focus on the Control Award. However, if a software algorithm enables a mechanical system to do something truly
+    - If your innovation is purely software, it is generally better to focus on the Control Award. However, if a software algorithm enables a mechanical system to do something truly unique that it otherwise couldn't, you can present it under Innovate.
+      - Example: "Our innovative mecanum drift compensation algorithm allows us to use a simple passive intake in a way that requires active intakes for other teams." Here, the software enables the mechanical simplicity.
+
+  #. Common Pitfalls to Avoid
+
+    - Confusing Complexity with Innovation: A mechanism with 20 parts that performs the same function as a mechanism with 5 parts is not innovative-it's over-engineered. Innovation is about a smarter concept, not more parts.
+    - Claiming Innovation on a Standard Solution: Calling a standard 4-motor direct drive chassis or a basic arm "innovative" will hurt your credibility. Be realistic about what is common in the FTC ecosystem.
+    - Failing to Articulate the "Why": You can't just say "it's innovative." You must prove it by contrasting it with other approaches and demonstrating its unique benefits.
+    - The Mechanism Doesn't Work: While it "does not have to work all the time," it must work sometimes and the concept must be sound. A completely non-functional "innovation" is just a theory.
 
    The Innovate Award goes to the team that can best tell the story of a clever, creative, and effective solution to a specific game challenge. It's about proving that your team didn't just build a robot-you solved a puzzle in a way that no one else did.
 
