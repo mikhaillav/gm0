@@ -305,6 +305,7 @@ Tips for this award:
 
 .. tip::
    #. Identify and Isolate Your "Hero Mechanism"
+   
      - Focus is Everything: Do not try to sell your entire robot as innovative. Judges will ask, "What is the most innovative part?" Have a clear, confident answer. Pick one or two mechanisms that are truly special.
      - Define "Innovative" for Your Design: Innovation can mean many things. Which category does your mechanism fit into?
        - Novel Concept: Is it a mechanism rarely seen in FTC? (e.g., a "full-roller" intake when everyone uses compliant wheels, a novel linkage no one else thought of).
