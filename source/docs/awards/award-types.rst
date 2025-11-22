@@ -6,13 +6,11 @@ Types of Awards
 Advancing Awards
 ----------------
 
-
-There are 8 awards for  FTC\  |reg|  teams (excluding optional awards). For more information on the exact requirements for these awards, see |CM|.
+There are 8 awards for FTC\ |reg| teams (excluding optional awards). For more information on the exact requirements for these awards, see |CM|.
 
 .. image:: images/award-types/award-hierarchy.png
    :alt: Award hierarchy
    :width: 100%
-
 
 These are:
 
@@ -34,17 +32,17 @@ Official |CM| Description
 
    .. glossary::
 
-         The team that receives this award is a strong ambassador for FIRST programs and a role model FIRST team. This team is a top contender for many other judged awards and is a gracious competitor. The Inspire Award winner is an inspiration to other teams, acting with Gracious Professionalism\ |reg| both on and off the playing FIELD. This team shares their experiences, enthusiasm, and knowledge with other teams, sponsors, their community, and the JUDGES. Working as a unit, this team will have shown success in performing the task of designing and building a ROBOT.
+      The team that receives this award is a strong ambassador for FIRST programs and a role model FIRST team. This team is a top contender for many other judged awards and is a gracious competitor. The Inspire Award winner is an inspiration to other teams, acting with Gracious Professionalism\ |reg| both on and off the playing FIELD. This team shares their experiences, enthusiasm, and knowledge with other teams, sponsors, their community, and the JUDGES. Working as a unit, this team will have shown success in performing the task of designing and building a ROBOT.
 
 A portfolio is required for this award. The Inspire Award is the top award for an FTC team. It is given to a team that consistently rises to the top in other awards categories.
 
 While the description is comprehensive, here are the key, unwritten tips for winning the top award:
 
 .. tip::
-  - Be a "Complete Package": You cannot win Inspire by being excellent in just one area. Your robot must be competitive (a top contender), your portfolio must be comprehensive and professional, and your outreach must be meaningful. Excellence in all judged categories is the goal.
-  - Demonstrate Leadership, Not Just Participation: Show how your team leads and inspires others. Did you host a scrimmage for newer teams? Create shared resources? Mentor an FLL team? This goes beyond sharing your own experiences; it's about actively elevating your entire FIRST community.
-  - Exemplify Gracious Professionalism\ |reg| in Action: Judges will observe you in the pit and on the field. Be helpful to other teams, share tools, cheer for opponents, and handle both wins and losses with grace. Your actions speak as loudly as your portfolio.
-  - Tell a Cohesive Story: In your judge interview, connect the dots between your robot design, your outreach, and your team's growth. Show how your core values drove your success in every aspect of the season.
+   - Be a "Complete Package": You cannot win Inspire by being excellent in just one area. Your robot must be competitive (a top contender), your portfolio must be comprehensive and professional, and your outreach must be meaningful. Excellence in all judged categories is the goal.
+   - Demonstrate Leadership, Not Just Participation: Show how your team leads and inspires others. Did you host a scrimmage for newer teams? Create shared resources? Mentor an FLL team? This goes beyond sharing your own experiences; it's about actively elevating your entire FIRST community.
+   - Exemplify Gracious Professionalism\ |reg| in Action: Judges will observe you in the pit and on the field. Be helpful to other teams, share tools, cheer for opponents, and handle both wins and losses with grace. Your actions speak as loudly as your portfolio.
+   - Tell a Cohesive Story: In your judge interview, connect the dots between your robot design, your outreach, and your team's growth. Show how your core values drove your success in every aspect of the season.
 
 Inspire Award Criteria
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -73,7 +71,7 @@ Official |CM| Description
 
    .. glossary::
 
-         This judged award is given to the team that best reflects the journey the team took as they experienced their season. The content within the PORTFOLIO is the key reference for JUDGES to help identify the most deserving team. The team could share or provide additional detailed information that is helpful for the JUDGES.
+      This judged award is given to the team that best reflects the journey the team took as they experienced their season. The content within the PORTFOLIO is the key reference for JUDGES to help identify the most deserving team. The team could share or provide additional detailed information that is helpful for the JUDGES.
 
 A portfolio is required for this award. The Think Award is based entirely on the |EP|. In order to have a chance at winning, the |EP| should include as much math and physics as possible, document the entire journey of the robot through iterations, and other documentation of design and game strategy.
 
@@ -100,11 +98,12 @@ Think Award Criteria
 +----------------+---+----------------------------------------------------------------------------------------------------------------------------+
 
 Tips for this award:
+
 .. tip::
-  - It's All About the Portfolio: Remember, this award is judged entirely on the Engineering Portfolio. The interview is to clarify its contents. Every key point must be documented in writing.
-  - Show the "Journey," Not Just the Destination: Document every failure, every prototype, and every iteration. Include photos of failed mechanisms, notes from brainstorming sessions, and data from test logs. Judges want to see your thought process and how you overcame obstacles.
-  - Quantify Your Engineering Decisions: Don't just say "we made it stronger." Say "After the polycarbonate arm failed under 10N of force, we switched to 6061 aluminum, which withstood 50N in testing." Use math, physics, and data to justify every major design choice.
-  - Structure for Readability: A wall of text will lose the judges' interest. Use clear headings, bullet points, diagrams, and captioned images. Make it easy for a judge to quickly understand your process.
+   - It's All About the Portfolio: Remember, this award is judged entirely on the Engineering Portfolio. The interview is to clarify its contents. Every key point must be documented in writing.
+   - Show the "Journey," Not Just the Destination: Document every failure, every prototype, and every iteration. Include photos of failed mechanisms, notes from brainstorming sessions, and data from test logs. Judges want to see your thought process and how you overcame obstacles.
+   - Quantify Your Engineering Decisions: Don't just say "we made it stronger." Say "After the polycarbonate arm failed under 10N of force, we switched to 6061 aluminum, which withstood 50N in testing." Use math, physics, and data to justify every major design choice.
+   - Structure for Readability: A wall of text will lose the judges' interest. Use clear headings, bullet points, diagrams, and captioned images. Make it easy for a judge to quickly understand your process.
 
 Connect Award
 ~~~~~~~~~~~~~
@@ -116,7 +115,7 @@ Official |CM| Description
 
    .. glossary::
 
-         This judged award is given to the team that connects with their local science, technology, engineering, and math (STEM) community to learn and adopt new tools through effort and persistence. This team has a team plan and has identified steps to achieve their goals. A PORTFOLIO is not required for this award.
+      This judged award is given to the team that connects with their local science, technology, engineering, and math (STEM) community to learn and adopt new tools through effort and persistence. This team has a team plan and has identified steps to achieve their goals. A PORTFOLIO is not required for this award.
 
 A portfolio is required for this award, and should contain descriptions of the team's goals for the development of team member skills and what the team does to reach those goals. In addition, the portfolio should also contain information on how the team plans to meaningfully develop their STEM connections.
 
@@ -134,7 +133,6 @@ Connect Award Criteria
 +----------------+---+----------------------------------------------------------------------------------------------------------------------------------------+
 | **Encouraged** | 3 | Provide examples of how it actively engages with the engineering community.                                                            |
 +----------------+---+----------------------------------------------------------------------------------------------------------------------------------------+
-
 
 The core of this award is depth, purpose, and learning, not just quantity.
 
@@ -167,7 +165,7 @@ Official |CM| Description
 
    .. glossary::
 
-         This award celebrates a team that has introduced and recruited new people into FIRST. Through their efforts, they have sparked others to embrace the FIRST culture. A PORTFOLIO is not required for this award.
+      This award celebrates a team that has introduced and recruited new people into FIRST. Through their efforts, they have sparked others to embrace the FIRST culture. A PORTFOLIO is not required for this award.
 
 Starting from DECODE season, the Motivate Award is divided into Reach and Sustain Awards. Reach Award includes outreach objectives and how it affects FIRST community as well as how team recruitment new teams/coaches/mentors/volunteers who were not previously involved in FIRST.
 
@@ -183,7 +181,6 @@ Reach Award Criteria
 +----------------+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Encouraged** | 4 | Has a creative and evolving approach to outreach materials that market their team and FIRST                                                                                                   |
 +----------------+---+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-
 
 This award is about growth, inclusion, and creating new FIRST enthusiasts.
 
@@ -215,7 +212,7 @@ Official |CM| Description
 
    .. glossary::
 
-         Sustainability and planning are essential for a FIRST team, because they ensure the program's long-term success. This award celebrates the team that has considered their future team members and has worked to ensure that their team or program will continue to exist long after they have gone on to develop their careers. A PORTFOLIO is not required for this award.
+      Sustainability and planning are essential for a FIRST team, because they ensure the program's long-term success. This award celebrates the team that has considered their future team members and has worked to ensure that their team or program will continue to exist long after they have gone on to develop their careers. A PORTFOLIO is not required for this award.
 
 The next Award which was previously included in the Motivate Award is Sustain. This Award answers the question "How will your team exist in the future and what are you doing to make it happen?".
 
@@ -234,8 +231,6 @@ Sustain Award Criteria
 +----------------+---+-----------------------------------------------------------------------------------------------------------------------+
 | **Encouraged** | 4 | Team can discuss, describe, display, or document how they manage the team's constraints and/or risks.                 |
 +----------------+---+-----------------------------------------------------------------------------------------------------------------------+
-
-
 
 This award is about systems, processes, and forward-thinking to ensure the team thrives for years to come.
 
@@ -262,14 +257,14 @@ This award is about systems, processes, and forward-thinking to ensure the team 
 - Retention: Fun, non-competitive build projects or community service events.
 
 .. tip::
-  Tips for Connect, Reach & Sustain
+   Tips for Connect, Reach & Sustain
 
-  - Present numbers, but only emphasize them if they're large with a wow factor
-  - Make sure your numbers are somewhat accurate! If you are at a large event, you can get a rough headcount from the organizers, but its generally better to know roughly how many people actually stopped and looked at your team.
-  - Present stories to the judges, not just overviews. Tell personal stories.
-  - Log all your outreach events, with who went and how many hours each person did in its own place separate from the |EP|. This makes it easier to compile total numbers and shows the judges every outreach activity/event in one place.
-  - For a bigger impact make sure you have more resources then just your team's information at an event, having details for FIRST Lego League teams in addition to your FIRST Tech Challenge information can broaden how many people you reach.
-  - Follow up, follow up, follow up! If a person gives you a business card or a student expresses interest, it doesn't hurt to follow up if they don't reach out as promised. People can forget or get busy, sometimes a reminder is useful!
+   - Present numbers, but only emphasize them if they're large with a wow factor
+   - Make sure your numbers are somewhat accurate! If you are at a large event, you can get a rough headcount from the organizers, but its generally better to know roughly how many people actually stopped and looked at your team.
+   - Present stories to the judges, not just overviews. Tell personal stories.
+   - Log all your outreach events, with who went and how many hours each person did in its own place separate from the |EP|. This makes it easier to compile total numbers and shows the judges every outreach activity/event in one place.
+   - For a bigger impact make sure you have more resources then just your team's information at an event, having details for FIRST Lego League teams in addition to your FIRST Tech Challenge information can broaden how many people you reach.
+   - Follow up, follow up, follow up! If a person gives you a business card or a student expresses interest, it doesn't hurt to follow up if they don't reach out as promised. People can forget or get busy, sometimes a reminder is useful!
 
 Innovate Award
 ~~~~~~~~~~~~~~
@@ -281,7 +276,7 @@ Official |CM| Description
 
    .. glossary::
 
-         The Innovate Award celebrates a team that thinks imaginatively and has the ingenuity, creativity, and inventiveness to make their designs come to life. This judged award is given to the team that has an innovative and creative ROBOT design solution to any specific components in the FIRST Tech Challenge game. Elements of this award include design, robustness, and creative thinking related to design. This award may address the design of the whole ROBOT or of a MECHANISM attached to the ROBOT and should work consistently during MATCHES, but does not have to work all the time to be considered for this award. A PORTFOLIO is not required for this award.
+      The Innovate Award celebrates a team that thinks imaginatively and has the ingenuity, creativity, and inventiveness to make their designs come to life. This judged award is given to the team that has an innovative and creative ROBOT design solution to any specific components in the FIRST Tech Challenge game. Elements of this award include design, robustness, and creative thinking related to design. This award may address the design of the whole ROBOT or of a MECHANISM attached to the ROBOT and should work consistently during MATCHES, but does not have to work all the time to be considered for this award. A PORTFOLIO is not required for this award.
 
 The Innovate award is what it sounds like - it's for teams with innovative robots or robot mechanisms.
 
@@ -305,48 +300,50 @@ Innovate Award Criteria
 +----------------+---+----------------------------------------------------------------------------------------------------------------------------------------------------+
 
 The Innovate Award is about celebrating a unique and clever solution to a game challenge. It's not just about what you built, but why your approach was uniquely smart, creative, and effective.
-Tips for this award:
-.. tip::
-  1. Identify and Isolate Your "Hero Mechanism"
-     - Focus is Everything: Do not try to sell your entire robot as innovative. Judges will ask, "What is the most innovative part?" Have a clear, confident answer. Pick one or two mechanisms that are truly special.
-     - Define "Innovative" for Your Design: Innovation can mean many things. Which category does your mechanism fit into?
-         * Novel Concept: Is it a mechanism rarely seen in FTC? (e.g., a "full-roller" intake when everyone uses compliant wheels, a novel linkage no one else thought of).
-         * Elegant Simplicity: Does it solve a complex problem in a surprisingly simple and reliable way? (e.g., a passive alignment guide that works perfectly vs. a complex active system).
-         * Creative Use of Materials: Did you use a material in an unconventional way? (e.g., using nitinol (memory wire), casting silicone rubber for grips, using fiberglass rods).
-         * Cross-Pollination: Did you adapt a mechanism from a completely different field? (e.g., a mechanism inspired by bicycle gears, a construction crane, or a sewing machine).
-  2. Build Your Narrative: The Story of Innovation
-     You need a compelling story that proves your mechanism wasn't just copied, but born from creative problem-solving.
-     - Start with the Problem: Frame the game challenge you were solving in a way that makes your solution necessary.
-         * Example: "Everyone was struggling with inconsistent pixel intake from the stack. The problem wasn't power, it was alignment."
-     - Show the Journey, Not Just the Result: Document the dead ends and prototypes that led to your innovation.
-         * Example: "We tried a standard roller intake (show photo), but it jammed. We tried a pincher (show photo), but it was slow. Our breakthrough was realizing we could use a counter-rotating roller system that self-centers the pixel every time."
-     - Quantify the "Innovation Payoff": How did your creative solution provide a tangible advantage?
-         * Use Data: "...which increased our cycle time by 2 seconds."
-         * Use Reliability: "...which worked 19 out of 20 times in testing, compared to our old design which worked 10 out of 20 times."
-         * Use a Unique Capability: "...which allowed us to be the only robot in our region capable of consistently scoring the [specific, difficult task]."
-  3.  Portfolio and Presentation: Selling the Sizzle
-     - Create an "Innovation Spotlight": In your portfolio, have a dedicated 1-2 page section for your "hero mechanism." This section should include:
-         * CAD Renderings from multiple angles.
-         * Diagrams explaining the core mechanical principle (e.g., a kinematic diagram for a linkage).
-         * Photos of prototypes and the final build.
-         * A clear, concise narrative following the "Problem -> Failed Ideas -> Breakthrough -> Result" structure.
-     - The "Tease" Strategy: As the description suggests, don't dump all the information in your initial pitch. Give a high-level overview that sparks curiosity.
-         * In your presentation: "We're most proud of our intake. It uses a non-standard method that makes it incredibly reliable. We'd love to tell you more about it if you're interested."
-         * This invites the judge to ask: "Oh, what's the non-standard method?" This gives you the floor to deliver your well-practiced, passionate explanation.
-     - Prepare for the "Why?": Be ready to answer these questions deeply:
-         * "Why is this better than the common solution?" (Have a specific, comparative answer.)
-         * "What was the moment of inspiration?" (Have a story-even a small one.)
-         * "Did you invent this whole cloth, or adapt it from somewhere?" (Be honest! Adapting an existing concept cleverly is still innovation.)
-  4.  Handling the Hardware/Software Gray Area
-     - If your innovation is purely software, it is generally better to focus on the Control Award. However, if a software algorithm enables a mechanical system to do something truly unique that it otherwise couldn't, you can present it under Innovate.
-         * Example: "Our innovative mecanum drift compensation algorithm allows us to use a simple passive intake in a way that requires active intakes for other teams." Here, the software enables the mechanical simplicity.
-  5.  Common Pitfalls to Avoid
-     - Confusing Complexity with Innovation: A mechanism with 20 parts that performs the same function as a mechanism with 5 parts is not innovative-it's over-engineered. Innovation is about a smarter concept, not more parts.
-     - Claiming Innovation on a Standard Solution: Calling a standard 4-motor direct drive chassis or a basic arm "innovative" will hurt your credibility. Be realistic about what is common in the FTC ecosystem.
-     - Failing to Articulate the "Why": You can't just say "it's innovative." You must prove it by contrasting it with other approaches and demonstrating its unique benefits.
-     - The Mechanism Doesn't Work: While it "does not have to work all the time," it must work sometimes and the concept must be sound. A completely non-functional "innovation" is just a theory.
 
-  The Innovate Award goes to the team that can best tell the story of a clever, creative, and effective solution to a specific game challenge. It's about proving that your team didn't just build a robot-you solved a puzzle in a way that no one else did.
+Tips for this award:
+
+.. tip::
+   1. Identify and Isolate Your "Hero Mechanism"
+      - Focus is Everything: Do not try to sell your entire robot as innovative. Judges will ask, "What is the most innovative part?" Have a clear, confident answer. Pick one or two mechanisms that are truly special.
+      - Define "Innovative" for Your Design: Innovation can mean many things. Which category does your mechanism fit into?
+          * Novel Concept: Is it a mechanism rarely seen in FTC? (e.g., a "full-roller" intake when everyone uses compliant wheels, a novel linkage no one else thought of).
+          * Elegant Simplicity: Does it solve a complex problem in a surprisingly simple and reliable way? (e.g., a passive alignment guide that works perfectly vs. a complex active system).
+          * Creative Use of Materials: Did you use a material in an unconventional way? (e.g., using nitinol (memory wire), casting silicone rubber for grips, using fiberglass rods).
+          * Cross-Pollination: Did you adapt a mechanism from a completely different field? (e.g., a mechanism inspired by bicycle gears, a construction crane, or a sewing machine).
+   2. Build Your Narrative: The Story of Innovation
+      You need a compelling story that proves your mechanism wasn't just copied, but born from creative problem-solving.
+      - Start with the Problem: Frame the game challenge you were solving in a way that makes your solution necessary.
+          * Example: "Everyone was struggling with inconsistent pixel intake from the stack. The problem wasn't power, it was alignment."
+      - Show the Journey, Not Just the Result: Document the dead ends and prototypes that led to your innovation.
+          * Example: "We tried a standard roller intake (show photo), but it jammed. We tried a pincher (show photo), but it was slow. Our breakthrough was realizing we could use a counter-rotating roller system that self-centers the pixel every time."
+      - Quantify the "Innovation Payoff": How did your creative solution provide a tangible advantage?
+          * Use Data: "...which increased our cycle time by 2 seconds."
+          * Use Reliability: "...which worked 19 out of 20 times in testing, compared to our old design which worked 10 out of 20 times."
+          * Use a Unique Capability: "...which allowed us to be the only robot in our region capable of consistently scoring the [specific, difficult task]."
+   3. Portfolio and Presentation: Selling the Sizzle
+      - Create an "Innovation Spotlight": In your portfolio, have a dedicated 1-2 page section for your "hero mechanism." This section should include:
+          * CAD Renderings from multiple angles.
+          * Diagrams explaining the core mechanical principle (e.g., a kinematic diagram for a linkage).
+          * Photos of prototypes and the final build.
+          * A clear, concise narrative following the "Problem -> Failed Ideas -> Breakthrough -> Result" structure.
+      - The "Tease" Strategy: As the description suggests, don't dump all the information in your initial pitch. Give a high-level overview that sparks curiosity.
+          * In your presentation: "We're most proud of our intake. It uses a non-standard method that makes it incredibly reliable. We'd love to tell you more about it if you're interested."
+          * This invites the judge to ask: "Oh, what's the non-standard method?" This gives you the floor to deliver your well-practiced, passionate explanation.
+      - Prepare for the "Why?": Be ready to answer these questions deeply:
+          * "Why is this better than the common solution?" (Have a specific, comparative answer.)
+          * "What was the moment of inspiration?" (Have a story-even a small one.)
+          * "Did you invent this whole cloth, or adapt it from somewhere?" (Be honest! Adapting an existing concept cleverly is still innovation.)
+   4. Handling the Hardware/Software Gray Area
+      - If your innovation is purely software, it is generally better to focus on the Control Award. However, if a software algorithm enables a mechanical system to do something truly unique that it otherwise couldn't, you can present it under Innovate.
+          * Example: "Our innovative mecanum drift compensation algorithm allows us to use a simple passive intake in a way that requires active intakes for other teams." Here, the software enables the mechanical simplicity.
+   5. Common Pitfalls to Avoid
+      - Confusing Complexity with Innovation: A mechanism with 20 parts that performs the same function as a mechanism with 5 parts is not innovative-it's over-engineered. Innovation is about a smarter concept, not more parts.
+      - Claiming Innovation on a Standard Solution: Calling a standard 4-motor direct drive chassis or a basic arm "innovative" will hurt your credibility. Be realistic about what is common in the FTC ecosystem.
+      - Failing to Articulate the "Why": You can't just say "it's innovative." You must prove it by contrasting it with other approaches and demonstrating its unique benefits.
+      - The Mechanism Doesn't Work: While it "does not have to work all the time," it must work sometimes and the concept must be sound. A completely non-functional "innovation" is just a theory.
+
+   The Innovate Award goes to the team that can best tell the story of a clever, creative, and effective solution to a specific game challenge. It's about proving that your team didn't just build a robot-you solved a puzzle in a way that no one else did.
 
 Control Award
 ~~~~~~~~~~~~~
@@ -381,7 +378,6 @@ Control Award Criteria
 | **Encouraged** | 5 | Use of the engineering process to develop the control solutions (sensors, hardware and/or algorithms) used on the ROBOT includes lessons learned.                                              |
 +----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-
 Design Award
 ~~~~~~~~~~~~
 
@@ -392,7 +388,7 @@ Official |CM| Description
 
    .. glossary::
 
-         The Design Award celebrates the team that demonstrates an understanding of industrial design principles by striking a balance between form, function, and aesthetics while meeting the needs of this season's challenge. The design process used should result in a ROBOT which is efficiently designed and effectively addresses the game challenge. A PORTFOLIO is not required for this award.
+      The Design Award celebrates the team that demonstrates an understanding of industrial design principles by striking a balance between form, function, and aesthetics while meeting the needs of this season's challenge. The design process used should result in a ROBOT which is efficiently designed and effectively addresses the game challenge. A PORTFOLIO is not required for this award.
 
 The Design Award is one of the robot awards that primarily focuses on the hardware aspect of the robot. It is for robots that are both functional, aesthetic, and use good design practices, including CAD.
 
@@ -415,7 +411,6 @@ Design Award Criteria
 | **Encouraged** | 5 | Design is effective and consistent with the team's game plan and/or strategy.                                                                  |
 +----------------+---+------------------------------------------------------------------------------------------------------------------------------------------------+
 
-
 Judges Choice Award
 ~~~~~~~~~~~~~~~~~~~
 
@@ -436,7 +431,7 @@ Official |CM| Description
 
    .. glossary::
 
-         In an effort to recognize the leadership and dedication of the most outstanding secondary school STUDENTS from FIRST, the Kamen family sponsors awards for selected 10th or 11th grade STUDENTS known as the FIRST Tech Challenge FIRST Dean's List Award. The STUDENTS who earn FIRST Dean's List status as a semi-finalist, finalist or winner, are great examples of current STUDENT leaders who have led their teams and communities to increased awareness for FIRST and its mission, champion FIRST Core Values such as Inclusion, and embody Gracious Professionalism\ |reg| . It is the goal of FIRST that these individuals will continue, post-award, as great leaders, STUDENT alumni, and advocates of FIRST. Please visit the Dean's List Award Website to see complete award submission details and to see past FIRST Tech Challenge winners. For regions of the world that do not use grade levels such as this to identify years of schooling: This award is intended for STUDENTS who are two (2) to three (3) years away from enterin         g college or university. STUDENTS that would be attending college or university in the next academic year are not eligible. Mentors will be asked for the year of graduation during the nomination process.
+      In an effort to recognize the leadership and dedication of the most outstanding secondary school STUDENTS from FIRST, the Kamen family sponsors awards for selected 10th or 11th grade STUDENTS known as the FIRST Tech Challenge FIRST Dean's List Award. The STUDENTS who earn FIRST Dean's List status as a semi-finalist, finalist or winner, are great examples of current STUDENT leaders who have led their teams and communities to increased awareness for FIRST and its mission, champion FIRST Core Values such as Inclusion, and embody Gracious Professionalism\ |reg| . It is the goal of FIRST that these individuals will continue, post-award, as great leaders, STUDENT alumni, and advocates of FIRST. Please visit the Dean's List Award Website to see complete award submission details and to see past FIRST Tech Challenge winners. For regions of the world that do not use grade levels such as this to identify years of schooling: This award is intended for STUDENTS who are two (2) to three (3) years away from entering college or university. STUDENTS that would be attending college or university in the next academic year are not eligible. Mentors will be asked for the year of graduation during the nomination process.
 
 There are three (3) "categories" of FIRST Dean's List Award students:
 
@@ -468,7 +463,7 @@ Official |CM| Description
 
    .. glossary::
 
-         This is an optional award and is only offered at the Regional Championship tournament level of competition. All teams attending FIRST Championship will have an opportunity to submit for this award. The Compass Award recognizes an adult coach or mentor who has given outstanding guidance and support to a team throughout the year and demonstrates to the team what it means to be a Gracious Professional. The winner of the Compass Award will be chosen from candidates nominated by FIRST Tech Challenge STUDENT team members, via a 40-60 second video submission. The video must highlight how their mentor has helped them become an inspirational team. The video should emphasize what sets the mentor apart.
+      This is an optional award and is only offered at the Regional Championship tournament level of competition. All teams attending FIRST Championship will have an opportunity to submit for this award. The Compass Award recognizes an adult coach or mentor who has given outstanding guidance and support to a team throughout the year and demonstrates to the team what it means to be a Gracious Professional. The winner of the Compass Award will be chosen from candidates nominated by FIRST Tech Challenge STUDENT team members, via a 40-60 second video submission. The video must highlight how their mentor has helped them become an inspirational team. The video should emphasize what sets the mentor apart.
 
 The Compass award is an optional award that is usually given only at state championships and world championships. It is submitted as a video no longer than 1 minute. The Compass award is for recognizing an outstanding mentor. Submitting this award is usually done on a case-by-case basis, where the event organizer sends teams instructions on how to submit.
 
