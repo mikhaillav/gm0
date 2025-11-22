@@ -8,7 +8,7 @@ Advancing Awards
 
 There are 8 awards for FTC\ |reg| teams (excluding optional awards). For more information on the exact requirements for these awards, see |CM|.
 
-.. image:: images/award-types/award-hierarchy.jpg
+.. image:: images/award-types/award-hierarchy.png
    :alt: Award hierarchy
    :width: 100%
 
