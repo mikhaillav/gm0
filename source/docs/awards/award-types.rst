@@ -307,10 +307,10 @@ Tips for this award:
    1. Identify and Isolate Your "Hero Mechanism"
      - Focus is Everything: Do not try to sell your entire robot as innovative. Judges will ask, "What is the most innovative part?" Have a clear, confident answer. Pick one or two mechanisms that are truly special.
      - Define "Innovative" for Your Design: Innovation can mean many things. Which category does your mechanism fit into?
-      - Novel Concept: Is it a mechanism rarely seen in FTC? (e.g., a "full-roller" intake when everyone uses compliant wheels, a novel linkage no one else thought of).
-      - Elegant Simplicity: Does it solve a complex problem in a surprisingly simple and reliable way? (e.g., a passive alignment guide that works perfectly vs. a complex active system).
-      - Creative Use of Materials: Did you use a material in an unconventional way? (e.g., using nitinol (memory wire), casting silicone rubber for grips, using fiberglass rods).
-      - Cross-Pollination: Did you adapt a mechanism from a completely different field? (e.g., a mechanism inspired by bicycle gears, a construction crane, or a sewing machine).
+       - Novel Concept: Is it a mechanism rarely seen in FTC? (e.g., a "full-roller" intake when everyone uses compliant wheels, a novel linkage no one else thought of).
+       - Elegant Simplicity: Does it solve a complex problem in a surprisingly simple and reliable way? (e.g., a passive alignment guide that works perfectly vs. a complex active system).
+       - Creative Use of Materials: Did you use a material in an unconventional way? (e.g., using nitinol (memory wire), casting silicone rubber for grips, using fiberglass rods).
+       - Cross-Pollination: Did you adapt a mechanism from a completely different field? (e.g., a mechanism inspired by bicycle gears, a construction crane, or a sewing machine).
 
    The Innovate Award goes to the team that can best tell the story of a clever, creative, and effective solution to a specific game challenge. It's about proving that your team didn't just build a robot-you solved a puzzle in a way that no one else did.
 
