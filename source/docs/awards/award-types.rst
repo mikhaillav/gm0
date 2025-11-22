@@ -304,7 +304,7 @@ The Innovate Award is about celebrating a unique and clever solution to a game c
 Tips for this award:
 
 .. tip::
-   1. Identify and Isolate Your "Hero Mechanism"
+   #. Identify and Isolate Your "Hero Mechanism"
      - Focus is Everything: Do not try to sell your entire robot as innovative. Judges will ask, "What is the most innovative part?" Have a clear, confident answer. Pick one or two mechanisms that are truly special.
      - Define "Innovative" for Your Design: Innovation can mean many things. Which category does your mechanism fit into?
        - Novel Concept: Is it a mechanism rarely seen in FTC? (e.g., a "full-roller" intake when everyone uses compliant wheels, a novel linkage no one else thought of).
