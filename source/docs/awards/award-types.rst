@@ -43,7 +43,7 @@ While the description is comprehensive, here are the key, unwritten tips for win
 .. tip::
   - Be a "Complete Package": You cannot win Inspire by being excellent in just one area. Your robot must be competitive (a top contender), your portfolio must be comprehensive and professional, and your outreach must be meaningful. Excellence in all judged categories is the goal.
   - Demonstrate Leadership, Not Just Participation: Show how your team leads and inspires others. Did you host a scrimmage for newer teams? Create shared resources? Mentor an FLL team? This goes beyond sharing your own experiences; it's about actively elevating your entire FIRST community.
-  - Exemplify Gracious Professionalism® in Action: Judges will observe you in the pit and on the field. Be helpful to other teams, share tools, cheer for opponents, and handle both wins and losses with grace. Your actions speak as loudly as your portfolio.
+  - Exemplify Gracious Professionalism\ |reg| in Action: Judges will observe you in the pit and on the field. Be helpful to other teams, share tools, cheer for opponents, and handle both wins and losses with grace. Your actions speak as loudly as your portfolio.
   - Tell a Cohesive Story: In your judge interview, connect the dots between your robot design, your outreach, and your team's growth. Show how your core values drove your success in every aspect of the season.
 
 Inspire Award Criteria
@@ -335,18 +335,18 @@ Tips for this award:
          * This invites the judge to ask: "Oh, what's the non-standard method?" This gives you the floor to deliver your well-practiced, passionate explanation.
      - Prepare for the "Why?": Be ready to answer these questions deeply:
          * "Why is this better than the common solution?" (Have a specific, comparative answer.)
-         * "What was the moment of inspiration?" (Have a story—even a small one.)
+         * "What was the moment of inspiration?" (Have a story-even a small one.)
          * "Did you invent this whole cloth, or adapt it from somewhere?" (Be honest! Adapting an existing concept cleverly is still innovation.)
   4.  Handling the Hardware/Software Gray Area
      - If your innovation is purely software, it is generally better to focus on the Control Award. However, if a software algorithm enables a mechanical system to do something truly unique that it otherwise couldn't, you can present it under Innovate.
          * Example: "Our innovative mecanum drift compensation algorithm allows us to use a simple passive intake in a way that requires active intakes for other teams." Here, the software enables the mechanical simplicity.
   5.  Common Pitfalls to Avoid
-     - Confusing Complexity with Innovation: A mechanism with 20 parts that performs the same function as a mechanism with 5 parts is not innovative—it's over-engineered. Innovation is about a smarter concept, not more parts.
+     - Confusing Complexity with Innovation: A mechanism with 20 parts that performs the same function as a mechanism with 5 parts is not innovative-it's over-engineered. Innovation is about a smarter concept, not more parts.
      - Claiming Innovation on a Standard Solution: Calling a standard 4-motor direct drive chassis or a basic arm "innovative" will hurt your credibility. Be realistic about what is common in the FTC ecosystem.
      - Failing to Articulate the "Why": You can't just say "it's innovative." You must prove it by contrasting it with other approaches and demonstrating its unique benefits.
      - The Mechanism Doesn't Work: While it "does not have to work all the time," it must work sometimes and the concept must be sound. A completely non-functional "innovation" is just a theory.
 
-  The Innovate Award goes to the team that can best tell the story of a clever, creative, and effective solution to a specific game challenge. It's about proving that your team didn't just build a robot—you solved a puzzle in a way that no one else did.
+  The Innovate Award goes to the team that can best tell the story of a clever, creative, and effective solution to a specific game challenge. It's about proving that your team didn't just build a robot-you solved a puzzle in a way that no one else did.
 
 Control Award
 ~~~~~~~~~~~~~
