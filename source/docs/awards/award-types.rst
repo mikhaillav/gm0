@@ -311,37 +311,6 @@ Tips for this award:
       - Elegant Simplicity: Does it solve a complex problem in a surprisingly simple and reliable way? (e.g., a passive alignment guide that works perfectly vs. a complex active system).
       - Creative Use of Materials: Did you use a material in an unconventional way? (e.g., using nitinol (memory wire), casting silicone rubber for grips, using fiberglass rods).
       - Cross-Pollination: Did you adapt a mechanism from a completely different field? (e.g., a mechanism inspired by bicycle gears, a construction crane, or a sewing machine).
-   2. Build Your Narrative: The Story of Innovation
-      You need a compelling story that proves your mechanism wasn't just copied, but born from creative problem-solving.
-      - Start with the Problem: Frame the game challenge you were solving in a way that makes your solution necessary.
-        - Example: "Everyone was struggling with inconsistent pixel intake from the stack. The problem wasn't power, it was alignment."
-      - Show the Journey, Not Just the Result: Document the dead ends and prototypes that led to your innovation.
-        - Example: "We tried a standard roller intake (show photo), but it jammed. We tried a pincher (show photo), but it was slow. Our breakthrough was realizing we could use a counter-rotating roller system that self-centers the pixel every time."
-      - Quantify the "Innovation Payoff": How did your creative solution provide a tangible advantage?
-        - Use Data: "...which increased our cycle time by 2 seconds."
-        - Use Reliability: "...which worked 19 out of 20 times in testing, compared to our old design which worked 10 out of 20 times."
-        - Use a Unique Capability: "...which allowed us to be the only robot in our region capable of consistently scoring the [specific, difficult task]."
-   3. Portfolio and Presentation: Selling the Sizzle
-      - Create an "Innovation Spotlight": In your portfolio, have a dedicated 1-2 page section for your "hero mechanism." This section should include:
-        - CAD Renderings from multiple angles.
-        - Diagrams explaining the core mechanical principle (e.g., a kinematic diagram for a linkage).
-        - Photos of prototypes and the final build.
-        - A clear, concise narrative following the "Problem -> Failed Ideas -> Breakthrough -> Result" structure.
-      - The "Tease" Strategy: As the description suggests, don't dump all the information in your initial pitch. Give a high-level overview that sparks curiosity.
-        - In your presentation: "We're most proud of our intake. It uses a non-standard method that makes it incredibly reliable. We'd love to tell you more about it if you're interested."
-        - This invites the judge to ask: "Oh, what's the non-standard method?" This gives you the floor to deliver your well-practiced, passionate explanation.
-      - Prepare for the "Why?": Be ready to answer these questions deeply:
-        - "Why is this better than the common solution?" (Have a specific, comparative answer.)
-        - "What was the moment of inspiration?" (Have a story-even a small one.)
-        - "Did you invent this whole cloth, or adapt it from somewhere?" (Be honest! Adapting an existing concept cleverly is still innovation.)
-   4. Handling the Hardware/Software Gray Area
-     - If your innovation is purely software, it is generally better to focus on the Control Award. However, if a software algorithm enables a mechanical system to do something truly unique that it otherwise couldn't, you can present it under Innovate.
-     - Example: "Our innovative mecanum drift compensation algorithm allows us to use a simple passive intake in a way that requires active intakes for other teams." Here, the software enables the mechanical simplicity.
-   5. Common Pitfalls to Avoid
-      - Confusing Complexity with Innovation: A mechanism with 20 parts that performs the same function as a mechanism with 5 parts is not innovative-it's over-engineered. Innovation is about a smarter concept, not more parts.
-      - Claiming Innovation on a Standard Solution: Calling a standard 4-motor direct drive chassis or a basic arm "innovative" will hurt your credibility. Be realistic about what is common in the FTC ecosystem.
-      - Failing to Articulate the "Why": You can't just say "it's innovative." You must prove it by contrasting it with other approaches and demonstrating its unique benefits.
-      - The Mechanism Doesn't Work: While it "does not have to work all the time," it must work sometimes and the concept must be sound. A completely non-functional "innovation" is just a theory.
 
    The Innovate Award goes to the team that can best tell the story of a clever, creative, and effective solution to a specific game challenge. It's about proving that your team didn't just build a robot-you solved a puzzle in a way that no one else did.
 
