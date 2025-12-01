@@ -196,7 +196,7 @@ This award is about growth, inclusion, and creating new FIRST enthusiasts.
 - New Volunteers: Promote judge, referee, and field reset volunteer opportunities at your outreach events.
 - New Coaches: Help interested parents or teachers understand the commitment and guide them through starting a new FLL team.
 
-**Make your outreach the "first step" into FIRST. At public events, don't just display a cool robot - actively engage your audience and show them how to begin their own journey:
+**Make your outreach the "first step" into FIRST.** At public events, don't just display a cool robot - actively engage your audience and show them how to begin their own journey:
 
 - Have a simple, hands-on activity (e.g., drive a past season's robot, build a simple LEGO mechanism).
 - Have clear, take-home information on how to start or join a team.
