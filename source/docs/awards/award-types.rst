@@ -20,7 +20,6 @@ These are:
 - **The Think Award** recognizes teams who masterfully document their team's process and ROBOT using their PORTFOLIO.
 - **Judges' Choice Award** recognizes a team whose unique efforts, performance, or dynamics merit recognition, but does not fit into any of the other award categories.
 
-Of all the awards, this one is arguably the most subjective, as it is about how good does a team does overall, including and how much they weigh outreach as compared to robot performance along with documentation.
 
 Inspire Award
 ~~~~~~~~~~~~~
@@ -35,6 +34,8 @@ Official |CM| Description
       The team that receives this award is a strong ambassador for FIRST programs and a role model FIRST team. This team is a top contender for many other judged awards and is a gracious competitor. The Inspire Award winner is an inspiration to other teams, acting with Gracious Professionalism\ |reg| both on and off the playing FIELD. This team shares their experiences, enthusiasm, and knowledge with other teams, sponsors, their community, and the JUDGES. Working as a unit, this team will have shown success in performing the task of designing and building a ROBOT.
 
 A portfolio is required for this award. The Inspire Award is the top award for an FTC team. It is given to a team that consistently rises to the top in other awards categories.
+
+Of all the awards, this one is arguably the most subjective, as it is about how good does a team does overall, including and how much they weigh outreach as compared to robot performance along with documentation.
 
 While the description is comprehensive, here are the key, unwritten tips for winning the top award:
 
@@ -117,15 +118,14 @@ Official |CM| Description
 
       This judged award is given to the team that connects with their local science, technology, engineering, and math (STEM) community to learn and adopt new tools through effort and persistence. This team has a team plan and has identified steps to achieve their goals. A PORTFOLIO is not required for this award.
 
-A portfolio is required for this award, and should contain descriptions of the team's goals for the development of team member skills and what the team does to reach those goals. In addition, the portfolio should also contain information on how the team plans to meaningfully develop their STEM connections.
-
 Be prepared for judges to ask you how your outreaches were meaningful, and try to avoid doing STEM outreaches just for the sake of saying you did a STEM outreach. Successful STEM outreaches are those that are undertaken for a specific purpose and have a clear intent and goal, such as meeting with an expert on computer vision to ask for advice on a vision task for the game. If you are struggling to find STEM outreaches, local colleges and businesses are a good start.
 
 Connect Award Criteria
 ^^^^^^^^^^^^^^^^^^^^^^
 
 +----------------+---+----------------------------------------------------------------------------------------------------------------------------------------+
-| **Required**   | 1 | Team must describe, display, or document a team plan that covers all of the following:                                                 |
+| **Required**   | 1 | Team must describe, display, or document a team plan that covers all of the following: 
+|                |   |                                                                                                                                        |
 |                |   | A. The team's goals for the development of team member skills, and                                                                     |
 |                |   | B. The steps the team has taken or will take to reach those goals                                                                      |
 +----------------+---+----------------------------------------------------------------------------------------------------------------------------------------+
@@ -147,7 +147,7 @@ The core of this award is depth, purpose, and learning, not just quantity.
 - The problem you were trying to solve.
 - Who you met (e.g., "Dr. Anna Smith, Professor of Computer Vision").
 - Key takeaways and advice received.
-- Photos of your team with the expert or implementing their advice.
+- Photos of your team with the expert or implementing of their advice.
 
 **Show a Spectrum of Connections.** A strong portfolio shows you seek help for different needs:
 
@@ -192,11 +192,11 @@ This award is about growth, inclusion, and creating new FIRST enthusiasts.
 
 **Broaden Your Definition of "Recruitment."** Reach isn't just for students. Actively recruit:
 
-- New Mentors: Reach out to parent professional networks, local tech companies, and retiree engineering groups.
+- New Mentors: Reach out to parents' professional networks, local tech companies, and retiree engineering groups.
 - New Volunteers: Promote judge, referee, and field reset volunteer opportunities at your outreach events.
 - New Coaches: Help interested parents or teachers understand the commitment and guide them through starting a new FLL team.
 
-**Make Your Outreach a "Gateway Drug" to FIRST.** At public events (fairs, demos), don't just show a cool robot.
+**Make your outreach the "first step" into FIRST. At public events, don't just display a cool robot—actively engage your audience and show them how to begin their own journey.
 
 - Have a simple, hands-on activity (e.g., drive a past season's robot, build a simple LEGO mechanism).
 - Have clear, take-home information on how to start or join a team.
