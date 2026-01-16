@@ -20,7 +20,6 @@ These are:
 - **The Think Award** recognizes teams who masterfully document their team's process and ROBOT using their PORTFOLIO.
 - **Judges' Choice Award** recognizes a team whose unique efforts, performance, or dynamics merit recognition, but does not fit into any of the other award categories.
 
-Of all the awards, this one is arguably the most subjective, as it is about how good does a team does overall, including and how much they weigh outreach as compared to robot performance along with documentation.
 
 Inspire Award
 ~~~~~~~~~~~~~
@@ -35,6 +34,8 @@ Official |CM| Description
       The team that receives this award is a strong ambassador for FIRST programs and a role model FIRST team. This team is a top contender for many other judged awards and is a gracious competitor. The Inspire Award winner is an inspiration to other teams, acting with Gracious Professionalism\ |reg| both on and off the playing FIELD. This team shares their experiences, enthusiasm, and knowledge with other teams, sponsors, their community, and the JUDGES. Working as a unit, this team will have shown success in performing the task of designing and building a ROBOT.
 
 A portfolio is required for this award. The Inspire Award is the top award for an FTC team. It is given to a team that consistently rises to the top in other awards categories.
+
+Of all the awards, this one is arguably the most subjective, as it is about how good does a team does overall, including and how much they weigh outreach as compared to robot performance along with documentation.
 
 While the description is comprehensive, here are the key, unwritten tips for winning the top award:
 
@@ -117,8 +118,6 @@ Official |CM| Description
 
       This judged award is given to the team that connects with their local science, technology, engineering, and math (STEM) community to learn and adopt new tools through effort and persistence. This team has a team plan and has identified steps to achieve their goals. A PORTFOLIO is not required for this award.
 
-A portfolio is required for this award, and should contain descriptions of the team's goals for the development of team member skills and what the team does to reach those goals. In addition, the portfolio should also contain information on how the team plans to meaningfully develop their STEM connections.
-
 Be prepared for judges to ask you how your outreaches were meaningful, and try to avoid doing STEM outreaches just for the sake of saying you did a STEM outreach. Successful STEM outreaches are those that are undertaken for a specific purpose and have a clear intent and goal, such as meeting with an expert on computer vision to ask for advice on a vision task for the game. If you are struggling to find STEM outreaches, local colleges and businesses are a good start.
 
 Connect Award Criteria
@@ -126,6 +125,7 @@ Connect Award Criteria
 
 +----------------+---+----------------------------------------------------------------------------------------------------------------------------------------+
 | **Required**   | 1 | Team must describe, display, or document a team plan that covers all of the following:                                                 |
+|                |   |                                                                                                                                        |
 |                |   | A. The team's goals for the development of team member skills, and                                                                     |
 |                |   | B. The steps the team has taken or will take to reach those goals                                                                      |
 +----------------+---+----------------------------------------------------------------------------------------------------------------------------------------+
@@ -147,7 +147,7 @@ The core of this award is depth, purpose, and learning, not just quantity.
 - The problem you were trying to solve.
 - Who you met (e.g., "Dr. Anna Smith, Professor of Computer Vision").
 - Key takeaways and advice received.
-- Photos of your team with the expert or implementing their advice.
+- Photos of your team with the expert or implementing of their advice.
 
 **Show a Spectrum of Connections.** A strong portfolio shows you seek help for different needs:
 
@@ -192,11 +192,11 @@ This award is about growth, inclusion, and creating new FIRST enthusiasts.
 
 **Broaden Your Definition of "Recruitment."** Reach isn't just for students. Actively recruit:
 
-- New Mentors: Reach out to parent professional networks, local tech companies, and retiree engineering groups.
+- New Mentors: Reach out to parents' professional networks, local tech companies, and retiree engineering groups.
 - New Volunteers: Promote judge, referee, and field reset volunteer opportunities at your outreach events.
 - New Coaches: Help interested parents or teachers understand the commitment and guide them through starting a new FLL team.
 
-**Make Your Outreach a "Gateway Drug" to FIRST.** At public events (fairs, demos), don't just show a cool robot.
+**Make your outreach the "first step" into FIRST.** At public events, don't just display a cool robot - actively engage your audience and show them how to begin their own journey:
 
 - Have a simple, hands-on activity (e.g., drive a past season's robot, build a simple LEGO mechanism).
 - Have clear, take-home information on how to start or join a team.
@@ -360,8 +360,12 @@ Control Award
 
 Official |CM| Description
 ^^^^^^^^^^^^^^^^^^^^^^^^^
+.. admonition:: Term
 
-The Control Award celebrates a team that uses sensors and software to increase the ROBOT'S functionality during gameplay. This award is given to the team that demonstrates innovative thinking and solutions to solve game challenges such as autonomous operation, improving mechanical systems with intelligent control, or using sensors to achieve better results. The solution(s) should work consistently during MATCHES but does not have to work all the time. Solutions considered for this award are not solely limited to the AUTO period of the MATCH and may also be used during TELEOP. The team's PORTFOLIO must contain a summary of the software, sensors, and mechanical control but would not include copies of the code itself.
+   .. glossary::
+
+
+      The Control Award celebrates a team that uses sensors and software to increase the ROBOT'S functionality during gameplay. This award is given to the team that demonstrates innovative thinking and solutions to solve game challenges such as autonomous operation, improving mechanical systems with intelligent control, or using sensors to achieve better results. The solution(s) should work consistently during MATCHES but does not have to work all the time. Solutions considered for this award are not solely limited to the AUTO period of the MATCH and may also be used during TELEOP. The team's PORTFOLIO must contain a summary of the software, sensors, and mechanical control but would not include copies of the code itself.
 
 The Control award is meant to recognize a team that has a good software solution to make their robot "intelligent". It's known as the "software award" and is for the team with the best or most innovative software and sensor solution for the game.
 
@@ -494,10 +498,10 @@ Compass Award Criteria
 
 Some good Compass award submissions include:
 
-- `Team 4855 in 2017 <https://www.youtube.com/watch?v=r3zK2l7K8Fo>`_
-- `Team 3595 in 2017 <https://www.youtube.com/watch?v=EKKaMAcAfXE>`_
-- `Team 9879 in 2017 <https://www.youtube.com/watch?v=z6M6UYMLujo>`_
-- `Team 6510 in 2015 <https://www.youtube.com/watch?v=E76ij2H3YF4>`_
+- `Team 11206 in 2025 <https://www.youtube.com/watch?v=GD6snNGpSNM>`_
+- `Team 5356 in 2024 <https://www.youtube.com/watch?v=qVfcVa6nIms>`_
+- `Team 14010 in 2023 <https://www.youtube.com/watch?v=XN-TyxRsGxg>`_
+- `Team 18457 in 2023 <https://www.youtube.com/watch?v=zlCELaCZox4>`_
 
 Project-Based Global Awards
 ---------------------------
@@ -510,7 +514,7 @@ This award, sponsored by Worcester Polytechnic Institute (WPI), celebrates STEAM
 Safety Animation Award
 ~~~~~~~~~~~~~~~~~~~~~~
 
-The 2025-26 theme for the Safety Animation Award, sponsored by UL Solutions, is: Unearth Safety! For this animation teams are invited to dig deep to uncover impactful ways to implement safe and sustainable practices. Use bold storytelling and imaginative artistry to create a memorable message that inspires responsible exploration and careful stewardship of our resources. More information can be found on `the Safety webpage <https://www.firstinspires.org/robotics/frc/safety>`_.
+The 2025-26 theme for the Safety Animation Award, sponsored by UL Solutions, is: Unearth Safety! For this animation teams are invited to dig deep to uncover impactful ways to implement safe and sustainable practices. Use both storytelling and imaginative artistry to create a memorable message that inspires responsible exploration and careful stewardship of our resources. More information can be found on `the Safety webpage <https://www.firstinspires.org/robotics/frc/safety>`_.
 
 FIRST believes that teams that take the lead in developing safety programs and policies have a positive and lasting impact on each team member and mentor in addition to their communities and present and future workplaces. FIRST recognizes the teams that demonstrate safety throughout their programs and are deeply committed to developing a culture of safety.
 
