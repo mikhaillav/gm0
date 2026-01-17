@@ -35,7 +35,7 @@ Official |CM| Description
 
 A portfolio is required for this award. The Inspire Award is the top award for an FTC team. It is given to a team that consistently rises to the top in other awards categories.
 
-Of all the awards, this one is arguably the most subjective, as it is about how good does a team does overall, including and how much they weigh outreach as compared to robot performance along with documentation.
+Of all the awards, this one is arguably the most subjective, as it is about how good a team does overall, including how much they weigh outreach as compared to robot performance and documentation.
 
 While the description is comprehensive, here are the key, unwritten tips for winning the top award:
 
@@ -118,7 +118,7 @@ Official |CM| Description
 
       This judged award is given to the team that connects with their local science, technology, engineering, and math (STEM) community to learn and adopt new tools through effort and persistence. This team has a team plan and has identified steps to achieve their goals. A PORTFOLIO is not required for this award.
 
-Be prepared for judges to ask you how your outreaches were meaningful, and try to avoid doing STEM outreaches just for the sake of saying you did a STEM outreach. Successful STEM outreaches are those that are undertaken for a specific purpose and have a clear intent and goal, such as meeting with an expert on computer vision to ask for advice on a vision task for the game. If you are struggling to find STEM outreaches, local colleges and businesses are a good start.
+Be prepared for judges to ask you how your outreaches were meaningful, and try to avoid doing STEM outreaches just for the sake of saying you did a STEM connections. Successful STEM outreaches are those that are undertaken for a specific purpose and have a clear intent and goal, such as meeting with an expert on computer vision to ask for advice on a vision task for the game. If you are struggling to find STEM outreaches, local colleges and businesses are a good start.
 
 Connect Award Criteria
 ^^^^^^^^^^^^^^^^^^^^^^
@@ -260,7 +260,7 @@ This award is about systems, processes, and forward-thinking to ensure the team 
    Tips for Connect, Reach & Sustain
 
    - Present numbers, but only emphasize them if they're large with a wow factor
-   - Make sure your numbers are somewhat accurate! If you are at a large event, you can get a rough headcount from the organizers, but its generally better to know roughly how many people actually stopped and looked at your team.
+   - Make sure your numbers are somewhat accurate! If you are at a large event, you can get a rough headcount from the organizers, but it's generally better to know roughly how many people actually stopped and looked at your team.
    - Present stories to the judges, not just overviews. Tell personal stories.
    - Log all your outreach events, with who went and how many hours each person did in its own place separate from the |EP|. This makes it easier to compile total numbers and shows the judges every outreach activity/event in one place.
    - For a bigger impact make sure you have more resources then just your team's information at an event, having details for FIRST Lego League teams in addition to your FIRST Tech Challenge information can broaden how many people you reach.
@@ -284,7 +284,7 @@ The Innovate award is mainly for hardware, but some teams have been able to also
 
 While it may be tempting to sell your entire robot as innovative, it is often much more effective to focus on one or two aspects of your robot instead. Judges will often ask what the most innovative part of your robot is, and this is your opportunity to focus in on the one or two mechanisms that you can sell.
 
-The |EP| should contain information on your robot's mechanisms, and your presentation should also mention the innovative parts of your robot. However, refrain from over describing the mechanisms you intend to sell as innovative, as you want to leave room for the judges to ask questions, which gives you more opportunities and time to sell your mechanisms. In addition, practice what aspects of the mechanisms you want to sell as innovative, and make sure you are able to thoroughly describe why they are innovative when asked.
+The |EP| should contain information on your robot's mechanisms, and your presentation should also mention the innovative parts of your robot. However, refrain from over-describing the mechanisms you intend to sell as innovative, as you want to leave room for the judges to ask questions, which gives you more opportunities and time to sell your mechanisms. In addition, practice what aspects of the mechanisms you want to sell as innovative, and make sure you are able to thoroughly describe why they are innovative when asked.
 
 Innovate Award Criteria
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -457,13 +457,13 @@ There are three (3) "categories" of FIRST Dean's List Award students:
 
 2. **FIRST Dean's List Finalists** - comprised of the students (2, 3, or 4, depending on the region) selected at each State/Regions Championship.
 
-   Upon the nomination window closing, every semi-finalist will receive an email from FIRST which provides the Semi-finalist with the nomination written by the coach. Semi-finalists should make sure to read the nomination to help prepare for the interview. Be prepared to discuss topics written in your nomination and anything else that you might what to mention that is relevant. It is also helpful to prepare a list of topics you want to discuss during the interview.
+   Upon the nomination window closing, every semi-finalist will receive an email from FIRST which provides the Semi-finalist with the nomination written by the coach. Semi-finalists should make sure to read the nomination to help prepare for the interview. Be prepared to discuss topics written in your nomination and anything else that you might want to mention that is relevant. It is also helpful to prepare a list of topics you want to discuss during the interview.
 
    The interview is where the Dean's List Interviewers can meet you and potentially learn some new information about you. There is no need to dress up for your interview, but we do recommend that you prepare for it as if it were a job interview. Come up with some talking points so you can remember things that you want to tell the judges in response to questions, do mock interviews, and come into the interview planning to be confident and engaging. Remember that this is a conversational interview, there are no presentations, video links provided to the interviewer for post-interview review, or informational handouts involved.
 
    During the interview, please remember that it is about YOU, your contributions, leadership, etc. in relation to the criteria of the award. For example, if you are discussing accomplishments of your team as a whole, make sure to specify how your individual efforts were vital in the success of those accomplishments. Do not be shy about sharing your personal successes!
 
-   The number of semi-finalists that will move onto the next level as finalists depends upon the region. Regions with larger team numbers will have additional spots to advance students based on the previous year's registration numbers. You can find number of advancing finalist by region `here <https://info.firstinspires.org/hubfs/web/program/ftc/deans-list-nomination-guide.pdf>`_.
+   The number of semi-finalists that will move onto the next level as finalists depends upon the region. Regions with larger team numbers will have additional spots to advance students based on the previous year's registration numbers. You can find number of advancing finalists by region `here <https://info.firstinspires.org/hubfs/web/program/ftc/deans-list-nomination-guide.pdf>`_.
 
 3. **FIRST Dean's List Winners** - comprised of the ten (10) FIRST Robotics Competition and ten (10) FIRST Tech Challenge students selected from the applicable FIRST Dean's List Finalists at the FIRST Championship.
 
@@ -479,7 +479,7 @@ Official |CM| Description
 
       This is an optional award and is only offered at the Regional Championship tournament level of competition. All teams attending FIRST Championship will have an opportunity to submit for this award. The Compass Award recognizes an adult coach or mentor who has given outstanding guidance and support to a team throughout the year and demonstrates to the team what it means to be a Gracious Professional. The winner of the Compass Award will be chosen from candidates nominated by FIRST Tech Challenge STUDENT team members, via a 40-60 second video submission. The video must highlight how their mentor has helped them become an inspirational team. The video should emphasize what sets the mentor apart.
 
-The Compass award is an optional award that is usually given only at state championships and world championships. It is submitted as a video no longer than 1 minute. The Compass award is for recognizing an outstanding mentor. Submitting this award is usually done on a case-by-case basis, where the event organizer sends teams instructions on how to submit.
+The Compass award is an optional award that is usually given only at state championships and world championships. It is submitted as a video no longer than 1 minute. The Compass award is for recognizing an outstanding mentor. Submitting this award is usually made on a case-by-case basis, where the event organizer sends teams instructions on how to submit.
 
 Compass Award Criteria
 ^^^^^^^^^^^^^^^^^^^^^^
