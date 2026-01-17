@@ -8,6 +8,11 @@ Collection of robot designs from past seasons. Feel free to borrow some design s
 2024-2025 Into The Deep
 -------------------------
 
+9746 PML30 North Wind
+^^^^^^^^^^^^^^^^^^^^^
+
+- `CAD <https://cad.onshape.com/documents/e71101eaad919471b9efdb3c/w/c48921a11c5b7fdc33d7b7e5/e/703b9f8f90c51389619a4818?renderMode=0&uiState=67f5d0db8f62cc290321ec94>`__
+
 24331 Caesar Circuitry
 ^^^^^^^^^^^^^^^^^^^^^^
 
