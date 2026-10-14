@@ -91,6 +91,7 @@ linkcheck_ignore = [
     r".*studica.com.*",
     r".*thingiverse.com.*",
     r".*vexrobotics.com.*",
+	r".*www.actuonix.com.*",
 ]
 
 linkcheck_anchors = False
