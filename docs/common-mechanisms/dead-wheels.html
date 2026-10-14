@@ -3,7 +3,12 @@
   <head><meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
     <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta property="og:title" content="Dead Wheels" />
+    <link rel="icon" type="image/png" href="../../_static/assets/favicon/favicon-96x96.png" sizes="96x96">
+    <link href="../../_static/assets/favicon/favicon.svg" rel="icon" type="image/svg+xml">
+    <link rel="icon" type="image/x-icon" href="../../_static/assets/favicon/favicon-dark.ico" media="(prefers-color-scheme: dark)">
+    <link rel="icon" type="image/x-icon" href="../../_static/assets/favicon/favicon.ico" media="(prefers-color-scheme: light)">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../_static/assets/favicon/apple-touch-icon.png" type="image/png">
+    <link rel="manifest" href="../../_static/assets/favicon/site.webmanifest"><meta property="og:title" content="Dead Wheels" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="docs/common-mechanisms/dead-wheels.html" />
 <meta property="og:site_name" content="Game Manual 0" />
@@ -15,22 +20,14 @@
 <meta name="theme-color" content="#F47F27" />
 <link rel="index" title="Index" href="../../genindex.html" /><link rel="search" title="Search" href="../../search.html" /><link rel="next" title="Turrets" href="turrets/index.html" /><link rel="prev" title="Types of Transfers" href="transfers/transfer-types.html" />
 
-    <link rel="shortcut icon" href="../../_static/gm0-logo.ico"/><!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
+    <!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
         <title>Dead Wheels - Game Manual 0</title>
       <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=a746c00c" />
     <link rel="stylesheet" type="text/css" href="../../_static/styles/furo.css?v=354aac6f" />
     <link rel="stylesheet" type="text/css" href="../../_static/graphviz.css?v=fd3f3429" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/tooltipster.custom.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/tooltipster.bundle.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/tooltipster-sideTip-shadow.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/tooltipster-sideTip-punk.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/tooltipster-sideTip-noir.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/tooltipster-sideTip-light.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/tooltipster-sideTip-borderless.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/micromodal.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/sphinx-design.min.css?v=95c83b7e" />
     <link rel="stylesheet" type="text/css" href="../../_static/styles/furo-extensions.css?v=302659d7" />
-    <link rel="stylesheet" type="text/css" href="../../_static/custom.css?v=05cda24f" />
+    <link rel="stylesheet" type="text/css" href="../../_static/custom.css?v=34d6ed87" />
     
     
 
@@ -216,8 +213,8 @@
       <div class="sidebar-sticky"><a class="sidebar-brand" href="../../index.html">
   
   <div class="sidebar-logo-container">
-    <img class="sidebar-logo only-light" src="../../_static/assets/gm0-logo.png" alt="Light Logo"/>
-    <img class="sidebar-logo only-dark" src="../../_static/assets/gm0-logo_white.png" alt="Dark Logo"/>
+    <img class="sidebar-logo only-light" src="../../_static/assets/gm0-logo.svg" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../_static/assets/gm0-logo_white.svg" alt="Dark Logo"/>
   </div>
   
   
@@ -384,7 +381,7 @@
 <li class="toctree-l1 has-children"><a class="reference internal" href="../awards/index.html">Awards</a><input class="toctree-checkbox" id="toctree-checkbox-21" name="toctree-checkbox-21" role="switch" type="checkbox"/><label for="toctree-checkbox-21"><div class="visually-hidden">Toggle navigation of Awards</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../awards/award-types.html">Types of Awards</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../awards/portfolio.html">Engineering Portfolio</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../awards/judging-presentation.html">The Judging Process and Presentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../awards/judging-presentation.html">Preparing for the Judging Interview</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../awards/notebook.html">Notebook Designs and Decisions</a></li>
 </ul>
 </li>
@@ -452,13 +449,13 @@
 <div class="admonition-term admonition">
 <p class="admonition-title">Term</p>
 <dl class="glossary">
-<dt id="term-Dead-Wheel">Dead Wheel<a class="headerlink" href="#term-Dead-Wheel" title="Link to this term">¶</a></dt><dd><p>A small unpowered wheel (usually an <a class="hxr-hoverxref hxr-tooltip reference internal" href="drivetrains/index.html#term-Omni-Wheel"><span class="xref std std-term">omni wheel</span></a>) that tracks the distance the robot has traveled through the encoder attached to the wheel’s axle.</p>
+<dt id="term-Dead-Wheel">Dead Wheel<a class="headerlink" href="#term-Dead-Wheel" title="Link to this term">¶</a></dt><dd><p>A small unpowered wheel (usually an <a class="reference internal" href="drivetrains/index.html#term-Omni-Wheel"><span class="xref std std-term">omni wheel</span></a>) that tracks the distance the robot has traveled through the encoder attached to the wheel’s axle.</p>
 <p>Usually, there will be two or three wheels - one or two on the x and y axis each to track the front-back and left-right position relative to the starting point. Generally, odometry wheels are sprung so that the wheel is in contact with the floor tiles at all times to ensure accuracy.</p>
 </dd>
 </dl>
 </div>
 <p>Odometry refers to the use of motion sensors for localization. Localization is a means for being able to locate the position of the bot at some point in time. Localization is crucial in path following and advanced autonomous modes as one needs to know where they are to generate the necessary movements needed to reach a desired destination. <a class="reference internal" href="../software/concepts/odometry.html"><span class="doc">Localization software</span></a> plays a major role in odometry; however, in order to produce accurate results, reliable and accurate hardware design is a necessity.</p>
-<p>The simplest form of odometry is drive encoder localization. This is the use of encoders measuring the rotation of motors that power the drive train. One is able to read the encoder data and feed it through the kinematic equation for that specific drive train to derive the body’s velocity. Drive encoder localization is generally quite simple and easy to setup as almost all of the FTC legal motors have built-in encoders. Getting drive encoder localization setup is simply a matter of plugging in wires, no additional hardware needed.</p>
+<p>The simplest form of odometry is drive encoder localization. This is the use of encoders measuring the rotation of motors that power the drive train. One is able to read the encoder data and feed it through the kinematic equation for that specific drive train to derive the body’s velocity. Drive encoder localization is generally quite simple and easy to set up as almost all of the FTC legal motors have built-in encoders. Getting drive encoder localization set up is simply a matter of plugging in wires, no additional hardware needed.</p>
 <p>Many teams in the community have converged on a unique solution that isn’t seen very much outside of FTC: the use of “dead wheels,” “tracking wheels,” or “odometry pods” (these terms are all synonymous). These refer to small “dead” or non-driven (not powered by a motor) wheels attached to an <a class="reference external" href="#encoders">encoder sensor</a>. Two or three dead wheel pods are often sprung to the ground to ensure accurate tracking. The two-wheel design utilizes one parallel and one perpendicular pod (parallel and perpendicular with respect to the drive wheel axis), measuring x and y movement respectively. Change in heading is measured via a gyroscope. The three-wheel design utilizes two parallel and one perpendicular pod, measuring x and y movement respectively. However, this design forgoes the gyroscope and instead measures heading via the difference with the two parallel wheels. This is often more accurate in the context of the FTC control system because the BNO055 IMU (used for the gyroscope in the two-wheel design) utilizes I2C which is slower than the rest of the I/O on the REV Hub and cannot be bulk read. These two issues lead to minute drift issues which can compound over time, thus leading to a more inaccurate localization system when using the two-wheel design.</p>
 <p>However, designing consistently accurate dead wheels proves to be a difficult design challenge. It is often quite pricey. A set of three dead wheels will cost a minimum of $100 for the encoders alone, prior to any hardware.</p>
 <p>Let’s go through the advantages and disadvantages of each system.</p>
@@ -474,7 +471,7 @@
 </li>
 <li><p><strong>Cons</strong>:</p>
 <ul>
-<li><p>Drive encoder localization on mecanum drive can be quite inaccurate due to lack on traction on mecanum wheels.</p></li>
+<li><p>Drive encoder localization on mecanum drive can be quite inaccurate due to lack of traction on mecanum wheels.</p></li>
 <li><p>Will drift on high acceleration on mecanum drive. Accuracy will be good enough for basic autonomous modes if acceleration is limited</p></li>
 </ul>
 </li>
@@ -515,7 +512,7 @@
 </section>
 <section id="encoders">
 <h2>Encoders<a class="headerlink" href="#encoders" title="Link to this heading">¶</a></h2>
-<p>A lot of the localization done in software relies on readings from encoders. <a class="reference internal" href="../power-and-electronics/motor-guide/wiring-mounting-motors.html#encoders"><span class="std std-ref">Encoders</span></a> are sensors that track “counts” or “ticks,” which are values that represent a certain amount of a rotation. Different encoders might have a different number of counts per revolution (CPR), which is also sometimes also called ticks per revolution. The greater the number of counts, the more precise the data.</p>
+<p>A lot of the localization done in software relies on readings from encoders. <a class="reference internal" href="../power-and-electronics/motor-guide/wiring-mounting-motors.html#encoders"><span class="std std-ref">Encoders</span></a> are sensors that track “counts” or “ticks,” which are values that represent a certain amount of a rotation. Different encoders might have a different number of counts per revolution (CPR), which is also sometimes called ticks per revolution. The greater the number of counts, the more precise the data.</p>
 <p>Encoders are plugged into the JST-PH ports in the REV hubs. These encoders can either be built-in to the motors or external. External encoders will still need to be plugged into an encoder port but are not related to the motor in that port. Through software, we can use the motor object to determine the position of the encoder. This should be done with motors that do not use encoders. If you’re using dead wheels, you will not need the drive motor encoder ports, so those are potential ports you might want to use.</p>
 <p>If one chooses to design dead wheels, there are only two recommended encoders that one should use for FTC: REV Through-Bore Encoders and U.S. Digital S4T Encoders.</p>
 <section id="rev-through-bore">
@@ -558,7 +555,7 @@
 <p><span class="caption-text">S4T Encoder</span><a class="headerlink" href="#id3" title="Link to this image">¶</a></p>
 </figcaption>
 </figure>
-<p><strong>***Advantages:</strong></p>
+<p><strong>Advantages:</strong></p>
 <ul class="simple">
 <li><p>Very compact</p></li>
 </ul>
@@ -631,18 +628,6 @@
 <ul>
 <li><p>Information only available through their Discord channel</p></li>
 <li><p>Hasn’t been iterated on in a while</p></li>
-</ul>
-</li>
-</ul>
-</li>
-<li><p><strong>11115 Gluten Free Design - 2019</strong></p>
-<ul>
-<li><p><a class="reference external" href="https://drive.google.com/file/d/16ZQRSiWdzTKSH92VpKrxKpXy3TTh0sA5/view?usp=sharing">https://drive.google.com/file/d/16ZQRSiWdzTKSH92VpKrxKpXy3TTh0sA5/view?usp=sharing</a></p></li>
-<li><p>The above link the entire robot assembly for 11115’s CAD for the 2018-19 season</p></li>
-<li><p><strong>Things to consider</strong>:</p>
-<ul>
-<li><p>Uses LEGO® gears</p></li>
-<li><p>Uses US Digital S4T’s. Quite pricey</p></li>
 </ul>
 </li>
 </ul>
@@ -820,16 +805,10 @@
       
     </aside>
   </div>
-</div><script src="../../_static/jquery.js?v=5d32c60e"></script>
-    <script src="../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-    <script src="../../_static/documentation_options.js?v=8dde47fa"></script>
+</div><script src="../../_static/documentation_options.js?v=8dde47fa"></script>
     <script src="../../_static/doctools.js?v=9a2dae69"></script>
     <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="../../_static/scripts/furo.js?v=5fa4622c"></script>
-    <script src="../../_static/js/hoverxref.js"></script>
-    <script src="../../_static/js/tooltipster.bundle.min.js"></script>
-    <script src="../../_static/js/micromodal.min.js"></script>
     <script src="../../_static/design-tabs.js?v=f930bc37"></script>
-    <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     </body>
 </html>

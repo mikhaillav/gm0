@@ -3,34 +3,31 @@
   <head><meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
     <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta property="og:title" content="Using Android Studio" />
+    <link rel="icon" type="image/png" href="../../../_static/assets/favicon/favicon-96x96.png" sizes="96x96">
+    <link href="../../../_static/assets/favicon/favicon.svg" rel="icon" type="image/svg+xml">
+    <link rel="icon" type="image/x-icon" href="../../../_static/assets/favicon/favicon-dark.ico" media="(prefers-color-scheme: dark)">
+    <link rel="icon" type="image/x-icon" href="../../../_static/assets/favicon/favicon.ico" media="(prefers-color-scheme: light)">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../_static/assets/favicon/apple-touch-icon.png" type="image/png">
+    <link rel="manifest" href="../../../_static/assets/favicon/site.webmanifest"><meta property="og:title" content="Using Android Studio" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="docs/software/getting-started/using-android-studio.html" />
 <meta property="og:site_name" content="Game Manual 0" />
-<meta property="og:description" content="Android Studio is an integrated development environment (IDE) for Android app development based on IntelliJ. It compiles your code to an apk which is then installed onto the Robot Controller: eithe..." />
+<meta property="og:description" content="Android Studio is an integrated development environment (IDE) for Android app development based on IntelliJ. It compiles your code which is then installed onto the Robot Controller: either the Cont..." />
 <meta property="og:image" content="https://raw.githubusercontent.com/gamemanual0/gm0/main/source/_static/assets/gm0-logo.png" />
 <meta property="og:image:alt" content="Game Manual 0" />
-<meta name="description" content="Android Studio is an integrated development environment (IDE) for Android app development based on IntelliJ. It compiles your code to an apk which is then installed onto the Robot Controller: eithe..." />
+<meta name="description" content="Android Studio is an integrated development environment (IDE) for Android app development based on IntelliJ. It compiles your code which is then installed onto the Robot Controller: either the Cont..." />
 <meta property="og:ignore_canonical" content="true" />
 <meta name="theme-color" content="#F47F27" />
 <link rel="index" title="Index" href="../../../genindex.html" /><link rel="search" title="Search" href="../../../search.html" /><link rel="next" title="Common Issues" href="common-issues.html" /><link rel="prev" title="Reading and Writing to Hardware" href="common-hardware-components.html" />
 
-    <link rel="shortcut icon" href="../../../_static/gm0-logo.ico"/><!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
+    <!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
         <title>Using Android Studio - Game Manual 0</title>
       <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=a746c00c" />
     <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo.css?v=354aac6f" />
     <link rel="stylesheet" type="text/css" href="../../../_static/graphviz.css?v=fd3f3429" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster.custom.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster.bundle.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-shadow.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-punk.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-noir.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-light.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-borderless.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/micromodal.css" />
     <link rel="stylesheet" type="text/css" href="../../../_static/sphinx-design.min.css?v=95c83b7e" />
     <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo-extensions.css?v=302659d7" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/custom.css?v=05cda24f" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/custom.css?v=34d6ed87" />
     
     
 
@@ -216,8 +213,8 @@
       <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../index.html">
   
   <div class="sidebar-logo-container">
-    <img class="sidebar-logo only-light" src="../../../_static/assets/gm0-logo.png" alt="Light Logo"/>
-    <img class="sidebar-logo only-dark" src="../../../_static/assets/gm0-logo_white.png" alt="Dark Logo"/>
+    <img class="sidebar-logo only-light" src="../../../_static/assets/gm0-logo.svg" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../_static/assets/gm0-logo_white.svg" alt="Dark Logo"/>
   </div>
   
   
@@ -384,7 +381,7 @@
 <li class="toctree-l1 has-children"><a class="reference internal" href="../../awards/index.html">Awards</a><input class="toctree-checkbox" id="toctree-checkbox-21" name="toctree-checkbox-21" role="switch" type="checkbox"/><label for="toctree-checkbox-21"><div class="visually-hidden">Toggle navigation of Awards</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/award-types.html">Types of Awards</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/portfolio.html">Engineering Portfolio</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../awards/judging-presentation.html">The Judging Process and Presentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../awards/judging-presentation.html">Preparing for the Judging Interview</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/notebook.html">Notebook Designs and Decisions</a></li>
 </ul>
 </li>
@@ -444,71 +441,43 @@
         <article role="main" id="furo-main-content">
           <section id="using-android-studio">
 <h1>Using Android Studio<a class="headerlink" href="#using-android-studio" title="Link to this heading">¶</a></h1>
-<p><a class="reference external" href="https://developer.android.com/studio/intro">Android Studio</a> is an integrated development environment (IDE) for Android app development based on IntelliJ. It compiles your code to an apk which is then installed onto the Robot Controller: either the Control Hub or a legal Android phone.</p>
+<p><a class="reference external" href="https://developer.android.com/studio/intro">Android Studio</a> is an integrated development environment (IDE) for Android app development based on IntelliJ. It compiles your code which is then installed onto the Robot Controller: either the Control Hub or a legal Android phone.</p>
 <section id="downloading-android-studio">
 <h2>Downloading Android Studio<a class="headerlink" href="#downloading-android-studio" title="Link to this heading">¶</a></h2>
-<p>If you’ve already downloaded Android Studio, you can move on to the next step, which is <a class="reference external" href="#setting-up-the-sdk">setting up the SDK</a>.</p>
-<p>The steps to download and setup Android Studio are:</p>
+<p>If you’ve already downloaded Android Studio, you can move on to the next step, which is <a class="reference internal" href="#setting-up-the-sdk">setting up the SDK</a>.</p>
+<p>The steps to download and set up Android Studio are:</p>
 <ol class="arabic simple">
 <li><p>Check to make sure your system meets the <a class="reference external" href="https://developer.android.com/studio#Requirements">necessary requirements</a></p></li>
-<li><p>Install the <em>latest</em> version of Android Studio from <a class="reference external" href="https://developer.android.com/studio/index.html">https://developer.android.com/studio/index.html</a></p></li>
+<li><p>Install the latest version of Android Studio from <a class="reference external" href="https://developer.android.com/studio/index.html">https://developer.android.com/studio/index.html</a></p></li>
 <li><p>Run the executable, follow the setup wizard, and use any and all recommended development kits</p></li>
 </ol>
 </section>
-<section id="id1">
-<h2>Setting up the SDK<a class="headerlink" href="#id1" title="Link to this heading">¶</a></h2>
-<p>Now that you have Android Studio installed, you’re going to want to use the current season’s SDK (software development kit) where you will create your team’s code.</p>
+<section id="setting-up-the-sdk">
+<h2>Setting up the SDK<a class="headerlink" href="#setting-up-the-sdk" title="Link to this heading">¶</a></h2>
+<p>Now that you have Android Studio installed, you’re going to want to use the current season’s FTC® SDK (software development kit) where you will create your team’s code.</p>
 <section id="downloading-the-sdk">
 <h3>Downloading the SDK<a class="headerlink" href="#downloading-the-sdk" title="Link to this heading">¶</a></h3>
-<p>The SDK is publicly released to a GitHub repository every season. The current season’s SDK can be found in the <a class="reference external" href="https://github.com/FIRST-Tech-Challenge/FtcRobotController">FtcRobotController</a> repository.</p>
-<section id="downloading-the-zip">
-<h4>Downloading the ZIP<a class="headerlink" href="#downloading-the-zip" title="Link to this heading">¶</a></h4>
+<p>The SDK is publicly released to a GitHub repository. The current SDK can be found in the <a class="reference external" href="https://github.com/FIRST-Tech-Challenge/FtcRobotController">FtcRobotController</a> repository.</p>
+</section>
+<section id="downloading-and-opening-the-sdk-in-android-studio">
+<h3>Downloading and opening the SDK in Android Studio<a class="headerlink" href="#downloading-and-opening-the-sdk-in-android-studio" title="Link to this heading">¶</a></h3>
 <ol class="arabic">
-<li><p>When you’re at the repository, click the green “code” button. Then, select “Download ZIP.”</p>
-<a class="reference internal image-reference" href="../../../_images/download-zip.png"><img alt="Click the Download ZIP option" class="align-center" src="../../../_images/download-zip.png" style="width: 50em;" /></a>
+<li><p>Open Android Studio. If you have another project open, close it (File -&gt; Close Project). Make sure “Projects” is selected on the sidebar.</p>
+<a class="reference internal image-reference" href="../../../_images/as-welcome.png"><img alt="A screen should appear with an option to configure settings and import a project" class="align-center" src="../../../_images/as-welcome.png" style="width: 50em;" /></a>
 </li>
-<li><p>Then, save it to the desired location in your computer.</p>
-<a class="reference internal image-reference" href="../../../_images/save-to-computer.png"><img alt="The ZIP file should be called FtcRobotController-master" class="align-center" src="../../../_images/save-to-computer.png" style="width: 50em;" /></a>
+<li><p>Click on the gear icon in the bottom left corner, and select “check for updates.” If you do not have the latest version, download the updates.</p></li>
+<li><p>Select “Get from VCS”. Make sure “Repository URL” is selected on the sidebar, then put <code class="docutils literal notranslate"><span class="pre">https://github.com/FIRST-Tech-Challenge/FtcRobotController.git</span></code> into the URL text box. Finally, click the Clone button in the bottom right corner to download the SDK.</p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Consider also changing the name of the final folder in the Directory textbox from <code class="docutils literal notranslate"><span class="pre">FtcRobotController</span></code> to something that reflects your team and the season, e.g. team number 99999 might use <code class="docutils literal notranslate"><span class="pre">99999-2025-26-code</span></code>.</p>
+</div>
+<a class="reference internal image-reference" href="../../../_images/as-get-from-vcs.png"><img alt="TODO: alt text" class="align-center" src="../../../_images/as-get-from-vcs.png" style="width: 25em;" /></a>
 </li>
-<li><p>After it is saved, extract the contents of the ZIP and place them into whatever desired location. You should see the contents of the SDK inside of the folder location.</p></li>
-</ol>
-</section>
-<section id="using-github-desktop">
-<h4>Using GitHub Desktop<a class="headerlink" href="#using-github-desktop" title="Link to this heading">¶</a></h4>
-<ol class="arabic">
-<li><p><a class="reference external" href="https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop">Install GitHub Desktop</a></p></li>
-<li><p>Open the <a class="reference external" href="https://github.com/FIRST-Tech-Challenge/FTCRobotController">SDK repository</a> in a browser.</p></li>
-<li><p>Click the green “code” button, and then select “Open with GitHub Desktop.”</p>
-<a class="reference internal image-reference" href="../../../_images/open-with-gh-desktop.png"><img alt="Click the Open with GitHub Desktop option" class="align-center" src="../../../_images/open-with-gh-desktop.png" style="width: 50em;" /></a>
+<li><p>When asked if you want to trust and open the project, choose “Trust Project”.</p>
+<a class="reference internal image-reference" href="../../../_images/as-trust-project-dialog.png"><img alt="TODO: alt text" class="align-center" src="../../../_images/as-trust-project-dialog.png" style="width: 25em;" /></a>
 </li>
-<li><p>Clone the project.</p>
-<a class="reference internal image-reference" href="../../../_images/clone-github-desktop.png"><img alt="Clone the repository to your resource folder" class="align-center" src="../../../_images/clone-github-desktop.png" style="width: 25em;" /></a>
-</li>
-</ol>
-</section>
-<section id="from-the-command-line">
-<h4>From the Command Line<a class="headerlink" href="#from-the-command-line" title="Link to this heading">¶</a></h4>
-<ol class="arabic simple">
-<li><p><a class="reference external" href="https://github.com/git-guides/install-git">Install git</a></p></li>
-<li><p>Open the terminal (probably bash) in the desired resource location.</p></li>
-<li><p>Use <code class="code docutils literal notranslate"><span class="pre">$</span> <span class="pre">git</span> <span class="pre">clone</span> <span class="pre">https://github.com/FIRST-Tech-Challenge/FtcRobotController.git</span></code></p></li>
-</ol>
-</section>
-</section>
-<section id="opening-the-sdk-on-android-studio">
-<h3>Opening the SDK on Android Studio<a class="headerlink" href="#opening-the-sdk-on-android-studio" title="Link to this heading">¶</a></h3>
-<ol class="arabic">
-<li><p>Open Android Studio. If you have another project open, close it.</p>
-<a class="reference internal image-reference" href="../../../_images/opening-as.png"><img alt="A screen should appear with an option to configure settings and import a project" class="align-center" src="../../../_images/opening-as.png" style="width: 50em;" /></a>
-</li>
-<li><p>Check for updates. Click on the “configure” dropdown and select “check for updates.” If you do not have the latest version, download the updates.</p>
-<a class="reference internal image-reference" href="../../../_images/check-for-updates.png"><img alt="If you have no new updates, it should say that you have the latest version installed" class="align-center" src="../../../_images/check-for-updates.png" style="width: 25em;" /></a>
-</li>
-<li><p>Select “Import Project.” Navigate to where you have the SDK saved on your computer. Choose the directory that has the Android logo.</p>
-<a class="reference internal image-reference" href="../../../_images/select-the-sdk.png"><img alt="Only select the folder with the Android logo" class="align-center" src="../../../_images/select-the-sdk.png" style="width: 25em;" /></a>
-</li>
-<li><p>Change to project view. In the top left corner should be a dropdown that allows you to change the way you are looking at your project.</p>
-<a class="reference internal image-reference" href="../../../_images/select-project-view.png"><img alt="Change to project view" class="align-center" src="../../../_images/select-project-view.png" style="width: 25em;" /></a>
+<li><p>Select the hammer icon in the icon group in the top right corner of the window. This will download any needed modules and build the project.</p>
+<a class="reference internal image-reference" href="../../../_images/as-make-module.png"><img alt="TODO: alt text" class="align-center" src="../../../_images/as-make-module.png" style="width: 25em;" /></a>
 </li>
 <li><p>Wait for <a class="reference internal" href="#gradle">Gradle</a> to complete the build. This indicator should be located at the bottom of the window by default.</p>
 <a class="reference internal image-reference" href="../../../_images/build-gradle.png"><img alt="An in-progress Gradle build" class="align-center" src="../../../_images/build-gradle.png" style="width: 50em;" /></a>
@@ -522,39 +491,27 @@
 <a class="reference internal image-reference" href="../../../_images/as-layout.png"><img alt="Android Studio layout" class="align-center" src="../../../_images/as-layout.png" style="width: 50em;" /></a>
 <section id="creating-classes">
 <h3>Creating Classes<a class="headerlink" href="#creating-classes" title="Link to this heading">¶</a></h3>
-<p>The first thing to note in the project view is the dropdown with the name of the project. If you drop that down, you will see all of the Gradle files and directories. Navigate to the TeamCode folder. In the teamcode folder you will see an <code class="code docutils literal notranslate"><span class="pre">org.firstinspires.ftc.teamcode</span></code> package.</p>
-<a class="reference internal image-reference" href="../../../_images/code-project-structure.png"><img alt="TeamCode &gt; src &gt; main &gt; java &gt; org.firstinspires.ftc.teamcode" class="align-center" src="../../../_images/code-project-structure.png" style="width: 25em;" /></a>
+<p>The first thing to note in the project view is the left panel with the project components. Expand the <code class="code docutils literal notranslate"><span class="pre">TeamCode</span></code> folder, then the <code class="code docutils literal notranslate"><span class="pre">java</span></code> folder, and you will see an <code class="code docutils literal notranslate"><span class="pre">org.firstinspires.ftc.teamcode</span></code> package.</p>
+<a class="reference internal image-reference" href="../../../_images/code-project-structure.png"><img alt="TeamCode &gt; java &gt; org.firstinspires.ftc.teamcode" class="align-center" src="../../../_images/code-project-structure.png" style="width: 25em;" /></a>
 <p>This is where you will create your code for the robot. To create a new Java class, right click on the package, select New, and then choose “Java Class.”</p>
 <a class="reference internal image-reference" href="../../../_images/new-java-class.png"><img alt="New &gt; Java Class" class="align-center" src="../../../_images/new-java-class.png" style="width: 50em;" /></a>
-<p>Alternatively, you can select the “Package” option if you want to create a subfolder for organization purposes. Then, you can create classes in those packages.</p>
-</section>
-<section id="terminal-and-logcat">
-<h3>Terminal and Logcat<a class="headerlink" href="#terminal-and-logcat" title="Link to this heading">¶</a></h3>
-<p>Near the bottom left of the application, you will find tabs for the local terminal and logcat. These are useful tools for working with your program.</p>
-<a class="reference internal image-reference" href="../../../_images/terminal-logcat-location.png"><img alt="Terminal and logcat tabs near the bottom left" class="align-center" src="../../../_images/terminal-logcat-location.png" style="width: 25em;" /></a>
-<p>Some useful information on using the logcat can be found <a class="reference external" href="https://developer.android.com/studio/debug/am-logcat">here</a>.</p>
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<p>You can build your program through the commandline via the local terminal. Click on the terminal tab and then input <code class="code docutils literal notranslate"><span class="pre">gradlew</span> <span class="pre">:TeamCode:clean</span> <span class="pre">:TeamCode:build</span></code>. This will delete the previously compiled files and build your TeamCode module.</p>
+<p>If you want to create a subfolder for organization purposes, you can select the “Package” option. Then, you can create classes in those packages.</p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>The <code class="code docutils literal notranslate"><span class="pre">readme.md</span></code> file in this directory contains useful documentation, including information on sample programs shipped with the SDK that you can use and modify. We highly recommend you read this information.</p>
 </div>
 </section>
 <section id="installing-your-program">
 <h3>Installing Your Program<a class="headerlink" href="#installing-your-program" title="Link to this heading">¶</a></h3>
-<p>To install your program onto the Robot Controller, you will use the play button located near the top right of the application window.</p>
+<p>To install your program onto the Robot Controller, you will use the play button located near the top middle of the application window.</p>
 <a class="reference internal image-reference" href="../../../_images/build-and-run.png"><img alt="Play button next to device dropdown" class="align-center" src="../../../_images/build-and-run.png" style="width: 25em;" /></a>
-<p>Next to it you will see a dropdown for devices. When you connect your Robot Controller to your computer (using the correct cable), the device should appear in the dropdown after some time. Then, click the play button and your program will install onto the device.</p>
-<div class="admonition tip">
-<p class="admonition-title">Tip</p>
-<p>Occasionally the app will fail to start on the robot controller, leaving the driver station in a disconnected state. If this occurs you can open the terminal and run</p>
-<p><code class="code docutils literal notranslate"><span class="pre">adb</span> <span class="pre">shell</span> <span class="pre">am</span> <span class="pre">start</span> <span class="pre">-n</span> <span class="pre">com.qualcomm.ftcrobotcontroller/org.firstinspires.ftc.robotcontroller.internal.PermissionValidatorWrapper</span></code></p>
-<p>to remotely start the Robot Controller app.</p>
-</div>
+<p>Near it you will see a dropdown for devices. When you connect your Robot Controller to your computer, the device should appear in the dropdown after some time. Then, click the play button and your program will install onto the device.</p>
 <p>If you run into any problems with this process, refer to the official <a class="reference external" href="https://docs.revrobotics.com/duo-control/">REV documentation</a>. Some useful pages from the REV site are:</p>
 <ul class="simple">
 <li><p><a class="reference external" href="https://github.com/FIRST-Tech-Challenge/FtcRobotController/wiki/Android-Studio-Tutorial">Troubleshooting the Control System</a></p></li>
 <li><p><a class="reference external" href="https://docs.revrobotics.com/duo-control/programming/android-studio-using-wireless-adb">Deploying Code Wirelessly</a></p></li>
 </ul>
-<p>If you’re still stuck you can ask for help in the <a class="reference external" href="https://discord.com/invite/first-tech-challenge">FTC|reg| Discord</a>.</p>
+<p>If you’re still stuck, you can ask for help in the <a class="reference external" href="https://discord.com/invite/ftc">FTC Discord</a>.</p>
 </section>
 </section>
 <section id="gradle">
@@ -563,36 +520,34 @@
 <p>When you update any of your Gradle files you will need to perform a Gradle sync, which syncs your project to the changes and rebuilds it. In your <code class="code docutils literal notranslate"><span class="pre">build.common.gradle</span></code>, you will find information for how your robot controller application is built.</p>
 <section id="rebuilding">
 <h3>Rebuilding<a class="headerlink" href="#rebuilding" title="Link to this heading">¶</a></h3>
-<p>You can rebuild your project easily with the build dropdown.</p>
-<a class="reference internal image-reference" href="../../../_images/gradle-build.png"><img alt="The build dropdown at the top of the screen" class="align-center" src="../../../_images/gradle-build.png" style="width: 25em;" /></a>
-<p>To rebuild from a clean project, press the clean project option. This removes old compiled files from your project so you can completely rebuild your project. It clears any production files, generated files, etc. This is useful for making sure old artifacts don’t break anything when you build your code. When you next build your project, it will do so from scratch with no old compiled files to which it can refer. To rebuild your project, press the rebuild option.</p>
+<p>You can rebuild your project easily with the Build menu.</p>
+<figure class="align-default" id="id3">
+<a class="reference internal image-reference" href="../../../_images/gradle-build.png"><img alt="The build menu at the top of the screen" class="align-center" src="../../../_images/gradle-build.png" style="width: 25em;" /></a>
+<figcaption>
+<p><span class="caption-text">Note: On Windows and Linux, the menubar is accessed by clicking the hamburger menu icon at the top left of the window.</span><a class="headerlink" href="#id3" title="Link to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>To clean your project to allow you to rebuild your project from scratch, choose the <code class="docutils literal notranslate"><span class="pre">clean</span> <span class="pre">project</span></code> option. This removes old compiled files from your project. To then rebuild your project, choose the rebuild option.</p>
 </section>
 <section id="invalidate-and-restart">
 <h3>Invalidate and Restart<a class="headerlink" href="#invalidate-and-restart" title="Link to this heading">¶</a></h3>
-<p>Sometimes you can get errors after moving things around, refactoring, etc. The first step is to try cleaning the project and doing a rebuild. If this doesn’t work, you might have confused Android Studio because it caches information about your project structure.</p>
-<p>The most common way to fix these errors is to do an invalidate and restart. In the file dropdown, there will be an option for this and then you will choose Invalidate and Restart. This clears the cache and restarts your Android Studio, which then should perform a Gradle rebuild.</p>
+<p>Sometimes you can get errors after moving things around, refactoring, etc. The first step is to try cleaning the project and doing a rebuild. If this doesn’t work, you may be able to fix these errors with <code class="docutils literal notranslate"><span class="pre">invalidate</span> <span class="pre">and</span> <span class="pre">restart</span></code> under the <code class="docutils literal notranslate"><span class="pre">file</span></code> dropdown. This clears any caches Android Studio has and restarts it.</p>
 </section>
 <section id="adding-dependencies">
 <h3>Adding Dependencies<a class="headerlink" href="#adding-dependencies" title="Link to this heading">¶</a></h3>
 <p>If you want to add dependencies to your project, you can do so in the <code class="code docutils literal notranslate"><span class="pre">build.gradle</span></code> file in the TeamCode directory.</p>
 <p>There should be a dependencies block at the bottom of the file.</p>
-<div class="highlight-groovy notranslate"><div class="highlight"><pre><span></span><span class="c1">// Include common definitions from above.</span>
-<span class="n">apply</span><span class="w"> </span><span class="nl">from:</span><span class="w"> </span><span class="s1">&#39;../build.common.gradle&#39;</span>
-<span class="n">apply</span><span class="w"> </span><span class="nl">from:</span><span class="w"> </span><span class="s1">&#39;../build.dependencies.gradle&#39;</span>
-
-<span class="n">dependencies</span><span class="w"> </span><span class="o">{</span>
-<span class="w">     </span><span class="n">implementation</span><span class="w"> </span><span class="n">project</span><span class="o">(</span><span class="s1">&#39;:FtcRobotController&#39;</span><span class="o">)</span>
-<span class="w">     </span><span class="n">annotationProcessor</span><span class="w"> </span><span class="n">files</span><span class="o">(</span><span class="s1">&#39;lib/OpModeAnnotationProcessor.jar&#39;</span><span class="o">)</span>
+<div class="highlight-groovy notranslate"><div class="highlight"><pre><span></span><span class="n">dependencies</span><span class="w"> </span><span class="o">{</span>
+<span class="w">    </span><span class="n">implementation</span><span class="w"> </span><span class="n">project</span><span class="o">(</span><span class="s1">&#39;:FtcRobotController&#39;</span><span class="o">)</span>
 <span class="o">}</span>
 </pre></div>
 </div>
 <p>Some dependencies require changes to your other Gradle files. Make sure to read the installation instructions for whatever dependency you want to add.</p>
-<p>Next, you add a line in the dependencies block to implement the dependency. This is generally done with <code class="code docutils literal notranslate"><span class="pre">implementation</span> <span class="pre">'com.package.name'</span></code>.</p>
+<p>Next, you add a line in the dependencies block to implement the dependency. This is generally done with <code class="code docutils literal notranslate"><span class="pre">implementation</span> <span class="pre">'com.developer.package:name:version'</span></code>.</p>
 <div class="highlight-groovy notranslate"><div class="highlight"><pre><span></span><span class="n">dependencies</span><span class="w"> </span><span class="o">{</span>
 <span class="w">    </span><span class="n">implementation</span><span class="w"> </span><span class="n">project</span><span class="o">(</span><span class="s1">&#39;:FtcRobotController&#39;</span><span class="o">)</span>
-<span class="w">    </span><span class="n">annotationProcessor</span><span class="w"> </span><span class="n">files</span><span class="o">(</span><span class="s1">&#39;lib/OpModeAnnotationProcessor.jar&#39;</span><span class="o">)</span>
 
-<span class="w">    </span><span class="n">implementation</span><span class="w"> </span><span class="s1">&#39;com.package.name:name:version&#39;</span>
+<span class="w">    </span><span class="n">implementation</span><span class="w"> </span><span class="s1">&#39;com.developer.package:name:version&#39;</span>
 <span class="o">}</span>
 </pre></div>
 </div>
@@ -600,43 +555,17 @@
 <p>Finally, perform a Gradle sync.</p>
 </section>
 </section>
-<section id="upgrading-to-java-8">
-<h2>Upgrading to Java 8<a class="headerlink" href="#upgrading-to-java-8" title="Link to this heading">¶</a></h2>
-<p>By default, the SDK’s version of Java is set to 7. Java 8 is also supported. You might want to upgrade your version of Java from 7 to 8 if you want to use features such as lambdas or generics. Some libraries may also require you to change your Java version.</p>
-<p>To upgrade to Java 8, navigate to your <code class="code docutils literal notranslate"><span class="pre">build.common.gradle</span></code> file. Scroll down until you find this block:</p>
-<div class="highlight-groovy notranslate"><div class="highlight"><pre><span></span><span class="n">compileOptions</span><span class="w"> </span><span class="o">{</span>
-<span class="w">    </span><span class="n">sourceCompatibility</span><span class="w"> </span><span class="n">JavaVersion</span><span class="o">.</span><span class="na">VERSION_1_7</span>
-<span class="w">    </span><span class="n">targetCompatibility</span><span class="w"> </span><span class="n">JavaVersion</span><span class="o">.</span><span class="na">VERSION_1_7</span>
-<span class="o">}</span>
-</pre></div>
-</div>
-<p>Change the <code class="code docutils literal notranslate"><span class="pre">7</span></code> to <code class="code docutils literal notranslate"><span class="pre">8</span></code>, like so:</p>
-<div class="highlight-groovy notranslate"><div class="highlight"><pre><span></span><span class="n">compileOptions</span><span class="w"> </span><span class="o">{</span>
-<span class="w">    </span><span class="n">sourceCompatibility</span><span class="w"> </span><span class="n">JavaVersion</span><span class="o">.</span><span class="na">VERSION_1_8</span>
-<span class="w">    </span><span class="n">targetCompatibility</span><span class="w"> </span><span class="n">JavaVersion</span><span class="o">.</span><span class="na">VERSION_1_8</span>
-<span class="o">}</span>
-</pre></div>
-</div>
-<p>Then, perform a Gradle sync.</p>
-</section>
-<section id="android-debug-bridge">
-<h2>Android Debug Bridge<a class="headerlink" href="#android-debug-bridge" title="Link to this heading">¶</a></h2>
+<section id="android-debug-bridge-adb">
+<h2>Android Debug Bridge (adb)<a class="headerlink" href="#android-debug-bridge-adb" title="Link to this heading">¶</a></h2>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
-<p>On macOS, Linux, or using PowerShell you will have to change any commands that start with <code class="code docutils literal notranslate"><span class="pre">adb</span></code> to start with <code class="code docutils literal notranslate"><span class="pre">./adb</span></code> if you are in the <code class="code docutils literal notranslate"><span class="pre">platform-tools</span></code> directory.</p>
+<p>On macOS, Linux, or using PowerShell, you will have to change any commands that start with <code class="code docutils literal notranslate"><span class="pre">adb</span></code> to start with <code class="code docutils literal notranslate"><span class="pre">./adb</span></code> if you are in the <code class="code docutils literal notranslate"><span class="pre">platform-tools</span></code> directory.</p>
 </div>
-<section id="logcat">
-<span id="id2"></span><h3>Logcat<a class="headerlink" href="#logcat" title="Link to this heading">¶</a></h3>
-<p>Logcat is extremely useful for debugging issues with your code at runtime or figuring out what went wrong. For example, if your app activity crashes and you pull up the log seeing 5000 lines of the same error, there is probably infinite recursion in your code!</p>
-<p>To use logcat, plug in your device (or connect via ADB). Then, select the app you want to view the logs for. Your window should look like this.</p>
-<a class="reference internal image-reference" href="../../../_images/adb-screenshot.png"><img alt="A selected device and app with the error messages" class="align-center" src="../../../_images/adb-screenshot.png" style="width: 25em;" /></a>
-<p>If you have an issue you don’t understand, you can take a screenshot of the log or select and copy the error and ask a question in the <a class="reference external" href="https://discord.com/invite/first-tech-challenge">FTC discord</a>.</p>
-</section>
 <section id="wireless-communication">
 <h3>Wireless Communication<a class="headerlink" href="#wireless-communication" title="Link to this heading">¶</a></h3>
 <p>Android Debug Bridge (ADB) is a command-line tool that allows for wireless communication between the robot controller (phone or Control Hub).</p>
 <p>ADB should come with the platform tools in Android Studio. Navigate to your <code class="code docutils literal notranslate"><span class="pre">local.properties</span></code> file in the root of your project and you should see a path to the Android SDK on your computer, such as <code class="code docutils literal notranslate"><span class="pre">C:UsersWoodieAppDataLocalAndroidSdk</span></code>. Then navigate to <code class="code docutils literal notranslate"><span class="pre">platform-tools</span></code> and an application called adb should be there. To use it, open CLI (like PowerShell or command prompt) and run either <code class="code docutils literal notranslate"><span class="pre">adb</span> <span class="pre">devices</span></code> or <code class="code docutils literal notranslate"><span class="pre">./adb</span> <span class="pre">devices</span></code>.</p>
-<p>For more information on ADB, you can look at the <a class="reference external" href="https://developer.android.com/studio/command-line/adb">developers page</a>.</p>
+<p>For more information on ADB, you can look at the <a class="reference external" href="https://developer.android.com/tools/adb">ADB documentation</a>.</p>
 <section id="setting-up-adb">
 <h4>Setting Up ADB<a class="headerlink" href="#setting-up-adb" title="Link to this heading">¶</a></h4>
 <ol class="arabic simple">
@@ -651,30 +580,43 @@
 </section>
 <section id="add-adb-to-path">
 <h3>Add ADB To PATH<a class="headerlink" href="#add-adb-to-path" title="Link to this heading">¶</a></h3>
+<p>If you want to use ADB from any directory, add it to PATH. Follow an online tutorial for adding to PATH and set the PATH to include the <code class="code docutils literal notranslate"><span class="pre">platform-tools</span></code> directory. Once you do that, you can run ADB commands from anywhere on your system.</p>
 <p>Adding variables to PATH:</p>
 <ul class="simple">
 <li><p><a class="reference external" href="https://docs.alfresco.com/content-services/latest/admin/troubleshoot/">Windows</a></p></li>
 <li><p><a class="reference external" href="https://unix.stackexchange.com/questions/26047/how-to-correctly-add-a-path-to-path">Linux/Unix (bash)</a></p></li>
 <li><p><a class="reference external" href="https://koenwoortman.com/zsh-add-directory-to-path/">macOS (zsh)</a></p></li>
 </ul>
-<p>If you want to use ADB from any directory, add it to PATH. Follow an online tutorial for adding to PATH and set the PATH to the <code class="code docutils literal notranslate"><span class="pre">platform-tools</span></code> directory. Once you do that, you can run ADB commands from anywhere on your system.</p>
+<section id="connecting-to-a-control-hub-wirelessly">
+<h4>Connecting to a Control Hub Wirelessly<a class="headerlink" href="#connecting-to-a-control-hub-wirelessly" title="Link to this heading">¶</a></h4>
+<ol class="arabic simple">
+<li><p>Connect to the Wi-Fi hotspot hosted by the Control Hub. The hotspot should be called “TEAMNUMBER-RC” or some small derivation of that. It may include extra letters if you have multiple devices per team. Refer to R707 in the Competition Manual for further details on the network naming scheme.</p></li>
+<li><p>Once you’re connected to a Control Hub’s network, you simply need to connect to it using <code class="code docutils literal notranslate"><span class="pre">adb</span> <span class="pre">connect</span> <span class="pre">192.168.43.1:5555</span></code>.</p>
+<ul class="simple">
+<li><p>Alternatively, if you have the <a class="reference external" href="https://docs.revrobotics.com/rev-hardware-client">REV Hardware Client</a> running, it will attempt to automatically connect ADB to any Control Hub connected via Wi-Fi. This option does not require manually setting up ADB, and is therefore preferred by many teams using supported computers.</p></li>
+</ul>
+</li>
+</ol>
+</section>
 <section id="connecting-to-a-phone-wirelessly">
 <h4>Connecting to a Phone Wirelessly<a class="headerlink" href="#connecting-to-a-phone-wirelessly" title="Link to this heading">¶</a></h4>
 <ol class="arabic simple">
 <li><p>Plug the robot controller phone into your computer.</p></li>
 <li><p>Run the command <code class="code docutils literal notranslate"><span class="pre">adb</span> <span class="pre">devices</span></code> in the <code class="code docutils literal notranslate"><span class="pre">platform-tools</span></code> directory and see if the phone shows up.</p></li>
 <li><p>Run <code class="code docutils literal notranslate"><span class="pre">adb</span> <span class="pre">usb</span></code> and then <code class="code docutils literal notranslate"><span class="pre">adb</span> <span class="pre">tcpip</span> <span class="pre">5555</span></code>. You can then unplug the phone.</p></li>
-<li><p>Connect to the same WiFi network the device is either hosting or on. The WiFi direct network created by the phone should be called “TEAMNUMBER-RC” or some small derivation of that. It may include extra letters if you have multiple devices per team. Refer to RS01 in Game Manual Part 1 for further details on the network naming scheme.</p></li>
+<li><p>Connect to the same Wi-Fi network the device is either hosting or on. The Wi-Fi direct network created by the phone should be called “TEAMNUMBER-RC” or some small derivation of that. It may include extra letters if you have multiple devices per team. Refer to R707 in the Competition Manual for further details on the network naming scheme.</p></li>
 <li><p>Connect to the phone using <code class="code docutils literal notranslate"><span class="pre">adb</span> <span class="pre">connect</span> <span class="pre">192.168.49.1:5555</span></code>. If this doesn’t work, recheck the IP address of the phone and try again with that IP address if it is different.</p></li>
 </ol>
+<p>Once a connection is established to a Control Hub or phone, it should automatically appear in the device dropdown in Android Studio.</p>
 </section>
-<section id="connecting-to-a-control-hub-wirelessly">
-<h4>Connecting to a Control Hub Wirelessly<a class="headerlink" href="#connecting-to-a-control-hub-wirelessly" title="Link to this heading">¶</a></h4>
-<ol class="arabic simple">
-<li><p>Connect to the WiFi hotspot hosted by the Control Hub. The hotspot should be called “TEAMNUMBER-RC” or some small derivation of that. It may include extra letters if you have multiple devices per team. Refer to RS01 in Game Manual Part 1 for further details on the network naming scheme.</p></li>
-<li><p>Once you’re connected to a Control Hub’s network, you simply need to connect to it using <code class="code docutils literal notranslate"><span class="pre">adb</span> <span class="pre">connect</span> <span class="pre">192.168.43.1:5555</span></code>.</p></li>
-</ol>
-<p>Once a connection is established, it should appear in the device dropdown in Android Studio.</p>
+<section id="logcat">
+<span id="id1"></span><h4>Logcat<a class="headerlink" href="#logcat" title="Link to this heading">¶</a></h4>
+<p>Logcat is extremely useful for debugging issues with your code at runtime or figuring out what went wrong. For example, if your app activity crashes and you pull up the log seeing 5000 lines of the same error, there is probably infinite recursion in your code!</p>
+<p>To use logcat, plug in your device (or connect via ADB). Then, select the logcat button. Your window should look like this.</p>
+<a class="reference internal image-reference" href="../../../_images/terminal-logcat-location.png"><img alt="Terminal and logcat tabs near the bottom left" class="align-center" src="../../../_images/terminal-logcat-location.png" style="width: 25em;" /></a>
+<a class="reference internal image-reference" href="../../../_images/logcat-panel.png"><img alt="A selected device and app with the error messages" class="align-center" src="../../../_images/logcat-panel.png" style="width: 25em;" /></a>
+<p>Some useful information on using logcat can be found <a class="reference external" href="https://developer.android.com/studio/debug/logcat">here</a>.</p>
+<p>If you have an issue you don’t understand, you can take a screenshot of the log or select and copy the error and ask a question in the <a class="reference external" href="https://discord.com/invite/ftc">FTC discord</a>.</p>
 </section>
 <section id="wireless-configuration">
 <h4>Wireless Configuration<a class="headerlink" href="#wireless-configuration" title="Link to this heading">¶</a></h4>
@@ -684,33 +626,13 @@
 </section>
 </section>
 </section>
-<section id="sdk-manager">
-<h2>SDK Manager<a class="headerlink" href="#sdk-manager" title="Link to this heading">¶</a></h2>
-<p>You can find the SDK manager in the top right corner of your Android Studio.</p>
-<a class="reference internal image-reference" href="../../../_images/sdk-manager-icon.png"><img alt="A box with a down-facing arrow" class="align-center" src="../../../_images/sdk-manager-icon.png" style="width: 25em;" /></a>
-<section id="accepting-licenses">
-<h3>Accepting Licenses<a class="headerlink" href="#accepting-licenses" title="Link to this heading">¶</a></h3>
-<p>If you get a warning complaining about licenses not being accepted, follow these steps:</p>
-<ol class="arabic simple">
-<li><p>Go to the SDK manager and under SDK Platforms.</p></li>
-<li><p>Select the version with the API level specified by the warning.</p></li>
-<li><p>Click “Apply” and wait for the components to install.</p></li>
-<li><p>Once this finishes, press “Finish,” then “Ok.” Wait for Android Studio to index if it is.</p></li>
-<li><p>Restart Android Studio.</p></li>
-</ol>
-</section>
-<section id="installing-sdk-tools">
-<h3>Installing SDK Tools<a class="headerlink" href="#installing-sdk-tools" title="Link to this heading">¶</a></h3>
-<p>To install any SDK tools such as platform tools or build tools, open the SDK manager and go to SDK Tools. Select the tools you want to install and install them the same way you would for the SDK platforms.</p>
-</section>
-</section>
 <section id="version-control">
 <h2>Version Control<a class="headerlink" href="#version-control" title="Link to this heading">¶</a></h2>
 <p>Version control is an extremely useful tool. It allows for looking at (and reverting to) previous versions of code, easy collaboration, having multiple versions of code that can be merged together, etc.</p>
 <p>As far as version control systems go, we strongly recommend git, especially when used with a GUI like Android Studio’s built in VCS tools or Github Desktop. While a git tutorial is out of scope for Game Manual 0, here are some git resources:</p>
 <ul class="simple">
 <li><p><a class="reference external" href="https://git-scm.com/docs/gittutorial">The official git tutorial</a></p></li>
-<li><p><a class="reference external" href="https://docs.github.com/en/get-started/quickstart/set-up-git">GitHub’s collection of git resources</a></p></li>
+<li><p><a class="reference external" href="https://docs.github.com/en/get-started/git-basics/set-up-git">GitHub’s collection of git resources</a></p></li>
 <li><p><a class="reference external" href="https://github.com/git-guides/install-git">GitHub’s guide to installing git</a></p></li>
 <li><p><a class="reference external" href="https://desktop.github.com/">GitHub Desktop, a git GUI</a></p></li>
 <li><p><a class="reference external" href="https://www.jetbrains.com/help/idea/version-control-integration.html">Android Studio’s/IntelliJ’s git integration documentation</a></p></li>
@@ -775,19 +697,13 @@
             <ul>
 <li><a class="reference internal" href="#">Using Android Studio</a><ul>
 <li><a class="reference internal" href="#downloading-android-studio">Downloading Android Studio</a></li>
-<li><a class="reference internal" href="#id1">Setting up the SDK</a><ul>
-<li><a class="reference internal" href="#downloading-the-sdk">Downloading the SDK</a><ul>
-<li><a class="reference internal" href="#downloading-the-zip">Downloading the ZIP</a></li>
-<li><a class="reference internal" href="#using-github-desktop">Using GitHub Desktop</a></li>
-<li><a class="reference internal" href="#from-the-command-line">From the Command Line</a></li>
-</ul>
-</li>
-<li><a class="reference internal" href="#opening-the-sdk-on-android-studio">Opening the SDK on Android Studio</a></li>
+<li><a class="reference internal" href="#setting-up-the-sdk">Setting up the SDK</a><ul>
+<li><a class="reference internal" href="#downloading-the-sdk">Downloading the SDK</a></li>
+<li><a class="reference internal" href="#downloading-and-opening-the-sdk-in-android-studio">Downloading and opening the SDK in Android Studio</a></li>
 </ul>
 </li>
 <li><a class="reference internal" href="#layout">Layout</a><ul>
 <li><a class="reference internal" href="#creating-classes">Creating Classes</a></li>
-<li><a class="reference internal" href="#terminal-and-logcat">Terminal and Logcat</a></li>
 <li><a class="reference internal" href="#installing-your-program">Installing Your Program</a></li>
 </ul>
 </li>
@@ -797,24 +713,18 @@
 <li><a class="reference internal" href="#adding-dependencies">Adding Dependencies</a></li>
 </ul>
 </li>
-<li><a class="reference internal" href="#upgrading-to-java-8">Upgrading to Java 8</a></li>
-<li><a class="reference internal" href="#android-debug-bridge">Android Debug Bridge</a><ul>
-<li><a class="reference internal" href="#logcat">Logcat</a></li>
+<li><a class="reference internal" href="#android-debug-bridge-adb">Android Debug Bridge (adb)</a><ul>
 <li><a class="reference internal" href="#wireless-communication">Wireless Communication</a><ul>
 <li><a class="reference internal" href="#setting-up-adb">Setting Up ADB</a></li>
 </ul>
 </li>
 <li><a class="reference internal" href="#add-adb-to-path">Add ADB To PATH</a><ul>
-<li><a class="reference internal" href="#connecting-to-a-phone-wirelessly">Connecting to a Phone Wirelessly</a></li>
 <li><a class="reference internal" href="#connecting-to-a-control-hub-wirelessly">Connecting to a Control Hub Wirelessly</a></li>
+<li><a class="reference internal" href="#connecting-to-a-phone-wirelessly">Connecting to a Phone Wirelessly</a></li>
+<li><a class="reference internal" href="#logcat">Logcat</a></li>
 <li><a class="reference internal" href="#wireless-configuration">Wireless Configuration</a></li>
 </ul>
 </li>
-</ul>
-</li>
-<li><a class="reference internal" href="#sdk-manager">SDK Manager</a><ul>
-<li><a class="reference internal" href="#accepting-licenses">Accepting Licenses</a></li>
-<li><a class="reference internal" href="#installing-sdk-tools">Installing SDK Tools</a></li>
 </ul>
 </li>
 <li><a class="reference internal" href="#version-control">Version Control</a></li>
@@ -829,16 +739,10 @@
       
     </aside>
   </div>
-</div><script src="../../../_static/jquery.js?v=5d32c60e"></script>
-    <script src="../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-    <script src="../../../_static/documentation_options.js?v=8dde47fa"></script>
+</div><script src="../../../_static/documentation_options.js?v=8dde47fa"></script>
     <script src="../../../_static/doctools.js?v=9a2dae69"></script>
     <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="../../../_static/scripts/furo.js?v=5fa4622c"></script>
-    <script src="../../../_static/js/hoverxref.js"></script>
-    <script src="../../../_static/js/tooltipster.bundle.min.js"></script>
-    <script src="../../../_static/js/micromodal.min.js"></script>
     <script src="../../../_static/design-tabs.js?v=f930bc37"></script>
-    <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     </body>
 </html>

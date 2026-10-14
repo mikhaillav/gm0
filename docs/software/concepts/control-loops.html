@@ -3,7 +3,12 @@
   <head><meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
     <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta property="og:title" content="Control Loops" />
+    <link rel="icon" type="image/png" href="../../../_static/assets/favicon/favicon-96x96.png" sizes="96x96">
+    <link href="../../../_static/assets/favicon/favicon.svg" rel="icon" type="image/svg+xml">
+    <link rel="icon" type="image/x-icon" href="../../../_static/assets/favicon/favicon-dark.ico" media="(prefers-color-scheme: dark)">
+    <link rel="icon" type="image/x-icon" href="../../../_static/assets/favicon/favicon.ico" media="(prefers-color-scheme: light)">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../_static/assets/favicon/apple-touch-icon.png" type="image/png">
+    <link rel="manifest" href="../../../_static/assets/favicon/site.webmanifest"><meta property="og:title" content="Control Loops" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="docs/software/concepts/control-loops.html" />
 <meta property="og:site_name" content="Game Manual 0" />
@@ -15,22 +20,14 @@
 <meta name="theme-color" content="#F47F27" />
 <link rel="index" title="Index" href="../../../genindex.html" /><link rel="search" title="Search" href="../../../search.html" /><link rel="next" title="Finite State Machines" href="finite-state-machines.html" /><link rel="prev" title="Programming Concepts" href="index.html" />
 
-    <link rel="shortcut icon" href="../../../_static/gm0-logo.ico"/><!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
+    <!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
         <title>Control Loops - Game Manual 0</title>
       <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=a746c00c" />
     <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo.css?v=354aac6f" />
     <link rel="stylesheet" type="text/css" href="../../../_static/graphviz.css?v=fd3f3429" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster.custom.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster.bundle.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-shadow.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-punk.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-noir.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-light.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-borderless.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/micromodal.css" />
     <link rel="stylesheet" type="text/css" href="../../../_static/sphinx-design.min.css?v=95c83b7e" />
     <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo-extensions.css?v=302659d7" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/custom.css?v=05cda24f" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/custom.css?v=34d6ed87" />
     
     
 
@@ -216,8 +213,8 @@
       <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../index.html">
   
   <div class="sidebar-logo-container">
-    <img class="sidebar-logo only-light" src="../../../_static/assets/gm0-logo.png" alt="Light Logo"/>
-    <img class="sidebar-logo only-dark" src="../../../_static/assets/gm0-logo_white.png" alt="Dark Logo"/>
+    <img class="sidebar-logo only-light" src="../../../_static/assets/gm0-logo.svg" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../_static/assets/gm0-logo_white.svg" alt="Dark Logo"/>
   </div>
   
   
@@ -384,7 +381,7 @@
 <li class="toctree-l1 has-children"><a class="reference internal" href="../../awards/index.html">Awards</a><input class="toctree-checkbox" id="toctree-checkbox-21" name="toctree-checkbox-21" role="switch" type="checkbox"/><label for="toctree-checkbox-21"><div class="visually-hidden">Toggle navigation of Awards</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/award-types.html">Types of Awards</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/portfolio.html">Engineering Portfolio</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../awards/judging-presentation.html">The Judging Process and Presentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../awards/judging-presentation.html">Preparing for the Judging Interview</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/notebook.html">Notebook Designs and Decisions</a></li>
 </ul>
 </li>
@@ -483,9 +480,9 @@
 <section id="the-integral-term">
 <h3>The Integral Term<a class="headerlink" href="#the-integral-term" title="Link to this heading">¶</a></h3>
 <p>Admittedly, the integral term is the least important term for FTC® PID control loops. With a properly tuned <span class="math notranslate nohighlight">\(K_p\)</span> and <span class="math notranslate nohighlight">\(K_d\)</span>, you often can just set <span class="math notranslate nohighlight">\(K_i\)</span> to 0 and call it a day.</p>
-<p>However, it can still be useful in some cases. Just like the derivative term, the integral term intends to correct for overshoot. if the system thinks it reached its destination, it will stop, even when, in fact, the error is not yet 0. Perhaps the motor is no longer being supplied enough power to move. Well, given enough time, the integral term will increase the output (in this case, motor power), causing movement towards the destination.</p>
+<p>However, it can still be useful in some cases. Just like the derivative term, the integral term intends to correct for overshoot. If the system thinks it reached its destination, it will stop, even when, in fact, the error is not yet 0. Perhaps the motor is no longer being supplied enough power to move. Well, given enough time, the integral term will increase the output (in this case, motor power), causing movement towards the destination.</p>
 <p>To explain without calculus, the integral term essentially sums the error over a specific interval of time. To do this, error in each loop iteration is added to a variable (in this case, <span class="math notranslate nohighlight">\(I(t)\)</span>).</p>
-<p>However, summing error this way has an unfortunate side effect: the longer the loop takes to complete one iteration, the more slowly this sum increases, which is obviously not desirable, as we don’t want lag to affect how the robot moves. To compensate for this, before the error is added to <span class="math notranslate nohighlight">\(I(t)\)</span>, it is multiplied by how long the previous loop took to-complete, or <span class="math notranslate nohighlight">\(t_{n+1}-t_n\)</span>, preventing lag from making the system sum more slowly.</p>
+<p>However, summing error this way has an unfortunate side effect: the longer the loop takes to complete one iteration, the more slowly this sum increases, which is obviously not desirable, as we don’t want lag to affect how the robot moves. To compensate for this, before the error is added to <span class="math notranslate nohighlight">\(I(t)\)</span>, it is multiplied by how long the previous loop took to complete, or <span class="math notranslate nohighlight">\(t_{n+1}-t_n\)</span>, preventing lag from making the system sum more slowly.</p>
 <p>So say the robot stops short of the target. The P and D combination aren’t strong enough to move it forward to the destination. You can either tune <span class="math notranslate nohighlight">\(K_p\)</span> and <span class="math notranslate nohighlight">\(K_d\)</span> to compensate (<strong>this is recommended</strong>), or you can add the integral term to increase output (<strong>this works too, but requires more attention and tuning to achieve the same result</strong>).</p>
 </section>
 <section id="pid-pseudocode">
@@ -571,7 +568,7 @@ PID can be enabled by changing the run mode to <code class="docutils literal not
 <p>For teams who desire the most performance out of their PID controller,
 it is essential to consider the Sample rate of the controller.
 The Sample rate is when the controller updates its output given new sensor data.
-Higher Sample rates allow for more stable control and allow for the usage of more significant PID coefficients to reduce settling time. See this <a class="reference external" href="https://www.youtube.com/watch?v=fusr9eTceEo&amp;t=133s">video</a> to see how sample rate effects stability in a practical motor control example.
+Higher Sample rates allow for more stable control and allow for the usage of more significant PID coefficients to reduce settling time. See this <a class="reference external" href="https://www.youtube.com/watch?v=fusr9eTceEo&amp;t=133s">video</a> to see how sample rate affects stability in a practical motor control example.
 The inbuilt PID controller is locked at a 20hz refresh rate (50ms sample rate). Many top FTC teams optimize their robot loops to run at up to 80hz,
 achieving <em>much</em> more stable control with an external PID.</p>
 </section>
@@ -615,6 +612,17 @@ It is recommended to re-estimate these gains every time you make a significant c
 </pre></div>
 </div>
 </section>
+<section id="gravity-compensated-feedforward">
+<span id="id1"></span><h3>Gravity Compensated Feedforward<a class="headerlink" href="#gravity-compensated-feedforward" title="Link to this heading">¶</a></h3>
+<p>In <a class="reference internal" href="kinematics.html#gravity-compensation"><span class="std std-ref">Gravity Compensation</span></a> we derive the effect of gravity upon an arm as <span class="math notranslate nohighlight">\(F_g = g\cos{\theta}\)</span>. Here we can use that with the following logic.</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="k">while</span> <span class="kc">True</span><span class="p">:</span>
+    <span class="n">error</span> <span class="o">=</span> <span class="n">desire_position</span> <span class="o">-</span> <span class="n">current_position</span><span class="p">;</span> <span class="c1"># no effect on gravity compensation</span>
+    <span class="n">current_angle</span> <span class="o">=</span> <span class="p">(</span><span class="n">TICKS_AT_ZERO</span> <span class="o">-</span> <span class="n">current_tick</span><span class="p">)</span> <span class="o">*</span> <span class="n">DEGREE_PER_TICK</span>
+    <span class="n">output</span> <span class="o">=</span> <span class="n">PID</span><span class="p">(</span><span class="n">error</span><span class="p">)</span> <span class="o">+</span> <span class="n">cos</span><span class="p">(</span><span class="n">radians</span><span class="p">(</span><span class="n">current_angle</span><span class="p">))</span> <span class="o">*</span> <span class="n">kF</span>
+</pre></div>
+</div>
+<p>This code uses a kF constant to approximate how much power the arm needs to counteract gravity. In theory, this is something related to gravity multiplied by the rotational moment of inertia of your arm. Calculating this is impractical and kF is instead found empirically. This can be done by setting the gains on the PID to 0, and increasing kF until the arm can hold itself up at any position. If your arm is still falling, increase kF, and if your arm is moving upwards, decrease kF. FTC team 16379 Kookybotz has <a class="reference external" href="https://youtu.be/E6H6Nqe6qJo?si=AztzVtAqShFEA4EP&amp;t=440">an excellent video on Arm programming</a>, where they demonstrate how to increase kF.</p>
+</section>
 </section>
 <section id="motion-profiles">
 <h2>Motion Profiles<a class="headerlink" href="#motion-profiles" title="Link to this heading">¶</a></h2>
@@ -639,10 +647,10 @@ It is recommended to re-estimate these gains every time you make a significant c
 </ul>
 <p>There are two main types of motion profiles: <strong>Trapezoidal</strong> profiles and <strong>S-Curve</strong> profiles. Trapezoidal profiles accelerate the system at a constant rate, and S-Curve profiles assume jerk (the speed acceleration changes) is constant. Given that S-Curve profiles are not optimal for controlling 2d trajectories (such as driving) and exist to reduce slippage (which usually only occurs when driving in FTC), trapezoidal profiles are recommended for most FTC applications.</p>
 <p>Trapezoidal profiles get their name from the shape of the graph of velocity over time:</p>
-<figure class="align-default" id="id1">
+<figure class="align-default" id="id2">
 <a class="reference internal image-reference" href="../../../_images/trapezoidal-motion-profiling-graph.png"><img alt="The position over time, velocity over time, and acceleration over time graphs for a trapezoidal motion profile" class="align-center" src="../../../_images/trapezoidal-motion-profiling-graph.png" style="width: 25em;" /></a>
 <figcaption>
-<p><span class="caption-text">These are the “magic functions” for velocity and acceleration over time alluded to in the feedforward section.</span><a class="headerlink" href="#id1" title="Link to this image">¶</a></p>
+<p><span class="caption-text">These are the “magic functions” for velocity and acceleration over time alluded to in the feedforward section.</span><a class="headerlink" href="#id2" title="Link to this image">¶</a></p>
 </figcaption>
 </figure>
 <p>Here is some pseudocode for a trapezoidal profile:</p>
@@ -753,6 +761,7 @@ It is recommended to re-estimate these gains every time you make a significant c
 <li><a class="reference internal" href="#kv-ka-feedforward-model">Kv Ka Feedforward Model</a></li>
 <li><a class="reference internal" href="#kv-ka-feedforward-pseudocode">Kv Ka Feedforward Pseudocode</a></li>
 <li><a class="reference internal" href="#static-friction-feedforward">Static Friction Feedforward</a></li>
+<li><a class="reference internal" href="#gravity-compensated-feedforward">Gravity Compensated Feedforward</a></li>
 </ul>
 </li>
 <li><a class="reference internal" href="#motion-profiles">Motion Profiles</a><ul>
@@ -771,15 +780,10 @@ It is recommended to re-estimate these gains every time you make a significant c
       
     </aside>
   </div>
-</div><script src="../../../_static/jquery.js?v=5d32c60e"></script>
-    <script src="../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-    <script src="../../../_static/documentation_options.js?v=8dde47fa"></script>
+</div><script src="../../../_static/documentation_options.js?v=8dde47fa"></script>
     <script src="../../../_static/doctools.js?v=9a2dae69"></script>
     <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="../../../_static/scripts/furo.js?v=5fa4622c"></script>
-    <script src="../../../_static/js/hoverxref.js"></script>
-    <script src="../../../_static/js/tooltipster.bundle.min.js"></script>
-    <script src="../../../_static/js/micromodal.min.js"></script>
     <script src="../../../_static/design-tabs.js?v=f930bc37"></script>
     <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     </body>

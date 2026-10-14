@@ -3,7 +3,12 @@
   <head><meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
     <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta property="og:title" content="Gears" />
+    <link rel="icon" type="image/png" href="../../../_static/assets/favicon/favicon-96x96.png" sizes="96x96">
+    <link href="../../../_static/assets/favicon/favicon.svg" rel="icon" type="image/svg+xml">
+    <link rel="icon" type="image/x-icon" href="../../../_static/assets/favicon/favicon-dark.ico" media="(prefers-color-scheme: dark)">
+    <link rel="icon" type="image/x-icon" href="../../../_static/assets/favicon/favicon.ico" media="(prefers-color-scheme: light)">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../_static/assets/favicon/apple-touch-icon.png" type="image/png">
+    <link rel="manifest" href="../../../_static/assets/favicon/site.webmanifest"><meta property="og:title" content="Gears" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="docs/common-mechanisms/power-transmission/gears.html" />
 <meta property="og:site_name" content="Game Manual 0" />
@@ -15,22 +20,14 @@
 <meta name="theme-color" content="#F47F27" />
 <link rel="index" title="Index" href="../../../genindex.html" /><link rel="search" title="Search" href="../../../search.html" /><link rel="next" title="Roller Chain" href="chain.html" /><link rel="prev" title="Direct Drive" href="direct-drive.html" />
 
-    <link rel="shortcut icon" href="../../../_static/gm0-logo.ico"/><!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
+    <!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
         <title>Gears - Game Manual 0</title>
       <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=a746c00c" />
     <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo.css?v=354aac6f" />
     <link rel="stylesheet" type="text/css" href="../../../_static/graphviz.css?v=fd3f3429" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster.custom.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster.bundle.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-shadow.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-punk.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-noir.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-light.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-borderless.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/micromodal.css" />
     <link rel="stylesheet" type="text/css" href="../../../_static/sphinx-design.min.css?v=95c83b7e" />
     <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo-extensions.css?v=302659d7" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/custom.css?v=05cda24f" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/custom.css?v=34d6ed87" />
     
     
 
@@ -216,8 +213,8 @@
       <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../index.html">
   
   <div class="sidebar-logo-container">
-    <img class="sidebar-logo only-light" src="../../../_static/assets/gm0-logo.png" alt="Light Logo"/>
-    <img class="sidebar-logo only-dark" src="../../../_static/assets/gm0-logo_white.png" alt="Dark Logo"/>
+    <img class="sidebar-logo only-light" src="../../../_static/assets/gm0-logo.svg" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../_static/assets/gm0-logo_white.svg" alt="Dark Logo"/>
   </div>
   
   
@@ -384,7 +381,7 @@
 <li class="toctree-l1 has-children"><a class="reference internal" href="../../awards/index.html">Awards</a><input class="toctree-checkbox" id="toctree-checkbox-21" name="toctree-checkbox-21" role="switch" type="checkbox"/><label for="toctree-checkbox-21"><div class="visually-hidden">Toggle navigation of Awards</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/award-types.html">Types of Awards</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/portfolio.html">Engineering Portfolio</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../awards/judging-presentation.html">The Judging Process and Presentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../awards/judging-presentation.html">Preparing for the Judging Interview</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/notebook.html">Notebook Designs and Decisions</a></li>
 </ul>
 </li>
@@ -444,7 +441,7 @@
         <article role="main" id="furo-main-content">
           <section id="gears">
 <h1>Gears<a class="headerlink" href="#gears" title="Link to this heading">¶</a></h1>
-<p>Gears, like sprockets and pulleys, are used in power transmission for three common applications: changing the direction of power, changing the amount of torque, and changing RPM. Gears are a less common transmission option than chain, but are still very viable for most use cases. Gears are equally as reliable as chain, but can’t be used for transferring power over long distances. Many teams dislike gears when using kit-based channels because the hole pattern limits which combinations of gears can be used. Consequently, it may be difficult to achieve a desired specific gear ratio. However, with <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../hardware-components/kit-and-hardware-guide/kit-glossary.html#term-Extrusion"><span class="xref std std-term">extrusion</span></a> systems, it’s very easy to use different ratios, since the gears can be moved around in extrusion.</p>
+<p>Gears, like sprockets and pulleys, are used in power transmission for three common applications: changing the direction of power, changing the amount of torque, and changing RPM. Gears are a less common transmission option than chain, but are still very viable for most use cases. Gears are equally as reliable as chain, but can’t be used for transferring power over long distances. Many teams dislike gears when using kit-based channels because the hole pattern limits which combinations of gears can be used. Consequently, it may be difficult to achieve a desired specific gear ratio. However, with <a class="reference internal" href="../../hardware-components/kit-and-hardware-guide/kit-glossary.html#term-Extrusion"><span class="xref std std-term">extrusion</span></a> systems, it’s very easy to use different ratios, since the gears can be moved around in extrusion.</p>
 <div class="admonition-term admonition">
 <p class="admonition-title">Term</p>
 <dl class="glossary">
@@ -487,7 +484,7 @@
 <p>The <strong>module</strong> (abbreviated <strong>MOD</strong>) of a gear is used similarly to diametral pitch. It is the number of millimeters of the gear’s diameter per tooth of the gear. The equation to find center distance <span class="math notranslate nohighlight">\(D\)</span> is <span class="math notranslate nohighlight">\(D = \frac{(T_{1} + T_{2}) * M}{2}\)</span>, where <span class="math notranslate nohighlight">\(T_{1}\)</span> and <span class="math notranslate nohighlight">\(T_2\)</span> are the number of teeth of each gear in question, and <span class="math notranslate nohighlight">\(M\)</span> is the module of the gear.</p>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
-<p>Be sure to never <a class="hxr-hoverxref hxr-tooltip reference internal" href="#term-Mesh"><span class="xref std std-term">mesh</span></a> gears that are not of the same diametral pitch. (A notable exception is 32 diametral pitch and 0.8 MOD gears. These are close enough to be perfectly fine.)</p>
+<p>Be sure to never <a class="reference internal" href="#term-Mesh"><span class="xref std std-term">mesh</span></a> gears that are not of the same diametral pitch. (A notable exception is 32 diametral pitch and 0.8 MOD gears. These are close enough to be perfectly fine.)</p>
 </div>
 <p>Additionally, it is possible to average the pitch diameters of the two gears to find the correct center-to-center distance.</p>
 <figure class="align-default" id="id2">
@@ -512,7 +509,7 @@
 <h2>Disadvantages<a class="headerlink" href="#disadvantages" title="Link to this heading">¶</a></h2>
 <ul class="simple">
 <li><p><strong>Sometimes, the ratio you want might not be easy to build</strong>. Channel spacing limits gear ratios, but this can be circumvented with compound ratios and a bit of creativity.</p></li>
-<li><p><strong>Long distance power transfer is impractical with gears</strong>. If you need to transfer power long distances, gear combinations can become complicated very quickly, so belt/chain is preferrable.</p></li>
+<li><p><strong>Long distance power transfer is impractical with gears</strong>. If you need to transfer power long distances, gear combinations can become complicated very quickly, so belt/chain is preferable.</p></li>
 <li><p><strong>Meshing gears can be tricky</strong>. It’s only made worse by the sensitivity of a gear mesh. However, channels do solve this problem, providing pre-spaced holes to easily mesh your gears. Do keep in mind that gear mesh may not be perfect, even with channel.</p></li>
 <li><p><strong>Gears usually wear faster than sprockets</strong> if there is too much friction between the gears. Teams can use white lithium grease or similar lubricant to help remedy this problem.</p></li>
 </ul>
@@ -602,15 +599,10 @@
       
     </aside>
   </div>
-</div><script src="../../../_static/jquery.js?v=5d32c60e"></script>
-    <script src="../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-    <script src="../../../_static/documentation_options.js?v=8dde47fa"></script>
+</div><script src="../../../_static/documentation_options.js?v=8dde47fa"></script>
     <script src="../../../_static/doctools.js?v=9a2dae69"></script>
     <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="../../../_static/scripts/furo.js?v=5fa4622c"></script>
-    <script src="../../../_static/js/hoverxref.js"></script>
-    <script src="../../../_static/js/tooltipster.bundle.min.js"></script>
-    <script src="../../../_static/js/micromodal.min.js"></script>
     <script src="../../../_static/design-tabs.js?v=f930bc37"></script>
     <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     </body>

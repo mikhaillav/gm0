@@ -3,34 +3,31 @@
   <head><meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
     <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta property="og:title" content="Control System Electronics" />
+    <link rel="icon" type="image/png" href="../../../_static/assets/favicon/favicon-96x96.png" sizes="96x96">
+    <link href="../../../_static/assets/favicon/favicon.svg" rel="icon" type="image/svg+xml">
+    <link rel="icon" type="image/x-icon" href="../../../_static/assets/favicon/favicon-dark.ico" media="(prefers-color-scheme: dark)">
+    <link rel="icon" type="image/x-icon" href="../../../_static/assets/favicon/favicon.ico" media="(prefers-color-scheme: light)">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../_static/assets/favicon/apple-touch-icon.png" type="image/png">
+    <link rel="manifest" href="../../../_static/assets/favicon/site.webmanifest"><meta property="og:title" content="Control System Electronics" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="docs/software/adv-control-system/control-system-internals.html" />
 <meta property="og:site_name" content="Game Manual 0" />
-<meta property="og:description" content="This page contains a breakdown of the known electronics in the control system, as well as any notes regarding them Expansion Hub Internals: Lynx Board: “Lynx” is the codename of the board within th..." />
+<meta property="og:description" content="This page contains a breakdown of known electronics in the REV Robotics control system, as well as notes regarding them. Expansion Hub Internals: Lynx Board: “Lynx” is the codename of the board wit..." />
 <meta property="og:image" content="https://raw.githubusercontent.com/gamemanual0/gm0/main/source/_static/assets/gm0-logo.png" />
 <meta property="og:image:alt" content="Game Manual 0" />
-<meta name="description" content="This page contains a breakdown of the known electronics in the control system, as well as any notes regarding them Expansion Hub Internals: Lynx Board: “Lynx” is the codename of the board within th..." />
+<meta name="description" content="This page contains a breakdown of known electronics in the REV Robotics control system, as well as notes regarding them. Expansion Hub Internals: Lynx Board: “Lynx” is the codename of the board wit..." />
 <meta property="og:ignore_canonical" content="true" />
 <meta name="theme-color" content="#F47F27" />
 <link rel="index" title="Index" href="../../../genindex.html" /><link rel="search" title="Search" href="../../../search.html" /><link rel="next" title="SDK Communication" href="sdk-communication.html" /><link rel="prev" title="Advanced Control System" href="index.html" />
 
-    <link rel="shortcut icon" href="../../../_static/gm0-logo.ico"/><!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
+    <!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
         <title>Control System Electronics - Game Manual 0</title>
       <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=a746c00c" />
     <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo.css?v=354aac6f" />
     <link rel="stylesheet" type="text/css" href="../../../_static/graphviz.css?v=fd3f3429" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster.custom.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster.bundle.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-shadow.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-punk.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-noir.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-light.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-borderless.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/micromodal.css" />
     <link rel="stylesheet" type="text/css" href="../../../_static/sphinx-design.min.css?v=95c83b7e" />
     <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo-extensions.css?v=302659d7" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/custom.css?v=05cda24f" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/custom.css?v=34d6ed87" />
     
     
 
@@ -216,8 +213,8 @@
       <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../index.html">
   
   <div class="sidebar-logo-container">
-    <img class="sidebar-logo only-light" src="../../../_static/assets/gm0-logo.png" alt="Light Logo"/>
-    <img class="sidebar-logo only-dark" src="../../../_static/assets/gm0-logo_white.png" alt="Dark Logo"/>
+    <img class="sidebar-logo only-light" src="../../../_static/assets/gm0-logo.svg" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../_static/assets/gm0-logo_white.svg" alt="Dark Logo"/>
   </div>
   
   
@@ -384,7 +381,7 @@
 <li class="toctree-l1 has-children"><a class="reference internal" href="../../awards/index.html">Awards</a><input class="toctree-checkbox" id="toctree-checkbox-21" name="toctree-checkbox-21" role="switch" type="checkbox"/><label for="toctree-checkbox-21"><div class="visually-hidden">Toggle navigation of Awards</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/award-types.html">Types of Awards</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/portfolio.html">Engineering Portfolio</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../awards/judging-presentation.html">The Judging Process and Presentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../awards/judging-presentation.html">Preparing for the Judging Interview</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/notebook.html">Notebook Designs and Decisions</a></li>
 </ul>
 </li>
@@ -444,16 +441,16 @@
         <article role="main" id="furo-main-content">
           <section id="control-system-electronics">
 <h1>Control System Electronics<a class="headerlink" href="#control-system-electronics" title="Link to this heading">¶</a></h1>
-<p>This page contains a breakdown of the known electronics in the control system, as well as any notes regarding them</p>
+<p>This page contains a breakdown of known electronics in the REV Robotics control system, as well as notes regarding them.</p>
 <section id="expansion-hub-internals">
 <h2>Expansion Hub Internals<a class="headerlink" href="#expansion-hub-internals" title="Link to this heading">¶</a></h2>
 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
-<p>Don’t take apart a Control or Expansion Hub unless you really know what you are doing. They can be damaged in the process, especially if one does not know how to properly reassemble it. THIS WILL VOID YOUR WARRANTY!</p>
+<p>Don’t take apart a Control or Expansion Hub unless you really know what you are doing. They can be damaged in the process, especially if one does not know how to properly reassemble it.</p>
 </div>
 <section id="lynx-board">
 <h3>Lynx Board<a class="headerlink" href="#lynx-board" title="Link to this heading">¶</a></h3>
-<p>“Lynx” is the codename of the board within the Expansion Hub and Control Hub that interacts with hardware. References to “Lynx” are made in the FTC® SDK refer to this board. It appears to have been developed by both REV and DEKA, possibly for use in <em>FIRST</em>® Global (judging by the <em>FIRST</em> Global silkscreen on the PCB).</p>
+<p>“Lynx” is the codename of the board within the Expansion Hub and Control Hub that interacts with hardware. References to “Lynx” made in the FTC® SDK refer to this board. It appears to have been developed by both REV Robotics and <a class="reference external" href="https://dekaresearch.com/">DEKA</a> (Dean Kamen’s company). A reverse-engineered schematic can be found <a class="reference external" href="https://github.com/DuckTapeAndAPrayer/LynxSchematic">here</a>.</p>
 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
 <p>Don’t take apart a Control or Expansion Hub unless you really know what you are doing. They can be damaged in the process, especially if one does not know how to properly reassemble it.</p>
@@ -467,11 +464,11 @@
 </section>
 <section id="processor">
 <h3>Processor<a class="headerlink" href="#processor" title="Link to this heading">¶</a></h3>
-<p>The main processor of the Expansion Hub is a Texas Instruments ARM Cortex M4 running at 80 MHZ.</p>
+<p>The microcontroller used by the Lynx board is a <a class="reference external" href="https://www.ti.com/product/TM4C123GH6PGE">Texas Instruments TM4C123GH6PGE</a>, with an Arm Cortex-M4F processor running at 80 MHZ.</p>
 </section>
 <section id="ports">
 <h3>Ports<a class="headerlink" href="#ports" title="Link to this heading">¶</a></h3>
-<p>The expansion hub has the following ports</p>
+<p>The Lynx board has the following ports:</p>
 <ul class="simple">
 <li><p>Two UART Debug Ports</p>
 <ul>
@@ -481,8 +478,9 @@
 </li>
 <li><p>Four I2C Ports</p>
 <ul>
-<li><p>These ports are 100/400 kHz compliant and are connected to a separate bus so there is no need to be concerned about address collisions</p></li>
-<li><p>There are integrated pull up resistors on this port</p></li>
+<li><p>These ports are 100/400 kHz compliant.</p></li>
+<li><p>The ports are connected to separate busses, so there is generally no need to be concerned about address collisions.  However, be aware that the internal IMU shares the I2C bus with I2C port 0.</p></li>
+<li><p>There appear to be integrated pull up resistors on this port (potentially using the built-in configurable pull-up/pull-down resistors integrated into the MCU).</p></li>
 </ul>
 </li>
 <li><p>Eight DIO Ports</p>
@@ -492,55 +490,101 @@
 </li>
 <li><p>Four Analog Ports</p>
 <ul>
-<li><p>5V compliant, you can use a level shifter to supply 5v to the sensor, but take care the analog line bypasses the level shifter. The VIN and GND lines must pass through the level shifter for it to work however.</p></li>
+<li><p>These ports are 5V compliant; you can use a level shifter to supply 5v to the sensor, but take care the analog line bypasses the level shifter. The VIN and GND lines, however, must pass through the level shifter for it to work.</p></li>
 </ul>
 </li>
 <li><p>Six Servo Ports</p>
 <ul>
 <li><p>The 5V supply on the servo ports is default OFF, and will only enable once a servo is used. All six 5V pins are switched on and off together, and disabling PWM on one port will switch all of the ports off unless another servo is used.</p></li>
+<li><p>Each pair of 2 side-by-side ports is rated for a maximum current draw of 2 amps, and the combined set of servo + 5V ports is rated for a maximum total current draw of 5 amps.</p></li>
 </ul>
 </li>
 <li><p>Two 5V Power Ports</p>
 <ul>
-<li><p>The 5V supply is shared with the servos</p></li>
+<li><p>The pair of 5V supply ports is rated for a maximum current draw of 2 amps, and shares the total 5 amp limit with the servo ports.</p></li>
 </ul>
 </li>
 <li><p>Four Motor Ports</p>
 <ul>
-<li><p>Current limited and have overtemperature protection on the chip. The output does not brake the h-bridge during the PWM off cycle. What this means is that there might be linearity issues while deaccelerating, because of momentum in the motor.</p></li>
-<li><p>The motor driver is a ST Microelectronics VNH5050 motor driver IC, which is capabile of handling well over the maximum amount of current an FTC motor can draw. It has integrated current sensing and has been used since the modern robotics era. It has built in thermal and current safety limits. This motor controller has been used for years, and may even date back to the early HiTechnic based control system.</p></li>
+<li><p>The motor driver is a ST Microelectronics VNH5050 motor driver IC, which is capable of handling well over the maximum amount of current an FTC motor can draw. It has integrated current sensing, and built-in thermal and current safety limits.</p></li>
+<li><p>The output does not brake the H-bridge during the PWM off cycle. What this means is that there might be linearity issues while deaccelerating, because of momentum in the motor.</p></li>
 </ul>
 </li>
 <li><p>Four Encoder Ports</p>
 <ul>
-<li><p><strong>IMPORTANT: Only two of the encoder ports (Ports 0 and 3) appear to be connected via hardware and are reliable at high speed</strong>. There are two methods of connecting an encoder internally to the texas instruments microprocessor, through hardware and software. Hardware ports use the integrated quadrature decoder chip and are extremely accurate at high speed, whereas encoders decoded in software are not reliable at high speeds. As a result, high Count Per Revolution (CPR) encoders, those with more than 4000 counts per revolution, should NOT be used on ports 1 and 2, the ports connected in software.</p></li>
+<li><p><strong>IMPORTANT: Only two of the encoder ports (Ports 0 and 3) can accurately track position/velocity at high speeds</strong>. There are two methods of connecting an encoder internally to the Texas Instruments microprocessor, through the Quadrature Encoder Interface (QEI) and through General-Purpose Timers (GPTs). Ports 0 and 3 use the integrated QEI and are extremely accurate at high speeds, whereas encoders using the GPTs often start to lose counts at high speeds. As a result, high Count per Revolution (CPR) encoders (those with more than around 4000 counts per revolution) expected to spin somewhat quickly (such as encoders being used in odometry pods) should NOT be used on ports 1 and 2.</p></li>
 </ul>
 </li>
 <li><p>Two XT30 Connectors</p>
 <ul>
 <li><p>Care should be taken when moving around cables as these connectors have been known to fail and break off the board.</p></li>
-<li><p>In addition, XT30s will wear and get loose with time. Hot glue is recommended if cables come loose.</p></li>
+<li><p>In addition, XT30s will wear and get loose with time. See <a class="reference external" href="https://docs.revrobotics.com/duo-control/troubleshooting-the-control-system/expansion-hub-troubleshooting#xt30-pins-are-compressed">XT30 Pins are Compressed - Expansion Hub Troubleshooting</a> for details on the issue and how to fix it.</p></li>
 </ul>
 </li>
-<li><p>Mini USB B Connector</p>
+<li><p>USB Mini-B Connector</p>
 <ul>
-<li><p>Capable of full speed USB 2.0, and 5V output to charge a phone. The 5v output may be unreliable, it depends on the hub.</p></li>
+<li><p>Uses the FTDI FT230XQ chip to bridge the internal UART to USB, allowing an Expansion Hub to connect over USB to a Control Hub, Android device, computer, or other such device. The FT230XQ is capable of USB Full Speed (12 Mbps) on the USB side and 3 MBaud on the UART side, and 5V output to charge a phone. According to REV, the 5V output is not compatible with any of the remaining Android phones still legal in FTC.  This USB chip is disabled by the compute board of the Control Hub, meaning this port is not functional out-of-the-box on a Control Hub.</p></li>
 </ul>
 </li>
 <li><p>Internal Connector</p>
 <ul>
-<li><p>This connector is what is used to connect to the android daughterboard. It presumably has UART capability as well as power and ground. All expansion hubs have this connector, whether or not they are a control hub. Presumably this is because the control hub and REV hub were developed together at the same time.</p></li>
+<li><p>This connector is what is used to connect to the compute daughterboard. It has a UART connection, as well as power and ground. All Lynx modules that came as part of an Control Hub will have this connector, but Lynx modules sold as Expansion Hubs may or may not have this connector. A Lynx board from an Expansion Hub that contains the connector, when connected with a Control Hub’s daughterboard, will work as a Control Hub. To go the other way, the Hub address has to be changed to something other than the Control Hub address of 173. You can change the address once the daughterboard is removed by plugging it into an Android device running the Robot Controller app and using the function in the settings to change the address. (Note that connecting it to another Control Hub is unlikely to work, due to the address interference between the two Lynx modules. The Driver Hub works fine for this purpose, but make sure to uninstall the Robot Controller app from it afterwards, so it doesn’t potentially interfere with the Driver Station app!)</p></li>
 </ul>
 </li>
 </ul>
 </section>
 <section id="control-hub">
 <h3>Control Hub<a class="headerlink" href="#control-hub" title="Link to this heading">¶</a></h3>
-<p>The Control Hub is an Expansion Hub with an embedded Android single-board computer daughterboard connected to it. This enables it to not need a separate Robot Controller phone, as the daughterboard functions as the Robot Controller. Internally, LynxCommands are sent over from the daughterboard to the Lynx board over an internal UART connection.</p>
-<p>The control hub daughterboard contains a RK3328 Quad-core ARM Cortex-A53 running a custom version of Android/Linux. This software is open source, but has nothing notible except for some software that manages the wifi access point. It has no thermal spreading, such as heat sinks, on the chip, which can cause thermal throttling when heavy applications such as tensorflow are used.</p>
+<p>The Control Hub is an Expansion Hub with an embedded single-board compute daughterboard connected to it. This enables it to not need a separate Robot Controller phone, as the compute board functions as the Robot Controller. Internally, LynxCommands are sent over from the daughterboard to the Lynx board over an internal UART connection.</p>
+<p>The compute board is based on the <a class="reference external" href="https://raw.githubusercontent.com/96boards/documentation/master/Specifications/96Boards-CE-Specification.pdf">96Boards CE Specification, Version 1.0</a>, though it is unknown how many of the features of the two expansion connectors are wired up/functional beyond the UART and handful of GPIO lines used to connect to the Lynx board.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>The original version of the Control Hub (REV-31-1152) actually used a <a class="reference external" href="https://www.96boards.org/product/dragonboard410c/">Dragonboard 410c</a> as the compute board.  This version of the Control Hub was never used in, nor legal for, FTC; it appears to have only been used in early <em>FIRST</em>® Global seasons.</p>
+</div>
+<p>The Control Hub compute board runs a customized version of Android 7.1. It does not have a proper heatsink on the SOC, only an RF shield that does not touch the SOC, which can cause thermal throttling when heavy processes such as vision pipelines are used. A large amount of heat seems to be sunk by the daughterboard PCB, which acts like a heat spreader.</p>
+<ul class="simple">
+<li><p>SOC: Rockchip RK3328</p>
+<ul>
+<li><p>CPU: Quad-core ARM® Cortex-A53</p>
+<ul>
+<li><p>The device tree in <a class="reference external" href="https://github.com/REVrobotics/kernel-controlhub-android">the official kernel</a> seems to indicate that the CPU can clock up to 1.5 GHz</p></li>
+</ul>
+</li>
+<li><p>GPU - ARM® Mali 450MP4</p>
+<ul>
+<li><p>HDMI 2.0 support for 4k &#64; 60Hz</p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>RAM: 1GB DDR3</p></li>
+<li><p>Storage: 8 to 16GB of eMMC flash memory</p>
+<ul>
+<li><p>“8GB eMMC 4.51” is the spec officially listed by REV, but multiple real-world units that were checked all had 16GB eMMC chips found on their boards.</p></li>
+<li><p>According to REV, in a support email: <strong>“Original builds of the Control Hub were manufactured with 8GB eMMC chips. However, some 16GB versions were made due to supply chain constraints. Recent Control Hubs (purchased after 2022) are more likely to have the 16GB eMMC chip.”</strong></p></li>
+</ul>
+</li>
+<li><p>USB: 1x USB 3.0, 1x USB 2.0, 1x internal USB 2.0 used to connect the Wi-Fi chip</p></li>
+<li><p>Wi-Fi: Realtek RTL8821CU</p>
+<ul>
+<li><p>IEEE 802.11a/b/g/n/ac Wi-Fi (Dual Band 2.4 &amp; 5 GHz)</p>
+<ul>
+<li><p>802.11w Protected Management Frames standard supported for preventing <a class="reference external" href="https://en.wikipedia.org/wiki/Wi-Fi_deauthentication_attack">deauthentication attacks</a></p></li>
+</ul>
+</li>
+<li><p>Bluetooth 4.2 (Bluetooth 4.1 listed by REV)</p></li>
+</ul>
+</li>
+<li><p>Debugging UART: 3 pin header (TX left, RX middle, Ground right), 1500000 baud</p></li>
+</ul>
 <div class="admonition warning">
 <p class="admonition-title">Warning</p>
 <p>Don’t take apart a Control or Expansion Hub unless you really know what you are doing. They can be damaged in the process, especially if one does not know how to properly reassemble it.</p>
+</div>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>It is possible to install an Armbian Linux build from <a class="reference external" href="https://forum.armbian.com/topic/26978-csc-armbian-for-rk3318rk3328-tv-box-boards/">https://forum.armbian.com/topic/26978-csc-armbian-for-rk3318rk3328-tv-box-boards/</a> and have it work on the Control Hub. Enable the <cite>rk3318-box-led-conf3</cite> board type using the <code class="docutils literal notranslate"><span class="pre">rk3318-config</span></code> command to allow Wi-FI and all USB ports to work. Enable the <code class="docutils literal notranslate"><span class="pre">rk3328-uart1</span></code> overlay using <code class="docutils literal notranslate"><span class="pre">armbian-config</span></code> to allow communicating with the Lynx board over the internal UART connection using <code class="docutils literal notranslate"><span class="pre">/dev/ttyS1</span></code>.</p>
+<p><strong>YOU SHOULDN’T BE DOING THIS FOR FTC!</strong></p>
 </div>
 <figure class="align-default" id="id2">
 <a class="reference internal image-reference" href="../../../_images/control-hub-internals.jpg"><img alt="The single board computer and Lynx board from a Control Hub" class="align-center" src="../../../_images/control-hub-internals.jpg" style="width: 25em;" /></a>
@@ -549,9 +593,9 @@
 </figcaption>
 </figure>
 <figure class="align-default" id="id3">
-<a class="reference internal image-reference" href="../../../_images/android-board.jpg"><img alt="The android board, removed from a control hub" class="align-center" src="../../../_images/android-board.jpg" style="width: 25em;" /></a>
+<a class="reference internal image-reference" href="../../../_images/android-board.jpg"><img alt="The compute board, removed from a Control Hub" class="align-center" src="../../../_images/android-board.jpg" style="width: 25em;" /></a>
 <figcaption>
-<p><span class="caption-text">The android board, removed from a control hub</span><a class="headerlink" href="#id3" title="Link to this image">¶</a></p>
+<p><span class="caption-text">The compute board, removed from a Control Hub</span><a class="headerlink" href="#id3" title="Link to this image">¶</a></p>
 </figcaption>
 </figure>
 </section>
@@ -632,16 +676,10 @@
       
     </aside>
   </div>
-</div><script src="../../../_static/jquery.js?v=5d32c60e"></script>
-    <script src="../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-    <script src="../../../_static/documentation_options.js?v=8dde47fa"></script>
+</div><script src="../../../_static/documentation_options.js?v=8dde47fa"></script>
     <script src="../../../_static/doctools.js?v=9a2dae69"></script>
     <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="../../../_static/scripts/furo.js?v=5fa4622c"></script>
-    <script src="../../../_static/js/hoverxref.js"></script>
-    <script src="../../../_static/js/tooltipster.bundle.min.js"></script>
-    <script src="../../../_static/js/micromodal.min.js"></script>
     <script src="../../../_static/design-tabs.js?v=f930bc37"></script>
-    <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     </body>
 </html>

@@ -3,7 +3,12 @@
   <head><meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
     <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta property="og:title" content="Choosing a Servo" />
+    <link rel="icon" type="image/png" href="../../../_static/assets/favicon/favicon-96x96.png" sizes="96x96">
+    <link href="../../../_static/assets/favicon/favicon.svg" rel="icon" type="image/svg+xml">
+    <link rel="icon" type="image/x-icon" href="../../../_static/assets/favicon/favicon-dark.ico" media="(prefers-color-scheme: dark)">
+    <link rel="icon" type="image/x-icon" href="../../../_static/assets/favicon/favicon.ico" media="(prefers-color-scheme: light)">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../_static/assets/favicon/apple-touch-icon.png" type="image/png">
+    <link rel="manifest" href="../../../_static/assets/favicon/site.webmanifest"><meta property="og:title" content="Choosing a Servo" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="docs/power-and-electronics/servo-guide/choosing-servo.html" />
 <meta property="og:site_name" content="Game Manual 0" />
@@ -15,22 +20,14 @@
 <meta name="theme-color" content="#F47F27" />
 <link rel="index" title="Index" href="../../../genindex.html" /><link rel="search" title="Search" href="../../../search.html" /><link rel="next" title="Servo Usage Tips" href="usage-tips.html" /><link rel="prev" title="Servo Guide" href="index.html" />
 
-    <link rel="shortcut icon" href="../../../_static/gm0-logo.ico"/><!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
+    <!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
         <title>Choosing a Servo - Game Manual 0</title>
       <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=a746c00c" />
     <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo.css?v=354aac6f" />
     <link rel="stylesheet" type="text/css" href="../../../_static/graphviz.css?v=fd3f3429" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster.custom.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster.bundle.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-shadow.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-punk.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-noir.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-light.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-borderless.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/micromodal.css" />
     <link rel="stylesheet" type="text/css" href="../../../_static/sphinx-design.min.css?v=95c83b7e" />
     <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo-extensions.css?v=302659d7" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/custom.css?v=05cda24f" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/custom.css?v=34d6ed87" />
     
     
 
@@ -216,8 +213,8 @@
       <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../index.html">
   
   <div class="sidebar-logo-container">
-    <img class="sidebar-logo only-light" src="../../../_static/assets/gm0-logo.png" alt="Light Logo"/>
-    <img class="sidebar-logo only-dark" src="../../../_static/assets/gm0-logo_white.png" alt="Dark Logo"/>
+    <img class="sidebar-logo only-light" src="../../../_static/assets/gm0-logo.svg" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../_static/assets/gm0-logo_white.svg" alt="Dark Logo"/>
   </div>
   
   
@@ -384,7 +381,7 @@
 <li class="toctree-l1 has-children"><a class="reference internal" href="../../awards/index.html">Awards</a><input class="toctree-checkbox" id="toctree-checkbox-21" name="toctree-checkbox-21" role="switch" type="checkbox"/><label for="toctree-checkbox-21"><div class="visually-hidden">Toggle navigation of Awards</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/award-types.html">Types of Awards</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/portfolio.html">Engineering Portfolio</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../awards/judging-presentation.html">The Judging Process and Presentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../awards/judging-presentation.html">Preparing for the Judging Interview</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/notebook.html">Notebook Designs and Decisions</a></li>
 </ul>
 </li>
@@ -444,127 +441,114 @@
         <article role="main" id="furo-main-content">
           <section id="choosing-a-servo">
 <h1>Choosing a Servo<a class="headerlink" href="#choosing-a-servo" title="Link to this heading">¶</a></h1>
-<p>Choosing a <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> can seem daunting at first, given the number of options to consider. This guide is intended to provide a starting point to compare different servo options, and also has some hand picked recommendations at the end.</p>
+<p>Choosing a <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> can seem daunting at first, given the number of options to consider. This guide is intended to provide a starting point to compare different servo options, and also has some hand picked recommendations at the end.</p>
 <div class="admonition important">
 <p class="admonition-title">Important</p>
-<p>It is very important to keep the reliability of a given vendor in mind when choosing servos. It is not uncommon for manufacturers and resellers on Amazon and other similar sites to exaggerate their servos specs, or pick unrealistic best case scenarios for measuring the specs. We have limited our recommendation only to vendors who historically have been reliable with publishing servo specifications.</p>
-<p>As a rule of thumb established manufacturers (HiTech, Savox, ServoCity, Gobilda, Andymark, etc) will usually publish accurate numbers, and servos from marketplaces (Amazon, AliExpress, etc) should be viewed with some skepticism.</p>
+<p>It is very important to keep the reliability of a given vendor in mind when choosing servos. It is very common for manufacturers and resellers on Amazon and other similar sites to significantly exaggerate their servos’ specs, or pick unrealistic best-case scenarios for measuring the specs. We have limited our recommendations only to vendors who historically have been reliable with publishing accurate servo specifications.</p>
+<p>As a rule of thumb established manufacturers (Hitec, Savox, ServoCity, goBILDA, AndyMark, etc) will usually publish accurate numbers, and servos from marketplaces (Amazon, AliExpress, hobby stores, etc) should be viewed with significant skepticism.</p>
 </div>
 <section id="servo-type-regular-or-continuous">
 <h2>Servo Type: Regular or Continuous<a class="headerlink" href="#servo-type-regular-or-continuous" title="Link to this heading">¶</a></h2>
-<p><a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">Servos</span></a> that can rotate to a given position based on PWM input signal are called <strong>regular servos</strong>. In addition, there are also <strong>continuous rotation servos</strong>, which are effectively just small motors in a <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> form factor. They have no position control; instead, PWM signal is used to control their rotation speed.</p>
+<p><a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">Servos</span></a> that can rotate to a given position based on PWM input signal are called <strong>regular servos</strong>. In addition, there are also <strong>continuous rotation servos</strong>, which are effectively just small motors in a <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> form factor. They have no position control; instead, PWM signal is used to control their rotation speed.</p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Continuous rotation servos aren’t even always in a traditional servo form factor.  The <a class="reference external" href="https://www.melonbotics.com/products/super-servo-plus">Melonbotics Super Servo Plus</a>, while considered a continuous rotation servo from a rules and control system perspective, is essentially a small motor + spur gearbox.  The 1000rpm rated output speed makes it an excellent alternative to large, heavy standard motors for small, high-speed mechanisms such as <a class="reference internal" href="../../common-mechanisms/active-intake/index.html"><span class="doc">active intakes</span></a>.</p>
+</div>
 <p>Many servos from FTC® vendors are Dual Mode, meaning they can switch between continuous and regular modes (often requiring the use of a sold-separately servo programmer). These servos can be used as either continuous or regular servos.</p>
 </section>
 <section id="servo-torque-and-speed">
 <h2>Servo Torque And Speed<a class="headerlink" href="#servo-torque-and-speed" title="Link to this heading">¶</a></h2>
-<p><a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">Servo</span></a> output power is measured in both <strong>speed</strong> and <strong>torque</strong>. Speed (normally in seconds per 60°) refers to how fast the <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> turns 60 degrees in Standard Rotation mode.</p>
+<p><a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">Servo</span></a> output power is measured in both <strong>speed</strong> and <strong>torque</strong>. Speed (normally in seconds per 60°) refers to how fast the <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> turns 60 degrees in Standard Rotation mode.</p>
 <div class="admonition-why-seconds-per-60-degrees admonition">
 <p class="admonition-title">Why seconds per 60 degrees?</p>
 <p>Historically, the servos commonly used in FTC were created for RC (Radio Controlled) car setups. These cars often had steering linkages with a maximum side to side travel of 60 degrees so manufacturers would often advertise their servos using seconds for 60 degrees.</p>
 </div>
-<p>Torque (usually measured in oz-in or in kg-cm) refers to the amount of force the <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> can apply to a lever. For reference, if you put a 1” bar on a servo, then put a force gauge on the end, the torque rating of the servo (in oz-in) will be measured.</p>
-<p>As you may know, speed and torque will generally have an inverse relationship. You can find some insanely powerful servos that are pretty slow (slower than 0.20 s/60°) or some less powerful ones with faster ratios (anything faster than 0.12 s/60° is considered very fast).</p>
-<p>Finding the right <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> for your application can be tough, but a good way is trying to decide if you need more speed or torque, and if your <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> will experience shock loads or not.</p>
+<p>Torque (usually measured in oz-in or in kg-cm) refers to the amount of force the <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> can apply to a lever. For reference, if you put a 1” bar on a servo, then put a force gauge on the end, the torque rating of the servo (in oz-in) will be measured.</p>
+<p>As you may know, speed and torque will generally have an inverse relationship. You can find some insanely powerful servos that are pretty slow (slower than 0.20 s/60°) or some less powerful ones with faster ratios (anything faster than 0.12 s/60° is considered fast).</p>
+<p>Finding the right <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> for your application can be tough, but a good way is trying to decide if you need more speed or torque, and if your <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> will experience shock loads or not.</p>
 </section>
 <section id="durability-and-servo-gear-material">
 <h2>Durability and Servo Gear Material<a class="headerlink" href="#durability-and-servo-gear-material" title="Link to this heading">¶</a></h2>
-<p>The two things that threaten a <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo’s</span></a> longevity are the internal motor burning out and more commonly, the <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a> stripping inside the <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a>. A motor burning out is pretty uncommon, but it can happen under large loads for a prolonged amount of time.</p>
+<p>The two things that threaten a <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo’s</span></a> longevity are the internal motor burning out and, more commonly, the <a class="reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a> stripping inside the <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a>. A motor burning out is pretty uncommon, but it can happen under large loads for a prolonged amount of time.</p>
 <div class="admonition caution">
 <p class="admonition-title">Caution</p>
 <p>You should <strong>never</strong> stall a servo against an immovable object.</p>
 </div>
-<p>Gear stripping is a very common problem which occurs when the torque needed to actuate a component exceeds that of the <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo’s</span></a> maximum torque. There are two main cases when this can occur.</p>
+<p>Gear stripping is a problem which can occur when the torque needed to actuate a component exceeds that of the <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo’s</span></a> maximum torque. There are two main cases when this can occur.</p>
 <ul class="simple">
-<li><p>Shock load from external force can strip the <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a> easily, regardless of which material the <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a> are made from. An example could be the component slamming into the field wall or another robot.</p></li>
-<li><p>Shock load from reversing directions on an object that is too heavy can strip the <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a>. Torque increases with mass and also distance from the center of rotation. If the component being actuated is far from the <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a>, the long lever arm means larger torque. Furthermore, if the component is moving, reversing direction also will require more torque. Thus, the principle is that components should be light and not reverse direction suddenly to prolong <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> life.</p></li>
+<li><p>Shock load from external force can strip the <a class="reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a>. An example could be the component slamming into the field wall or another robot.</p></li>
+<li><p>Shock load from reversing directions on an object that is too heavy can strip the <a class="reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a>. Torque increases with mass and also distance from the center of rotation. If the component being actuated is far from the <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a>, the long lever arm means larger torque. Furthermore, if the component is moving, reversing direction also will require more torque. Thus, the principle is that components should be light and not reverse direction suddenly to prolong <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> life.</p></li>
 </ul>
-<p>Shock load resistance is impacted directly by the material the <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a> are made from. This ranges from plastic to titanium, so let’s go down the list, starting from the weakest.</p>
+<p>Shock load resistance is impacted directly by the material the <a class="reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a> are made from. This ranges from plastic to titanium, so let’s go down the list, starting from the weakest.</p>
 <ul class="simple">
-<li><p><strong>Plastic</strong>: with low power <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a>, these are normally okay. Generally used for applications in model airplanes such as ailerons. FTC applications include light load mechanisms which will not have direct contact with any game elements or the field. An example could be a servo that opens a trapdoor or moves game elements within the robot.</p></li>
-<li><p><strong>Karbonite</strong>: Hitec’s <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gear</span></a> plastic is a very durable and long lasting plastic and is very good under long use and low load. Be aware that it can strip easily under the shock loads found in FTC. Karbonite is more durable than plastic but still suffers from shock loads.</p></li>
-<li><p><strong>Brass</strong>: Brass <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a> are stronger than plastic but also suffer greatly when faced with shock loads in FTC like intake wrists and deposit buckets. It’s found on slightly higher end servos such as the REV Smart Servo.</p></li>
-<li><p><strong>Steel</strong>: This is where we start getting big. Steel <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a> are very durable and you’ll have a tough time stripping these. In general, expect to pay a premium. The goBILDA Dual mode servos (v2) is an example of steel <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gear</span></a> <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a>.</p></li>
-<li><p><strong>Titanium</strong>: Titanium is where you get into really high end, virtually unbreakable <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a>. Starting from $75, they can reach over $150. A common misconception is that titanium is stronger than steel, however its advantage is in strength to weight ratio (as in, titanium gearboxes will often be lighter than steel gearboxes).</p></li>
+<li><p><strong>Plastic</strong> (usually Nylon): With low power <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a>, these can be okay if you ensure they are not subjected to shock loads. Generally used for applications in model airplanes such as ailerons. FTC applications include light load mechanisms which will not have direct contact with any game elements or the field. An example could be a servo that opens a trapdoor or moves game elements within the robot.</p>
+<ul>
+<li><p><strong>Karbonite</strong>: Hitec’s <a class="reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gear</span></a> plastic is more durable than Nylon and wears less over time, but it can still strip easily under the shock loads found in FTC.</p></li>
 </ul>
+</li>
+<li><p><strong>Brass</strong>: Brass <a class="reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a> are stronger than plastic, but also suffer greatly when faced with shock loads in FTC such as intake wrists and deposit buckets. Brass <a class="reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a> are found on slightly higher end servos such as the original REV Smart Robot Servo.</p></li>
+<li><p><strong>Steel</strong>: This is where we start getting big. Steel <a class="reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a> are very durable and you’ll have a tough time stripping these. The goBILDA Proton servos, goBILDA Dual Mode servos, REV V2 Smart Robot Servos, and Axon servos are all examples of steel <a class="reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gear</span></a> <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a>.</p></li>
+<li><p><strong>Titanium</strong>: Titanium is where you get into really high end <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a>. Starting from $75, they can reach over $150. A common misconception is that titanium is stronger than steel, however its advantage is in strength to weight ratio (as in, titanium gearboxes will often be lighter than steel gearboxes).</p></li>
+</ul>
+<p><a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">Servos</span></a> with weaker materials (e.g. plastic and brass) used for their <a class="reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a> will often strip quite easily.  Servos with steel <a class="reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a> are significantly harder to strip; some teams have even reported stripping the aluminum hubs attached to their servos while the servos themselves survived with no damage.</p>
 </section>
 <section id="servo-size">
 <h2>Servo Size<a class="headerlink" href="#servo-size" title="Link to this heading">¶</a></h2>
-<p><a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">Servos</span></a> come in different sizes. Fortunately, almost all manufacturers use the same standard set of <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> sizes, ranging from sub-micro to large. The two sizes commonly used in FTC are <em>standard size</em> (which includes REV Smart Servo and goBILDA Dual Mode Servos) and <em>large size</em> (also known as quarter-scale) <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a>. However, large <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a> are quite uncommon.</p>
-<p>Note that while in general, the larger the size, the more powerful the <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a>, it is not a strict rule. You can buy very powerful standard size <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a> - just expect to pay more for them.</p>
+<p><a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">Servos</span></a> come in different sizes. Fortunately, almost all manufacturers use the same standard set of <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> sizes, ranging from sub-micro to large. The size most commonly used in FTC is the <em>standard size</em> (which includes REV Smart Robot Servos and goBILDA Dual Mode Servos) <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a>. <em>Micro size</em> (which includes the Axon Micro) <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a> can be useful when a particularly small mechanism is needed, though they usually are significantly less durable than <em>standard size</em> <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a>. <em>Large size</em> (also known as quarter-scale) <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a> are quite uncommon in FTC.</p>
+<p>Note that while it is easy to assume the larger the size, the more powerful the <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a>, it is often not the case. You can buy very powerful standard size <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a> - just expect to pay more for them.</p>
 </section>
 <section id="servo-spline">
 <h2>Servo Spline<a class="headerlink" href="#servo-spline" title="Link to this heading">¶</a></h2>
-<p>The output shaft of the <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> is commonly called the <strong>spline</strong>. Most servos have industry standard 25 tooth spline (also known as F3); in particular, this is the spline used by REV Smart Servo and goBILDA Dual Mode servos. However, Hitec servos using 24 tooth spline are also very popular.</p>
-<p>Andymark servos are an exception to this, as they use a 5mm hex shaft as their output instead of a 24 or 25 tooth servo spline.</p>
+<p>The output shaft of the <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> is commonly called the <strong>spline</strong>. Most servos have industry standard 25 tooth spline (also known as F3); in particular, this is the spline used by REV Smart Servo and goBILDA Dual Mode servos. Hitec servos using 24 tooth spline were historically also very popular, but are much less common today.</p>
+<p>AndyMark servos are an exception to this, as they use a 5mm hex shaft as their output instead of a 24 or 25 tooth servo spline.</p>
 <div class="admonition attention">
 <p class="admonition-title">Attention</p>
-<p>Please check the spline type before you buy the <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> - otherwise, your <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> attachments will not fit.</p>
+<p>Please check the spline type before you buy the <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> - otherwise, your <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> attachments will not fit.</p>
 </div>
 <p>For more info about servo splines, please check <a class="reference external" href="https://www.servocity.com/servo-spline-info/">https://www.servocity.com/servo-spline-info/</a>.</p>
 </section>
 <section id="servo-range">
 <h2>Servo Range<a class="headerlink" href="#servo-range" title="Link to this heading">¶</a></h2>
-<p>The angle over which a non-continuous <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> can rotate while retaining position feedback is called the range. When choosing a servo, it is important to make sure you have enough range for the movement you need.</p>
-<p>By default, the FTC Control Hub and FTC Expansion Hub output 600-2400 microsecond signals. However, this range can be expanded to 500-2500 microseconds. When choosing a servo, it is important to make sure that its range will be usable for your application inside of 500-2500 microseconds.</p>
+<p>The angle over which a non-continuous <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> can rotate while retaining position feedback is called the range. When choosing a servo, it is important to make sure you have enough range for the movement you need.</p>
+<p>By default, the FTC control system outputs 600-2400 microsecond signals. However, this range can be expanded to 500-2500 microseconds. When choosing a servo, it is important to make sure that its range will be usable for your application inside of 500-2500 microseconds.</p>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
-<p>The default 600-2400 range of the FTC Expansion Hub and FTC Control Hub can make it appear that popular servos like the goBILDA Dual Mode servos and REV Smart Robot Servo have less range than advertised. You can use the following code to expand the range to 500-2500 microseconds.</p>
-<div class="highlight-java notranslate"><div class="highlight"><pre><span></span><span class="n">ServoImplEx</span><span class="w"> </span><span class="n">servo</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">hardwareMap</span><span class="p">.</span><span class="na">get</span><span class="p">(</span><span class="n">ServoImplEx</span><span class="p">.</span><span class="na">class</span><span class="p">,</span><span class="w"> </span><span class="s">&quot;myservo&quot;</span><span class="p">);</span>
-<span class="p">...</span>
-<span class="n">servo</span><span class="p">.</span><span class="na">setPwmRange</span><span class="p">(</span><span class="k">new</span><span class="w"> </span><span class="n">PwmRange</span><span class="p">(</span><span class="mi">500</span><span class="p">,</span><span class="w"> </span><span class="mi">2500</span><span class="p">));</span>
-</pre></div>
-</div>
+<p>The default 600-2400 range of the FTC control system when selecting the “Servo” configuration limits the range of many servos to less than the advertised range. Make sure you select the “Full Range Servo” configuration instead to get the full 500-2500 range.</p>
 </div>
 </section>
 <section id="cost">
 <h2>Cost<a class="headerlink" href="#cost" title="Link to this heading">¶</a></h2>
-<p><a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">Servos</span></a> range from cheap $7 <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a> for light applications, all the way up to some Hitec or Savox <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a> for close to $200.</p>
-<p>By far the best bang for your buck <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a> out there are going to be <strong>goBILDA dual mode</strong> and <strong>REV SRS</strong> servos. In addition, the <strong>Andymark High Torque/Speed</strong> servos on paper are the best bang for your buck servo, but at the time of writing have not been released and tested.</p>
-<p>The biggest downside to the REV SRS are their brass <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a>. Coupled with high output power, this meant that stripping <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a> with any shock load was commonplace.</p>
-<p>The next big name in FTC <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">Servos</span></a> is Hitec, who is a huge name in hobby <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a> for decades and are very well trusted. Their low end <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a> are inexpensive but easily broken.</p>
-<p>A mid-priced Hitec <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> is the HS 485-HB/488-HB servo, with Karbonite <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a>. While it shouldn’t be used in high load applications, it is fine for general use such as claws or trapdoors. 485HB uses 24 tooth spline; 488 HB uses 25 tooth spline (recommended).</p>
-<p>Where Hitec really shines is the high end market. If your budget is over $100, you can get into some very powerful Hitec <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a>. Most have titanium <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a> and are programmable, so you can dial in the performance and range to exactly what you need.</p>
-<p>Axon Robotics, a relatively new company, offers programmable, titanium-geared servos in the $75+ range.</p>
-<p>The last big player in the <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servo</span></a> market in FTC is Savox, which produces great mid-high range <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a> (think $60-$100+). They are made with titanium <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a> (close to bulletproof) and are <strong>fast</strong>. Savox <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a> are mostly brushless and coreless, so they do tend to scream a little under load, but they’re definitely worth it if your budget allows for it.</p>
+<p><a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">Servos</span></a> range from cheap $7 <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a> for light applications, all the way up to some Hitec or Savox <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a> for close to $200.</p>
+<p>By far the best bang for your buck <a class="reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a> out there are going to be the <strong>goBILDA Dual Mode Servos</strong> and <strong>REV V2 Smart Robot Servos</strong>. In addition, the <strong>goBILDA Proton</strong> servos are an excellent value for low-load mechanisms when you do not need more than 180 degrees of rotation or continuous rotation.</p>
+<p>Axon Robotics offers brushless, highly-programmable, steel-geared servos in the $90 price range.  These servos are designed specifically for FTC, and are extremely popular among teams wishing to maximize their robot’s capabilities and performance.</p>
 </section>
 <section id="recommended-servos">
 <h2>Recommended Servos<a class="headerlink" href="#recommended-servos" title="Link to this heading">¶</a></h2>
-<p>We no longer recommend low priced servos. Due to their low strength, they end up requiring multiple replacements over time, negating any cost benefits.</p>
-<section id="bang-for-your-buck">
-<h3>Bang for Your Buck<a class="headerlink" href="#bang-for-your-buck" title="Link to this heading">¶</a></h3>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>We do not recommend very low-priced servos. Due to their low strength, they end up requiring multiple replacements over time, negating any cost benefits.</p>
+</div>
+<ul>
+<li><p><a class="reference external" href="https://www.gobilda.com/standard-size-servos">goBILDA Servos</a>: goBILDA offers a wide variety of servos suited excellently for FTC.</p>
 <ul class="simple">
-<li><p><a class="reference external" href="https://www.gobilda.com/2000-series-dual-mode-servo-25-2-torque/">goBILDA Dual Mode Servo (Torque) (25-2-torque)</a>
-- A very good price to performance servo. It is dual mode, has a higher than average output torque (and correspondingly lower speed), and steel gearbox.</p></li>
-<li><p><a class="reference external" href="https://www.gobilda.com/2000-series-dual-mode-servo-25-3-speed/">goBILDA Dual Mode Servo (Speed) (25-3)</a>
-- A very good price to performance servo. It is dual mode, has a higher than average output speed (and correspondingly lower torque), and steel gearbox.</p></li>
-<li><p><a class="reference external" href="https://www.revrobotics.com/rev-41-1097/">REV Smart Servo</a>
-- While very good price to performance, its brass gearbox makes it less recommended than goBILDA Dual Mode Servos</p></li>
-<li><p><a class="reference external" href="https://www.andymark.com/products/programmable-servos">Andymark High Speed/Torque Servo</a>
-- A newcomer to the market, this servo is extremely promising as a price to performance servo, with a unique 5mm hex output and imperial half inch mounting pattern. The high speed variant has more power output than the commonly used goBILDA Dual Mode servo. The high torque servo has a higher efficiency than the goBILDA Dual Mode servo. <strong>It is unreleased at the time of writing, so these claims have not been verified.</strong> This servo has been included due to Andymark’s historical reliability.</p></li>
+<li><p><strong>goBILDA Dual Mode Servos</strong> are very good price to performance/capability servos. They are dual mode, meaning you can program them to either standard or continuous rotation using a <a class="reference external" href="https://www.gobilda.com/servo-programmer-for-2000-series-dual-mode-servo/">goBILDA servo programmer</a> or <a class="reference external" href="https://www.revrobotics.com/rev-31-1108/">REV servo programmer</a>. In standard mode, they are rated for up to 300 degrees of range. They come in three gear ratio options: Torque, Speed, and Super Speed. They are rated for a reasonably high total mechanical output power (around 2.7W for the Torque and Speed, and around 3.2W for the Super Speed), and have steel gearboxes.</p></li>
+<li><p><strong>goBILDA 5 Turn Servos</strong> are 5 turn variants of their standard Dual Mode servos, which can rotate 5 turns while still tracking position. These servos have high range, making them ideal for use with external gearboxes, but are more expensive and have a lower precision than the normal variants.</p></li>
+<li><p><strong>goBILDA Proton Servos</strong> are goBILDA’s budget servos, coming in at approximately half the price of the standard Dual Mode servos. They come in two gear ratio options, Torque and Speed. Unlike the Dual Mode servos, these are not programmable, and therefore can not be used as continuous rotation servos. While their total mechanical power output of approximately 0.7W is a fair bit less than the Dual Mode servos, and they only have a 180 degree rotation range, their low price makes them a decent option for low-load mechanisms, and their steel gearboxes greatly reduce the chances of breaking the servos from accidental shock loads compared to other brands’ budget servos.</p></li>
 </ul>
-</section>
-<section id="premium-options">
-<h3>Premium Options<a class="headerlink" href="#premium-options" title="Link to this heading">¶</a></h3>
-<ul class="simple">
-<li><p><a class="reference external" href="https://axon-robotics.com/products/max">Axon Robotics MAX+</a>
-- The best price to performance high performance servo. It has a high efficiency and a high power output. In addition, this servo can track its absolute position via an analog output wire.</p></li>
-<li><p>Hitec titanium servos
-- A reliable choice, Hitec has a large variety of servos making it a good option for super specific servos such as non-standard form factors or specific qualities desired such as high speed or very high torque.</p></li>
-</ul>
-</section>
-<section id="specialty-servos">
-<h3>Specialty Servos<a class="headerlink" href="#specialty-servos" title="Link to this heading">¶</a></h3>
-<ul class="simple">
-<li><dl class="simple">
-<dt><a class="reference external" href="https://www.gobilda.com/2000-series-5-turn-dual-mode-servo-25-2-torque/">goBILDA 5 Turn Servo</a></dt><dd><ul>
-<li><p>goBILDA manufactures all three of their Dual Mode servos (Speed, Super Speed, Torque) in 5 turn varients, which can rotate 5 turns while still tracking position. These servos have high range, making them ideal for use with external gearboxes, but are more expensive and have a lower precision than the normal varients.</p></li>
-</ul>
-</dd>
-</dl>
+</li>
+<li><p><a class="reference external" href="https://www.revrobotics.com/Smart-servo-v2">REV Robotics V2 Smart Robot Servos</a>: These are similar to the goBILDA Dual Mode servos in price, performance, and capability. They are also dual mode, meaning you can program them to either standard or continuous rotation using a <a class="reference external" href="https://www.gobilda.com/servo-programmer-for-2000-series-dual-mode-servo/">goBILDA servo programmer</a> or <a class="reference external" href="https://www.revrobotics.com/rev-31-1108/">REV servo programmer</a>. In standard mode, they are rated for up to 270 degrees of range. They come in two gear ratio options, Balanced and UltraSpeed. The UltraSpeed is rated for a relatively high total mechanical output power of approximately 3.5W, and the Balanced is rated for a somewhat lower output of approximately 2.5W. They have steel gearboxes.</p></li>
+<li><p><a class="reference external" href="https://www.melonbotics.com/products/super-servo-plus">Melonbotics Super Servo Plus</a>: This servo is different from the other servos listed here. While considered a continuous rotation servo from a rules and control system perspective, it is essentially a small motor + spur gearbox.  The 1000rpm rated output speed makes it an excellent alternative to large, heavy standard motors for small, high-speed mechanisms such as <a class="reference internal" href="../../common-mechanisms/active-intake/index.html"><span class="doc">active intakes</span></a>.</p></li>
+<li><p><a class="reference external" href="https://axon-robotics.com/products/max">Axon MAX MK2</a>: This is widely considered to be the best high performance servo for FTC. It uses heat-treated stainless steel gears for top-notch reliability, and has a very high rated total mechanical power output of 7.5W (only 0.5W below the 8W limit defined in the Competition Manual). The servo features an analog output wire, allowing you to read the absolute position of the servo. The Axon MK2 servos are also highly programmable with the <a class="reference external" href="https://axon-robotics.com/products/programmer">Programmer MK2</a>, featuring a wide range of adjustable parameters and modes (including standard and continuous rotation modes).</p>
+<div class="admonition tip">
+<p class="admonition-title">Tip</p>
+<p>Being able to read the absolute position of the servo can have significant benefits when programming your robot. For example, you can tell the servo to go to a position, wait for it to reach that position, then do the next action; as opposed to telling the servo to go to a position, waiting a set amount of time (which may be longer or shorter than the time actually needed), then doing the next action.</p>
+</div>
+<div class="admonition important">
+<p class="admonition-title">Important</p>
+<p>The <a class="reference external" href="https://axon-robotics.com/products/mini">Axon MINI MK2</a> is very similar to the MAX in terms of total output power (though geared at a slightly faster speed/lower torque), and has the same features (including the heat treated stainless steel gears, programmability, and analog output wire). However, this servo is a slightly different form factor to the standard form factor used by the other servos on this list.  While the height is shorter than the MAX, it is slightly wider, and the servo horn is in a different position compared to the standard servo size. Due to this, we don’t recommend the MINI for anything other than fully custom-designed mechanisms not relying on standard mounts and horn position.</p>
+</div>
 </li>
 </ul>
-<p>REV and goBILDA <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Servo"><span class="xref std std-term">servos</span></a> can be purchased from REV and goBILDA websites respectively. For all other servos, some good sources are <a class="reference external" href="https://www.servocity.com/">ServoCity</a> or <a class="reference external" href="https://www.amazon.com/">Amazon</a>.</p>
-</section>
 </section>
 </section>
 
@@ -631,12 +615,7 @@
 <li><a class="reference internal" href="#servo-spline">Servo Spline</a></li>
 <li><a class="reference internal" href="#servo-range">Servo Range</a></li>
 <li><a class="reference internal" href="#cost">Cost</a></li>
-<li><a class="reference internal" href="#recommended-servos">Recommended Servos</a><ul>
-<li><a class="reference internal" href="#bang-for-your-buck">Bang for Your Buck</a></li>
-<li><a class="reference internal" href="#premium-options">Premium Options</a></li>
-<li><a class="reference internal" href="#specialty-servos">Specialty Servos</a></li>
-</ul>
-</li>
+<li><a class="reference internal" href="#recommended-servos">Recommended Servos</a></li>
 </ul>
 </li>
 </ul>
@@ -648,16 +627,10 @@
       
     </aside>
   </div>
-</div><script src="../../../_static/jquery.js?v=5d32c60e"></script>
-    <script src="../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-    <script src="../../../_static/documentation_options.js?v=8dde47fa"></script>
+</div><script src="../../../_static/documentation_options.js?v=8dde47fa"></script>
     <script src="../../../_static/doctools.js?v=9a2dae69"></script>
     <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="../../../_static/scripts/furo.js?v=5fa4622c"></script>
-    <script src="../../../_static/js/hoverxref.js"></script>
-    <script src="../../../_static/js/tooltipster.bundle.min.js"></script>
-    <script src="../../../_static/js/micromodal.min.js"></script>
     <script src="../../../_static/design-tabs.js?v=f930bc37"></script>
-    <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     </body>
 </html>

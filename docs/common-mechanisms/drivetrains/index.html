@@ -3,7 +3,12 @@
   <head><meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
     <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta property="og:title" content="Drivetrains" />
+    <link rel="icon" type="image/png" href="../../../_static/assets/favicon/favicon-96x96.png" sizes="96x96">
+    <link href="../../../_static/assets/favicon/favicon.svg" rel="icon" type="image/svg+xml">
+    <link rel="icon" type="image/x-icon" href="../../../_static/assets/favicon/favicon-dark.ico" media="(prefers-color-scheme: dark)">
+    <link rel="icon" type="image/x-icon" href="../../../_static/assets/favicon/favicon.ico" media="(prefers-color-scheme: light)">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../_static/assets/favicon/apple-touch-icon.png" type="image/png">
+    <link rel="manifest" href="../../../_static/assets/favicon/site.webmanifest"><meta property="og:title" content="Drivetrains" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="docs/common-mechanisms/drivetrains/index.html" />
 <meta property="og:site_name" content="Game Manual 0" />
@@ -15,22 +20,14 @@
 <meta name="theme-color" content="#F47F27" />
 <link rel="index" title="Index" href="../../../genindex.html" /><link rel="search" title="Search" href="../../../search.html" /><link rel="next" title="Tank (Skid-Steer) Drivetrains" href="tank.html" /><link rel="prev" title="Design Tradeoffs" href="../design-tradeoffs.html" />
 
-    <link rel="shortcut icon" href="../../../_static/gm0-logo.ico"/><!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
+    <!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
         <title>Drivetrains - Game Manual 0</title>
       <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=a746c00c" />
     <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo.css?v=354aac6f" />
     <link rel="stylesheet" type="text/css" href="../../../_static/graphviz.css?v=fd3f3429" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster.custom.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster.bundle.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-shadow.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-punk.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-noir.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-light.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-borderless.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/micromodal.css" />
     <link rel="stylesheet" type="text/css" href="../../../_static/sphinx-design.min.css?v=95c83b7e" />
     <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo-extensions.css?v=302659d7" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/custom.css?v=05cda24f" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/custom.css?v=34d6ed87" />
     
     
 
@@ -216,8 +213,8 @@
       <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../index.html">
   
   <div class="sidebar-logo-container">
-    <img class="sidebar-logo only-light" src="../../../_static/assets/gm0-logo.png" alt="Light Logo"/>
-    <img class="sidebar-logo only-dark" src="../../../_static/assets/gm0-logo_white.png" alt="Dark Logo"/>
+    <img class="sidebar-logo only-light" src="../../../_static/assets/gm0-logo.svg" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../_static/assets/gm0-logo_white.svg" alt="Dark Logo"/>
   </div>
   
   
@@ -384,7 +381,7 @@
 <li class="toctree-l1 has-children"><a class="reference internal" href="../../awards/index.html">Awards</a><input class="toctree-checkbox" id="toctree-checkbox-21" name="toctree-checkbox-21" role="switch" type="checkbox"/><label for="toctree-checkbox-21"><div class="visually-hidden">Toggle navigation of Awards</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/award-types.html">Types of Awards</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/portfolio.html">Engineering Portfolio</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../awards/judging-presentation.html">The Judging Process and Presentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../awards/judging-presentation.html">Preparing for the Judging Interview</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/notebook.html">Notebook Designs and Decisions</a></li>
 </ul>
 </li>
@@ -448,15 +445,15 @@
 <section id="drivetrain-types">
 <h2>Drivetrain types<a class="headerlink" href="#drivetrain-types" title="Link to this heading">¶</a></h2>
 <dl class="simple glossary">
-<dt id="term-Tank-Drivetrain">Tank Drivetrain<a class="headerlink" href="#term-Tank-Drivetrain" title="Link to this term">¶</a></dt><dd><p>A tank drivetrain primarily utilizes <a class="hxr-hoverxref hxr-tooltip reference internal" href="#term-Traction-wheel"><span class="xref std std-term">traction wheels</span></a> and cannot strafe (move sideways). To change directions, a tank drivetrain relies on either turning the wheels on the left and right side in the opposite direction (thus spinning the robot) or running one side faster than the other side (thus making the robot take the path of an arc). Tank drivetrains prioritize traction and acceleration over pure maneuverability, giving these drivetrains the potential to traverse obstacles and play defense. Tank drivetrains are relatively simple to build, yet are still competitive at the highest levels.</p>
+<dt id="term-Tank-Drivetrain">Tank Drivetrain<a class="headerlink" href="#term-Tank-Drivetrain" title="Link to this term">¶</a></dt><dd><p>A tank drivetrain primarily utilizes <a class="reference internal" href="#term-Traction-wheel"><span class="xref std std-term">traction wheels</span></a> and cannot strafe (move sideways). To change directions, a tank drivetrain relies on either turning the wheels on the left and right side in the opposite direction (thus spinning the robot) or running one side faster than the other side (thus making the robot take the path of an arc). Tank drivetrains prioritize traction and acceleration over pure maneuverability, giving these drivetrains the potential to traverse obstacles and play defense. Tank drivetrains are relatively simple to build, yet are still competitive at the highest levels.</p>
 </dd>
-<dt id="term-Holonomic-Drivetrain">Holonomic Drivetrain<a class="headerlink" href="#term-Holonomic-Drivetrain" title="Link to this term">¶</a></dt><dd><p>A holonomic drivetrain, in contrast to a tank drivetrain, can move sideways, due to using either <a class="hxr-hoverxref hxr-tooltip reference internal" href="holonomic.html#term-Mecanum-Wheel"><span class="xref std std-term">mecanum</span></a> or <a class="hxr-hoverxref hxr-tooltip reference internal" href="#term-Omni-Wheel"><span class="xref std std-term">omni</span></a> wheels. These kinds of wheels have special rollers that allow strafing movements. Thus, holonomic drivetrains prioritize movement over traction. Holonomic drivetrains eliminate the time it takes to turn for a tank drivetrain. However, holonomic is susceptible to defense and can suffer with a heavy robot. Holonomic has been proven to be competitive at the highest level for many years, and is common among world-class robots.</p>
+<dt id="term-Holonomic-Drivetrain">Holonomic Drivetrain<a class="headerlink" href="#term-Holonomic-Drivetrain" title="Link to this term">¶</a></dt><dd><p>A holonomic drivetrain, in contrast to a tank drivetrain, can move sideways, due to using either <a class="reference internal" href="holonomic.html#term-Mecanum-Wheel"><span class="xref std std-term">mecanum</span></a> or <a class="reference internal" href="#term-Omni-Wheel"><span class="xref std std-term">omni</span></a> wheels. These kinds of wheels have special rollers that allow strafing movements. Thus, holonomic drivetrains prioritize movement over traction. Holonomic drivetrains eliminate the time it takes to turn for a tank drivetrain. However, holonomic is susceptible to defense and can suffer with a heavy robot. Holonomic has been proven to be competitive at the highest level for many years, and is common among world-class robots.</p>
 </dd>
 </dl>
 </section>
 <section id="drivetrain-selection">
 <h2>Drivetrain selection<a class="headerlink" href="#drivetrain-selection" title="Link to this heading">¶</a></h2>
-<p>When building any mechanism, teams must list out some necessities or desired features. Here are some priorities for that we think are important for each drivetrain:</p>
+<p>When building any mechanism, teams must list out some necessities or desired features. Here are some priorities that we think are important for each drivetrain:</p>
 <ol class="arabic simple">
 <li><p><strong>Reliability</strong>: Reliability, the key to success in <em>FIRST</em>® Tech Challenge, starts with the drivetrain, the foundation to any robot. One aspect of reliability to consider is the type of motor and gearbox that is used in the drivetrain. For example, spur gearboxes are more likely to break under load than a planetary gearboxes. (See the <a class="reference internal" href="../../power-and-electronics/motor-guide/index.html"><span class="doc">Motor Guide</span></a> for details). Thus, spur gear motors are not the optimal choice for drivetrain, especially if the robot is projected to be on the heavy side (30+ pounds).</p></li>
 </ol>
@@ -466,7 +463,7 @@
 </div>
 <ol class="arabic" start="2">
 <li><p><strong>Agility</strong>: There are many factors to agility: top speed, acceleration, turning radius, turn speed, and ability to strafe. Note that turning radius is an often overlooked feature that is critical to the overall agility of the drivetrain. Generally, a solid drivetrain should have a free speed (speed under no load) in the range of 4.5-6 feet/second.</p></li>
-<li><p><strong>Number of motors and gear ratio</strong>: Generally, new teams may try to use only two motors on the drivetrain. While this is possible, it is not recommended, as all competitive teams use 4+ motors on the drivetrain. Another issue stemming from experience is that most teams’ drivetrains are too slow. More advanced teams may focus on the ability to play <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../design-skills/design-strategy.html#term-Defense"><span class="xref std std-term">defense</span></a>, but in general, maneuverability and speed are the main factors to a successful drivetrain.</p>
+<li><p><strong>Number of motors and gear ratio</strong>: Generally, new teams may try to use only two motors on the drivetrain. While this is possible, it is not recommended, as all competitive teams use 4+ motors on the drivetrain. Another issue stemming from experience is that most teams’ drivetrains are too slow. More advanced teams may focus on the ability to play <a class="reference internal" href="../../design-skills/design-strategy.html#term-Defense"><span class="xref std std-term">defense</span></a>, but in general, maneuverability and speed are the main factors to a successful drivetrain.</p>
 <p>60:1 and 40:1 motors are <strong>almost always too slow for FTC drivetrain use cases</strong>. Any gear ratio between 16:1 and 20:1 is perfectly reasonable on 4 inch wheels. 19.2:1 on 4 inch wheels is a popular choice because it enables one to go 1 to 1 off of a 19.2:1 planetary motor. This ratio gives a great balance, having near instant acceleration and a high top speed.</p>
 <p>On 3 inch wheels, the equivalent ratios are 12:1 to 15:1, which makes 13.7:1 on 3 inch wheels convenient, as it can be taken 1 to 1 off of goBILDA’s 13.7:1 planetary gearbox motor.
 Teams can slow the drivetrain down in code by providing less power to the
@@ -484,7 +481,7 @@ motor gearing, and overall weight of the robot.</p>
 <p>If you already have a very agile drivetrain with experienced drivers, a team can avoid defense instead of having to fend it off or engage in it.</p>
 </div>
 </li>
-<li><p><strong>Powering the drivetrain</strong>: Generally, there are four options for power transmission: direct drive, <a class="hxr-hoverxref hxr-tooltip reference internal" href="../power-transmission/power-transmission-glossary.html#term-Sprocket"><span class="xref std std-term">chain</span></a>, <a class="hxr-hoverxref hxr-tooltip reference internal" href="../power-transmission/gears.html#term-Gear"><span class="xref std std-term">gear</span></a>, and belt. More detail about each option can be found in the power transmission section.</p>
+<li><p><strong>Powering the drivetrain</strong>: Generally, there are four options for power transmission: direct drive, <a class="reference internal" href="../power-transmission/power-transmission-glossary.html#term-Sprocket"><span class="xref std std-term">chain</span></a>, <a class="reference internal" href="../power-transmission/gears.html#term-Gear"><span class="xref std std-term">gear</span></a>, and belt. More detail about each option can be found in the power transmission section.</p>
 <p>Teams should stay away from direct drive, as gearboxes are prone to breaking, especially under shock loads (for example, if the wheel is hit by another robot, or the wheel slams into the wall).</p>
 <p>We recommend belted drivetrains, but realize that belt is a difficult option for new teams. Chain and gears are also great options - chain requires a bit more forethought, as 1+ tensioner per side is required to maintain correct tension in the chain.</p>
 <p>CAD or a detailed sketch is generally recommended with chain in order to visualize the chain run (where the chain will be placed). Gears are slightly simpler, and can be a fantastic and easy option, especially when using extrusion. We would advise to stay away from TETRIX gears, and use the gears from other kits such as the REV delrin gears (with hex hub strengthener) or REV aluminum gears.</p>
@@ -525,7 +522,7 @@ motor gearing, and overall weight of the robot.</p>
 <section id="glossary">
 <h2>Glossary<a class="headerlink" href="#glossary" title="Link to this heading">¶</a></h2>
 <dl class="glossary">
-<dt id="term-Omni-Wheel">Omni Wheel<a class="headerlink" href="#term-Omni-Wheel" title="Link to this term">¶</a></dt><dd><p>Omni(directional) wheels, sold by many different vendors, are a special type of wheel that prioritizes mobility and strafing (moving laterally) over traction or front-back movement. They are similar to <a class="hxr-hoverxref hxr-tooltip reference internal" href="holonomic.html#term-Mecanum-Wheel"><span class="xref std std-term">mecanum wheels</span></a> in that omni wheels have rubber rollers that rotate perpendicular to the plane of the wheel.</p>
+<dt id="term-Omni-Wheel">Omni Wheel<a class="headerlink" href="#term-Omni-Wheel" title="Link to this term">¶</a></dt><dd><p>Omni(directional) wheels, sold by many different vendors, are a special type of wheel that prioritizes mobility and strafing (moving laterally) over traction or front-back movement. They are similar to <a class="reference internal" href="holonomic.html#term-Mecanum-Wheel"><span class="xref std std-term">mecanum wheels</span></a> in that omni wheels have rubber rollers that rotate perpendicular to the plane of the wheel.</p>
 <p>Thus, the robot can move sideways (although the robot is not powered in the sideways direction). It is also utilized as a low-friction wheel in 4 wheel, 6 wheel, and 8 wheel drivetrains instead of having corner traction wheels.</p>
 <p>Furthermore, X-drive utilizes four omni wheels, though traction is at a minimum.</p>
 <p>A mecanum wheel is <em>technically</em> an omnidirectional wheel, but when generally referred to, an “omni wheel” has rollers rotated 90 degrees to the rotation of the wheel, where a mecanum wheel is generally 45 degrees.</p>
@@ -613,15 +610,10 @@ motor gearing, and overall weight of the robot.</p>
       
     </aside>
   </div>
-</div><script src="../../../_static/jquery.js?v=5d32c60e"></script>
-    <script src="../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-    <script src="../../../_static/documentation_options.js?v=8dde47fa"></script>
+</div><script src="../../../_static/documentation_options.js?v=8dde47fa"></script>
     <script src="../../../_static/doctools.js?v=9a2dae69"></script>
     <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="../../../_static/scripts/furo.js?v=5fa4622c"></script>
-    <script src="../../../_static/js/hoverxref.js"></script>
-    <script src="../../../_static/js/tooltipster.bundle.min.js"></script>
-    <script src="../../../_static/js/micromodal.min.js"></script>
     <script src="../../../_static/design-tabs.js?v=f930bc37"></script>
     <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     </body>

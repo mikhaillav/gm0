@@ -62,7 +62,7 @@ PETG can be described as a strength upgrade to PLA. It is not difficult to print
 Less Common Filaments
 ---------------------
 
-These filaments are less used than those listed above, but can still find plenty of use cases on an FTC robot. These usually are used due to specific material properties such as flexibility or durability. These often come however, with substantial obstacles for printing that prevent some printers from printing them out of the box, along with sometimes being significantly more expensive.
+These filaments are less used than those listed above, but can still find plenty of use cases on an FTC robot. These usually are used due to specific material properties such as flexibility or durability. These often come, however, with substantial obstacles for printing that prevent some printers from printing them out of the box, along with sometimes being significantly more expensive.
 
 ABS (Acrylonitrile Butadiene Styrene)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -75,8 +75,8 @@ ABS used to be the standard filament for printing before PLA became commercially
 
 Due to the difficulty of printing ABS and its limitations, one might look at alternatives such as ASA which offer similar properties with much better printability.
 
-TPU/TPE (Themoplastic polyurethane/Thermoplastic elastomer)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TPU/TPE (Thermoplastic polyurethane/Thermoplastic elastomer)
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 TPU and TPE are both common printing filaments that are widely used for their flexible material properties. This allows one to create printed parts that can easily flex and bend. Sold under many different durometers (a measure on the Shore Hardness Scale of the hardness/flexibility of a material), TPU/TPE's high impact resistance and layer adhesion make it not only a versatile filament, but an extremely durable one. In FTC, teams use TPU/TPE in roles such as printed intake flaps in place of a tube, as well as custom belts for low-load applications.
 
@@ -106,7 +106,7 @@ Nylon filaments can be glass-filled, carbon fiber-filled, or pure. Nylon is the 
 Carbon Fiber-filled
 ^^^^^^^^^^^^^^^^^^^
 
-Many filaments are also sold with the addition of small chunks of carbon fiber mixed into the filament itself. While often though of as an extreme strength improvement, these filaments are instead meant to be stiffer and help to improve the printability of filaments like nylon. Carbon fiber-filled filaments generally require higher temperatures, and a hardened steel nozzle, but if you can print the pure variants of those filaments, you should be able to print their carbon fiber-filled counterparts.
+Many filaments are also sold with the addition of small chunks of carbon fiber mixed into the filament itself. While often thought of as an extreme strength improvement, these filaments are instead meant to be stiffer and help to improve the printability of filaments like nylon. Carbon fiber-filled filaments generally require higher temperatures, and a hardened steel nozzle, but if you can print the pure variants of those filaments, you should be able to print their carbon fiber-filled counterparts.
 
 
 Polycarbonate (PC)

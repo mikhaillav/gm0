@@ -3,7 +3,12 @@
   <head><meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
     <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta property="og:title" content="Wiring Guide" />
+    <link rel="icon" type="image/png" href="../../_static/assets/favicon/favicon-96x96.png" sizes="96x96">
+    <link href="../../_static/assets/favicon/favicon.svg" rel="icon" type="image/svg+xml">
+    <link rel="icon" type="image/x-icon" href="../../_static/assets/favicon/favicon-dark.ico" media="(prefers-color-scheme: dark)">
+    <link rel="icon" type="image/x-icon" href="../../_static/assets/favicon/favicon.ico" media="(prefers-color-scheme: light)">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../_static/assets/favicon/apple-touch-icon.png" type="image/png">
+    <link rel="manifest" href="../../_static/assets/favicon/site.webmanifest"><meta property="og:title" content="Wiring Guide" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="docs/power-and-electronics/wiring.html" />
 <meta property="og:site_name" content="Game Manual 0" />
@@ -15,22 +20,14 @@
 <meta name="theme-color" content="#F47F27" />
 <link rel="index" title="Index" href="../../genindex.html" /><link rel="search" title="Search" href="../../search.html" /><link rel="next" title="Connectors and Wires" href="connectors-and-wires.html" /><link rel="prev" title="Electronics and Motion Components" href="index.html" />
 
-    <link rel="shortcut icon" href="../../_static/gm0-logo.ico"/><!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
+    <!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
         <title>Wiring Guide - Game Manual 0</title>
       <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=a746c00c" />
     <link rel="stylesheet" type="text/css" href="../../_static/styles/furo.css?v=354aac6f" />
     <link rel="stylesheet" type="text/css" href="../../_static/graphviz.css?v=fd3f3429" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/tooltipster.custom.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/tooltipster.bundle.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/tooltipster-sideTip-shadow.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/tooltipster-sideTip-punk.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/tooltipster-sideTip-noir.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/tooltipster-sideTip-light.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/tooltipster-sideTip-borderless.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../_static/css/micromodal.css" />
     <link rel="stylesheet" type="text/css" href="../../_static/sphinx-design.min.css?v=95c83b7e" />
     <link rel="stylesheet" type="text/css" href="../../_static/styles/furo-extensions.css?v=302659d7" />
-    <link rel="stylesheet" type="text/css" href="../../_static/custom.css?v=05cda24f" />
+    <link rel="stylesheet" type="text/css" href="../../_static/custom.css?v=34d6ed87" />
     
     
 
@@ -216,8 +213,8 @@
       <div class="sidebar-sticky"><a class="sidebar-brand" href="../../index.html">
   
   <div class="sidebar-logo-container">
-    <img class="sidebar-logo only-light" src="../../_static/assets/gm0-logo.png" alt="Light Logo"/>
-    <img class="sidebar-logo only-dark" src="../../_static/assets/gm0-logo_white.png" alt="Dark Logo"/>
+    <img class="sidebar-logo only-light" src="../../_static/assets/gm0-logo.svg" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../_static/assets/gm0-logo_white.svg" alt="Dark Logo"/>
   </div>
   
   
@@ -384,7 +381,7 @@
 <li class="toctree-l1 has-children"><a class="reference internal" href="../awards/index.html">Awards</a><input class="toctree-checkbox" id="toctree-checkbox-21" name="toctree-checkbox-21" role="switch" type="checkbox"/><label for="toctree-checkbox-21"><div class="visually-hidden">Toggle navigation of Awards</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../awards/award-types.html">Types of Awards</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../awards/portfolio.html">Engineering Portfolio</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../awards/judging-presentation.html">The Judging Process and Presentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../awards/judging-presentation.html">Preparing for the Judging Interview</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../awards/notebook.html">Notebook Designs and Decisions</a></li>
 </ul>
 </li>
@@ -455,7 +452,7 @@
 </section>
 <section id="firstreg-ftc-wiring-guide">
 <h2><em>FIRST</em>® FTC Wiring Guide<a class="headerlink" href="#firstreg-ftc-wiring-guide" title="Link to this heading">¶</a></h2>
-<p><em>FIRST</em>® has created a wiring guide to help teams with tasks like crimping cables, soldering connections, and ESD mitigation that won’t be covered in this guide. Once you read up on electronics and wiring here, look at the <a class="reference external" href="https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/robot-wiring-guide.pdf">FTC Wiring Guide</a> for the best practices and more tips &amp; tricks. In addition, <em>FIRST</em> has written an <a class="reference external" href="https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/analysis-esd-mitigation-echin.pdf">ESD Mitigation Whitepaper</a> that is worth taking a look at.</p>
+<p><em>FIRST</em>® has created a wiring guide to help teams with tasks like crimping cables, soldering connections, and ESD mitigation that won’t be covered in this guide. Once you read up on electronics and wiring here, look at the <a class="reference external" href="https://ftc-resources.firstinspires.org/ftc/team/robot-wires">FTC Wiring Guide</a> for the best practices and more tips &amp; tricks. In addition, <em>FIRST</em> has written an <a class="reference external" href="https://web.archive.org/web/20250921212551/https://www.firstinspires.org/sites/default/files/uploads/resource_library/ftc/analysis-esd-mitigation-echin.pdf">ESD Mitigation Whitepaper</a> that is worth taking a look at.</p>
 </section>
 <section id="general-advice">
 <h2>General Advice<a class="headerlink" href="#general-advice" title="Link to this heading">¶</a></h2>
@@ -464,13 +461,13 @@
 <li><p>Tie together loose wires, and better yet, tie that bunch of wires to a structural component. This will ensure that wires don’t interfere with your mechanisms.</p></li>
 <li><p><strong>Pay attention to port numbers!</strong> The rev hub will often have multiple ports per connector on the REV hub. <a class="reference external" href="https://docs.revrobotics.com/duo-control/control-system-overview/port-pinouts">REV has a pinout guide to avoid confusion</a>.</p></li>
 <li><p><strong>Treat every wire connection as a point of failure</strong>. Therefore, use electrical tape to tape up and insulate connections and utilize strain relief as much as possible.</p></li>
-<li><p><strong>Strain relief</strong> should be used everywhere possible. It is highly recommended for teams to use products like the <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-USB-Retention-Mount"><span class="xref std std-term">REV USB Retention Mount</span></a>, as well as 3D printing strain relief methods for devices such as the Expansion Hub and robot controller phones.</p></li>
+<li><p><strong>Strain relief</strong> should be used everywhere possible. It is highly recommended for teams to use products like the <a class="reference internal" href="index.html#term-USB-Retention-Mount"><span class="xref std std-term">REV USB Retention Mount</span></a>, as well as 3D printing strain relief methods for devices such as the Expansion Hub and robot controller phones.</p></li>
 <li><p><strong>DO NOT solder a wire before crimping it</strong>. Solder can “creep” and losing connection is possible, possibly leading to fire.</p></li>
 <li><p><strong>Keep all wire runs as short as possible</strong> to prevent entanglement and improve wire management.</p></li>
 <li><p><strong>When using data/sensor cables, keep them away from motors.</strong> This will reduce electromagnetic interference (EMI). Add a ferrite bead if possible.</p></li>
 <li><p><strong>Crimped connectors are generally better than soldered connectors</strong>, as solder joints can break easier than a crimped connection.</p></li>
 <li><p><strong>Keep wires tucked away from moving mechanisms,</strong> and ensure that you will not be at risk of a mechanism snagging a wire. This is a proper application of materials such as acrylic, which allow drivers to see inside the robot while keeping wires out of the way of other robots/game pieces. It is advised for teams to purchase removable velcro ties or cable ties to aid with cable management.</p></li>
-<li><p><strong>For power wires, lower</strong> <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Gauge"><span class="xref std std-term">gauge</span></a> <strong>(larger size) wires are preferable.</strong> This means a lower resistance across the wire and higher power throughput. This is negligible for data wires, however.</p></li>
+<li><p><strong>For power wires, lower</strong> <a class="reference internal" href="index.html#term-Gauge"><span class="xref std std-term">gauge</span></a> <strong>(larger size) wires are preferable.</strong> This means a lower resistance across the wire and higher power throughput. This is negligible for data wires, however.</p></li>
 <li><p><strong>Small wires and cables are fragile.</strong> Treat them as such, and don’t put them in an area where they will constantly be hit by another object. Larger power cables can take much more abuse.</p></li>
 <li><p><strong>Ensure that your wires are kept out of pinch points</strong> where another mechanism could sandwich the wire. This is especially important in arms or mechanisms that are hinged.</p></li>
 </ul>
@@ -517,13 +514,13 @@
 <h2>Specific Recommendations<a class="headerlink" href="#specific-recommendations" title="Link to this heading">¶</a></h2>
 <section id="module-power">
 <h3>Module Power<a class="headerlink" href="#module-power" title="Link to this heading">¶</a></h3>
-<p>Be aware, <a class="hxr-hoverxref hxr-tooltip reference internal" href="connectors-and-wires.html#term-XT30"><span class="xref std std-term">XT30</span></a> connectors can wear out significantly faster than <a class="hxr-hoverxref hxr-tooltip reference internal" href="connectors-and-wires.html#term-Anderson-PowerPole"><span class="xref std std-term">PowerPole</span></a> connectors. Additionally, because <a class="hxr-hoverxref hxr-tooltip reference internal" href="connectors-and-wires.html#term-XT30"><span class="xref std std-term">XT30</span></a> connectors are soldered, they can break much easier than <a class="hxr-hoverxref hxr-tooltip reference internal" href="connectors-and-wires.html#term-Anderson-PowerPole"><span class="xref std std-term">PowerPole</span></a> connections.</p>
+<p>Be aware, <a class="reference internal" href="connectors-and-wires.html#term-XT30"><span class="xref std std-term">XT30</span></a> connectors can wear out significantly faster than <a class="reference internal" href="connectors-and-wires.html#term-Anderson-PowerPole"><span class="xref std std-term">PowerPole</span></a> connectors. Additionally, because <a class="reference internal" href="connectors-and-wires.html#term-XT30"><span class="xref std std-term">XT30</span></a> connectors are soldered, they can break much easier than <a class="reference internal" href="connectors-and-wires.html#term-Anderson-PowerPole"><span class="xref std std-term">PowerPole</span></a> connections.</p>
 <p>Cabling for module power should be at least 14awg, if not 12awg. Keep in mind that it must be stranded, not solid, wire.</p>
 </section>
 <section id="motor-power">
 <h3>Motor Power<a class="headerlink" href="#motor-power" title="Link to this heading">¶</a></h3>
 <p>Cabling for motor power should be between 16awg and 12awg. Again, stranded, not solid, wire.</p>
-<p>Some motors (like the <a class="hxr-hoverxref hxr-tooltip reference internal" href="motor-guide/motor-glossary.html#term-HD-Hex-Motor"><span class="xref std std-term">REV HD Hex</span></a> and <a class="hxr-hoverxref hxr-tooltip reference internal" href="motor-guide/motor-glossary.html#term-Core-Hex-Motor"><span class="xref std std-term">Core Hex</span></a>) will have removable power connectors on the back, while other motors (like the <a class="hxr-hoverxref hxr-tooltip reference internal" href="motor-guide/motor-glossary.html#term-NeveRest-Motor"><span class="xref std std-term">Andymark NeveRests</span></a>) will have a cable permanently soldered on the back. It is much more convenient to have a connector on the back, or failing that, have a very short plug on the back of the motor. Once your wires are run and secured, taking them out won’t be fun.</p>
+<p>Some motors (like the <a class="reference internal" href="motor-guide/motor-glossary.html#term-HD-Hex-Motor"><span class="xref std std-term">REV HD Hex</span></a> and <a class="reference internal" href="motor-guide/motor-glossary.html#term-Core-Hex-Motor"><span class="xref std std-term">Core Hex</span></a>) will have removable power connectors on the back, while other motors (like the <a class="reference internal" href="motor-guide/motor-glossary.html#term-NeveRest-Motor"><span class="xref std std-term">Andymark NeveRests</span></a>) will have a cable permanently soldered on the back. It is much more convenient to have a connector on the back, or failing that, have a very short plug on the back of the motor. Once your wires are run and secured, taking them out won’t be fun.</p>
 </section>
 <section id="servo-wires">
 <h3>Servo Wires<a class="headerlink" href="#servo-wires" title="Link to this heading">¶</a></h3>
@@ -545,9 +542,9 @@
 <section id="miscellaneous">
 <h2>Miscellaneous<a class="headerlink" href="#miscellaneous" title="Link to this heading">¶</a></h2>
 <dl class="simple">
-<dt>REV Grounding Strap</dt><dd><p>The <a class="hxr-hoverxref hxr-tooltip reference internal" href="index.html#term-Grounding-Strap"><span class="xref std std-term">REV Grounding Strap</span></a> is currently the only legal way to ground your robot. Attach the end to the metal part of your robot frame, and plug the <a class="hxr-hoverxref hxr-tooltip reference internal" href="connectors-and-wires.html#term-XT30"><span class="xref std std-term">XT30</span></a> connector end into a free <a class="hxr-hoverxref hxr-tooltip reference internal" href="connectors-and-wires.html#term-XT30"><span class="xref std std-term">XT30</span></a> port on your robot.</p>
+<dt>REV Grounding Strap</dt><dd><p>The <a class="reference internal" href="index.html#term-Grounding-Strap"><span class="xref std std-term">REV Grounding Strap</span></a> is currently the only legal way to ground your robot. Attach the end to the metal part of your robot frame, and plug the <a class="reference internal" href="connectors-and-wires.html#term-XT30"><span class="xref std std-term">XT30</span></a> connector end into a free <a class="reference internal" href="connectors-and-wires.html#term-XT30"><span class="xref std std-term">XT30</span></a> port on your robot.</p>
 </dd>
-<dt>Power distribution blocks/panels</dt><dd><p>The REV Power Distribution Block allows teams to have more than four <a class="hxr-hoverxref hxr-tooltip reference internal" href="connectors-and-wires.html#term-XT30"><span class="xref std std-term">XT30</span></a> connectors (2 on each Expansion Hub). The block can be connected to the Servo Power Module to boost voltage for servos.</p>
+<dt>Power distribution blocks/panels</dt><dd><p>The REV Power Distribution Block allows teams to have more than four <a class="reference internal" href="connectors-and-wires.html#term-XT30"><span class="xref std std-term">XT30</span></a> connectors (2 on each Expansion Hub). The block can be connected to the Servo Power Module to boost voltage for servos.</p>
 </dd>
 <dt>Dryer sheets</dt><dd><p>Dryer sheets can be used to wipe down the robot after every match in order to reduce static buildup. This is not directly recommended by <em>FIRST</em> or any vendor, but our empirical evidence throughout the years suggests that it helps, or at the very least, can’t hurt to do so. However, dryer sheets may or may not be on the boundary of legality, as grounding the robot to the ground is illegal.</p>
 </dd>
@@ -642,16 +639,10 @@
       
     </aside>
   </div>
-</div><script src="../../_static/jquery.js?v=5d32c60e"></script>
-    <script src="../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-    <script src="../../_static/documentation_options.js?v=8dde47fa"></script>
+</div><script src="../../_static/documentation_options.js?v=8dde47fa"></script>
     <script src="../../_static/doctools.js?v=9a2dae69"></script>
     <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="../../_static/scripts/furo.js?v=5fa4622c"></script>
-    <script src="../../_static/js/hoverxref.js"></script>
-    <script src="../../_static/js/tooltipster.bundle.min.js"></script>
-    <script src="../../_static/js/micromodal.min.js"></script>
     <script src="../../_static/design-tabs.js?v=f930bc37"></script>
-    <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     </body>
 </html>

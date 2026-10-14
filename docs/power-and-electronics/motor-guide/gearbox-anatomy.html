@@ -3,7 +3,12 @@
   <head><meta charset="utf-8"/>
     <meta name="viewport" content="width=device-width,initial-scale=1"/>
     <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
-<meta property="og:title" content="Gearbox Internals" />
+    <link rel="icon" type="image/png" href="../../../_static/assets/favicon/favicon-96x96.png" sizes="96x96">
+    <link href="../../../_static/assets/favicon/favicon.svg" rel="icon" type="image/svg+xml">
+    <link rel="icon" type="image/x-icon" href="../../../_static/assets/favicon/favicon-dark.ico" media="(prefers-color-scheme: dark)">
+    <link rel="icon" type="image/x-icon" href="../../../_static/assets/favicon/favicon.ico" media="(prefers-color-scheme: light)">
+    <link rel="apple-touch-icon" sizes="180x180" href="../../../_static/assets/favicon/apple-touch-icon.png" type="image/png">
+    <link rel="manifest" href="../../../_static/assets/favicon/site.webmanifest"><meta property="og:title" content="Gearbox Internals" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="docs/power-and-electronics/motor-guide/gearbox-anatomy.html" />
 <meta property="og:site_name" content="Game Manual 0" />
@@ -15,22 +20,14 @@
 <meta name="theme-color" content="#F47F27" />
 <link rel="index" title="Index" href="../../../genindex.html" /><link rel="search" title="Search" href="../../../search.html" /><link rel="next" title="Motor Wiring And Mounting" href="wiring-mounting-motors.html" /><link rel="prev" title="Choosing a Motor" href="choosing-motor.html" />
 
-    <link rel="shortcut icon" href="../../../_static/gm0-logo.ico"/><!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
+    <!-- Generated with Sphinx 8.0.2 and Furo 2024.08.06 -->
         <title>Gearbox Internals - Game Manual 0</title>
       <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=a746c00c" />
     <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo.css?v=354aac6f" />
     <link rel="stylesheet" type="text/css" href="../../../_static/graphviz.css?v=fd3f3429" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster.custom.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster.bundle.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-shadow.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-punk.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-noir.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-light.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/tooltipster-sideTip-borderless.min.css" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/css/micromodal.css" />
     <link rel="stylesheet" type="text/css" href="../../../_static/sphinx-design.min.css?v=95c83b7e" />
     <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo-extensions.css?v=302659d7" />
-    <link rel="stylesheet" type="text/css" href="../../../_static/custom.css?v=05cda24f" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/custom.css?v=34d6ed87" />
     
     
 
@@ -216,8 +213,8 @@
       <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../index.html">
   
   <div class="sidebar-logo-container">
-    <img class="sidebar-logo only-light" src="../../../_static/assets/gm0-logo.png" alt="Light Logo"/>
-    <img class="sidebar-logo only-dark" src="../../../_static/assets/gm0-logo_white.png" alt="Dark Logo"/>
+    <img class="sidebar-logo only-light" src="../../../_static/assets/gm0-logo.svg" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../_static/assets/gm0-logo_white.svg" alt="Dark Logo"/>
   </div>
   
   
@@ -384,7 +381,7 @@
 <li class="toctree-l1 has-children"><a class="reference internal" href="../../awards/index.html">Awards</a><input class="toctree-checkbox" id="toctree-checkbox-21" name="toctree-checkbox-21" role="switch" type="checkbox"/><label for="toctree-checkbox-21"><div class="visually-hidden">Toggle navigation of Awards</div><i class="icon"><svg><use href="#svg-arrow-right"></use></svg></i></label><ul>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/award-types.html">Types of Awards</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/portfolio.html">Engineering Portfolio</a></li>
-<li class="toctree-l2"><a class="reference internal" href="../../awards/judging-presentation.html">The Judging Process and Presentation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../../awards/judging-presentation.html">Preparing for the Judging Interview</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../../awards/notebook.html">Notebook Designs and Decisions</a></li>
 </ul>
 </li>
@@ -444,18 +441,18 @@
         <article role="main" id="furo-main-content">
           <section id="gearbox-internals">
 <h1>Gearbox Internals<a class="headerlink" href="#gearbox-internals" title="Link to this heading">¶</a></h1>
-<p>Fundamentally, a gearbox is just a collection of gears and an enclosure that connects them. Gearboxes have an <strong>output ratio</strong>, the final Gear Reduction between the motor input and the final output <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../hardware-components/kit-and-hardware-guide/kit-glossary.html#term-Shaft"><span class="xref std std-term">shaft</span></a>.</p>
+<p>Fundamentally, a gearbox is just a collection of gears and an enclosure that connects them. Gearboxes have an <strong>output ratio</strong>, the final Gear Reduction between the motor input and the final output <a class="reference internal" href="../../hardware-components/kit-and-hardware-guide/kit-glossary.html#term-Shaft"><span class="xref std std-term">shaft</span></a>.</p>
 <div class="admonition-term admonition">
 <p class="admonition-title">Term</p>
 <dl class="glossary">
-<dt id="term-Gear-Reduction">Gear Reduction<a class="headerlink" href="#term-Gear-Reduction" title="Link to this term">¶</a></dt><dd><p>Also known as a gear ratio. In any rotational power transmission system (typically involving motors and <a class="hxr-hoverxref hxr-tooltip reference internal" href="../servo-guide/index.html#term-Servo"><span class="xref std std-term">servos</span></a> in FTC®), a gear ratio defines both the number of rotations of the system’s input and the number of rotations of the output.</p>
-<p>For instance, a NeveRest 20 gearmotor consists of an unmodified <a class="hxr-hoverxref hxr-tooltip reference internal" href="motor-glossary.html#term-NeveRest-Motor"><span class="xref std std-term">NeveRest Motor</span></a> and a planetary gearbox that has a gear ratio of 20:1 (or, when spoken, “20 to 1”). This means that in order for the output shaft of the gearbox to rotate 1 time, the input shaft of the motor must rotate 20 times. Gear ratios are one of the most important design considerations about a power transmission component.</p>
-<p>Any FTC motor or servo has two properties: speed and torque (or rotational force). These two properties are inversely proportional, meaning that increasing speed decreases torque, and vice versa. For instance, if one wishes to make a mechanism faster at the expense of torque by doubling the speed of that 20:1 gearbox, they would decrease the gear ratio by a factor of 2. Since 20 divided by 2 is 10, the new desired ratio would be 10:1 (this is referred to as gearing up). However, if one wishes to double torque instead, making the system more powerful and robust at the expense of speed, they would increase the gear ratio by a factor of 2, leaving them with a 40:1 ratio (this is referred to as gearing down).</p>
+<dt id="term-Gear-Reduction">Gear Reduction<a class="headerlink" href="#term-Gear-Reduction" title="Link to this term">¶</a></dt><dd><p>Also known as a gear ratio. In any rotational power transmission system (typically involving motors and <a class="reference internal" href="../servo-guide/index.html#term-Servo"><span class="xref std std-term">servos</span></a> in FTC®), a gear ratio defines both the number of rotations of the system’s input and the number of rotations of the output.</p>
+<p>For instance, a NeveRest 20 gearmotor consists of an unmodified <a class="reference internal" href="motor-glossary.html#term-NeveRest-Motor"><span class="xref std std-term">NeveRest Motor</span></a> and a planetary gearbox that has a gear ratio of 20:1 (or, when spoken, “20 to 1”). This means that in order for the output shaft of the gearbox to rotate 1 time, the input shaft of the motor must rotate 20 times. Gear ratios are one of the most important design considerations about a power transmission component.</p>
+<p>Any motor or servo has two properties: speed and torque (or rotational force). These two properties are inversely proportional, meaning that increasing speed decreases torque, and vice versa. For instance, if one wishes to make a mechanism faster at the expense of torque by doubling the speed of that 20:1 gearbox, they would decrease the gear ratio by a factor of 2. Since 20 divided by 2 is 10, the new desired ratio would be 10:1 (this is referred to as gearing up). However, if one wishes to double torque instead, making the system more powerful and robust at the expense of speed, they would increase the gear ratio by a factor of 2, leaving them with a 40:1 ratio (this is referred to as gearing down).</p>
 <p>The most common ways of gearing up or down are using gearboxes, gears, sprockets and belt-driven pulleys, all of which exist in various sizes.</p>
 </dd>
 </dl>
 </div>
-<p>In FTC, gearboxes may be more common than you think - every motor has a gearbox attached to it. These gearboxes are one of the following two types: spur or planetary. Below we give a detailed analysis of each of these gearbox types. <strong>Just for clarification, the gearboxes below are separate from the base motor.</strong></p>
+<p>In FTC, gearboxes may be more common than you think. Nearly every motor and servo has a gearbox attached or built-in to it. These gearboxes are either spur or planetary.</p>
 <section id="spur-gearboxes">
 <h2>Spur Gearboxes<a class="headerlink" href="#spur-gearboxes" title="Link to this heading">¶</a></h2>
 <div class="admonition-term admonition">
@@ -465,7 +462,7 @@
 </dd>
 </dl>
 </div>
-<p>Spur gearboxes are an arrangement of <a class="hxr-hoverxref hxr-tooltip reference internal" href="#term-Gear-Reduction"><span class="xref std std-term">gear ratios</span></a>, often stacked to achieve a large compound ratio (e.g. 40:1). Each individual ratio only has two <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a>- one may be 8:1, another may be 5:1, but the final ratio will be 40:1. These gearboxes are used in the Andymark NeveRest Classic series and goBILDA’s 5201 series motors, as well as <a class="hxr-hoverxref hxr-tooltip reference internal" href="motor-glossary.html#term-HD-Hex-Motor"><span class="xref std std-term">REV HD Hex Motors</span></a>. Due to the nature of how these gearboxes are built, each reduction only has a few teeth from each <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gear</span></a> engaged, and those teeth carry the entire load of the gearbox. It’s easy to damage a spur gearbox from shock load, and if one <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gear</span></a> breaks, the entire gearbox will stop functioning.</p>
+<p>Spur gearboxes are an arrangement of <a class="reference internal" href="#term-Gear-Reduction"><span class="xref std std-term">gear ratios</span></a>, often stacked to achieve a large compound ratio (e.g. 40:1). Each individual ratio only has two <a class="reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gears</span></a>- one may be 8:1, another may be 5:1, but the final ratio will be 40:1. These gearboxes are used in the AndyMark NeveRest Classic series and goBILDA’s 5201 series motors, as well as <a class="reference internal" href="motor-glossary.html#term-HD-Hex-Motor"><span class="xref std std-term">REV HD Hex Motors</span></a>. Due to the nature of how these gearboxes are built, each reduction only has a few teeth from each <a class="reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gear</span></a> engaged, and those teeth carry the entire load of the gearbox. It’s easy to damage a spur gearbox from shock load, and if one <a class="reference internal" href="../../common-mechanisms/power-transmission/gears.html#term-Gear"><span class="xref std std-term">gear</span></a> breaks, the entire gearbox will stop functioning.</p>
 <div class="admonition tip">
 <p class="admonition-title">Tip</p>
 <p>Using spur gearboxes on high-load applications such as drivetrains or arms is not recommended. Instead, use planetary gearboxes.</p>
@@ -473,12 +470,16 @@
 <figure class="align-default" id="id1">
 <a class="reference internal image-reference" href="../../../_images/spur-gearbox.jpg"><img alt="An example spur gearbox" class="align-center" src="../../../_images/spur-gearbox.jpg" style="width: 25em;" /></a>
 <figcaption>
-<p><span class="caption-text">Example of a spur gearbox. Note how all gears mesh with only one other gear.</span><a class="headerlink" href="#id1" title="Link to this image">¶</a></p>
+<p><span class="caption-text">Example of a spur gearbox inside a servo. Note how all gears mesh with only one other gear.</span><a class="headerlink" href="#id1" title="Link to this image">¶</a></p>
 </figcaption>
 </figure>
 <section id="advantages-of-spur-gearboxes">
 <h3>Advantages of Spur Gearboxes<a class="headerlink" href="#advantages-of-spur-gearboxes" title="Link to this heading">¶</a></h3>
-<p>Generally, spur gearboxes are cheaper than planetary gearboxes. However, in FTC that price change is often minimal. A 20:1 planetary gearbox from REV is only $4 more than a spur 20:1</p>
+<div class="admonition danger">
+<p class="admonition-title">Danger</p>
+<p>Spur gearboxes are NOT recommended for motors due to their shorter lifespan and lower mechanical resilience compared to planetary gearboxes. If you are purchasing new motors, it is highly suggested to purchase planetary gearbox motors instead. Care should be taken to not put load on the output shaft of a spur gearbox. In particular, spur gear motors should NOT be used in high load applications, such as a drivetrain.</p>
+</div>
+<p>Generally, spur gearboxes are cheaper than planetary gearboxes. However, in FTC that price change is often minimal. An HD Hex Motor + UltraPlanetary gearbox kit from REV is only ~$10 more than an HD Hex Motor + Spur gearbox, and offers significantly more flexibility/customizability.</p>
 <p>Spur gearboxes from different vendors are not interchangeable. However, they are comparable and practically indistinguishable in performance. The main thing to consider here is your <strong>desired reduction, your desired motor connections, and your desired output shaft type</strong>.</p>
 </section>
 </section>
@@ -492,7 +493,7 @@
 </dd>
 </dl>
 </div>
-<p>Planetary gearboxes are used in the Andymark Orbital series, some REV HD Hex Planetary and UltraPlanetary Motors and goBILDA’s wide selection of <a class="hxr-hoverxref hxr-tooltip reference internal" href="motor-glossary.html#term-Yellow-Jacket-Motor"><span class="xref std std-term">planetary gear motors</span></a>. Additionally, AndyMark sells a few aftermarket planetary gearboxes called NeveRest Sport and 57 Sport. As you can see from the graphic below, there are more teeth meshing per stage than in the spur gearbox.</p>
+<p>Planetary gearboxes are used in the AndyMark NeveRest Orbital and Hex gearmotors, REV HD Hex UltraPlanetary motors, and goBILDA’s wide selection of <a class="reference internal" href="motor-glossary.html#term-Yellow-Jacket-Motor"><span class="xref std std-term">Yellow Jacket planetary gear motors</span></a>. As you can see from the graphic below, there are more teeth meshing per stage than in the spur gearbox.</p>
 <figure class="align-default" id="id2">
 <a class="reference internal image-reference" href="../../../_images/planetary-gearbox.png"><img alt="A planetary gearbox diagram" class="align-center" src="../../../_images/planetary-gearbox.png" style="width: 25em;" /></a>
 <figcaption>
@@ -502,7 +503,7 @@
 <section id="advantages-of-planetary-gearboxes">
 <h3>Advantages of Planetary Gearboxes<a class="headerlink" href="#advantages-of-planetary-gearboxes" title="Link to this heading">¶</a></h3>
 <ul>
-<li><p>Backlash is lower than spur gearbox equivalents. Backlash is defined as the clearance or lost motion caused by gaps between parts. This can easily be explained through putting a wheel or gear on a motor shaft and lightly rotating it. The part should be able to wiggle around a little without having considerable force imparted on it. This is caused because it is impossible for the gear teeth inside the gearbox to mesh perfectly, and is the same for <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/chain.html#term-Chain"><span class="xref std std-term">chain</span></a> and <a class="hxr-hoverxref hxr-tooltip reference internal" href="../../common-mechanisms/power-transmission/power-transmission-glossary.html#term-Sprocket"><span class="xref std std-term">sprockets</span></a>, or any other form of power transmission. However, planetary gearboxes have less backlash as they have less stages of gears.</p></li>
+<li><p>Backlash is lower than spur gearbox equivalents. Backlash is defined as the clearance or lost motion caused by gaps between parts. This can easily be explained through putting a wheel or gear on a motor shaft and lightly rotating it. The part should be able to wiggle around a little without having considerable force imparted on it. This is caused because it is impossible for the gear teeth inside the gearbox to mesh perfectly, and is the same for <a class="reference internal" href="../../common-mechanisms/power-transmission/chain.html#term-Chain"><span class="xref std std-term">chain</span></a> and <a class="reference internal" href="../../common-mechanisms/power-transmission/power-transmission-glossary.html#term-Sprocket"><span class="xref std std-term">sprockets</span></a>, or any other form of power transmission. However, planetary gearboxes have less backlash as they have less stages of gears.</p></li>
 <li><p>Efficiency is better than spur gearboxes. A typical two-stage spur gearbox is about 85% efficient, whereas most two stage planetary gearboxes are 94% efficient.</p></li>
 <li><p>Load capacity is higher for planetary gearboxes. This is due to having multiple teeth engaged per stage, which spreads the load.</p>
 <div class="admonition tip">
@@ -590,16 +591,10 @@
       
     </aside>
   </div>
-</div><script src="../../../_static/jquery.js?v=5d32c60e"></script>
-    <script src="../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
-    <script src="../../../_static/documentation_options.js?v=8dde47fa"></script>
+</div><script src="../../../_static/documentation_options.js?v=8dde47fa"></script>
     <script src="../../../_static/doctools.js?v=9a2dae69"></script>
     <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
     <script src="../../../_static/scripts/furo.js?v=5fa4622c"></script>
-    <script src="../../../_static/js/hoverxref.js"></script>
-    <script src="../../../_static/js/tooltipster.bundle.min.js"></script>
-    <script src="../../../_static/js/micromodal.min.js"></script>
     <script src="../../../_static/design-tabs.js?v=f930bc37"></script>
-    <script async="async" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     </body>
 </html>
